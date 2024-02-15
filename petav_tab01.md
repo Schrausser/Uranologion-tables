@@ -76,4 +76,4 @@ Venus		667,38		2541,15
 Mercur		244,92		1206,40
 ~~~
 
-Interestingly, one gets (1) the proportions of the *Earth* and ***Moon*** (c.f. Williams, 2024) and (2) correspond the boundaries of the northernmost circle, *Saturno*, with an *arc lenght* of c. $a_l=4000 km$ and latitude of $\phi=54° N$  to the boundaries of the glaciation at the end of the *Holocene* in Europe, around 11700 years ago or c. 9700 BC (c.f. Walker et al., 2009).
+Interestingly, one gets (1) the proportions of the *Earth* and ***Moon*** (c.f. Williams, 2024) and (2) correspond the boundaries of the northernmost circle, *Saturno*, with an *arc length* of c. $a_l=4000 km$ and latitude of $\phi=54° N$  to the boundaries of the glaciation at the end of the *Holocene* in Europe, around 11700 years ago or c. 9700 BC (c.f. Walker et al., 2009).
