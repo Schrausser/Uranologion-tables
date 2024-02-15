@@ -11,7 +11,7 @@ Hiemalis	Venus		quinque				21000
 Australis	Mercur		quinque				25200
 Colliguntur			30				126000
 ~~~
-
+Scrupula $sc$ to stades $st$, with $st=sc×1200$, stades to $a_l$ in $km$, where $km=st×0.1575$ (itinerary stades), circumference $C$, with $C=sum×2$ and radius $R$, with $R=\frac{C}{2\pi}$.
 				
 
 
