@@ -1,12 +1,12 @@
 # petav01
 ## AD ARATI PHAENOMENA
 
->"Archillis Tatii Isagoge ad Arati phaenomena, liber falso Eratostheni tribuitur." (Petavius, 1630, p. ).
+>"Achillis Tatii Isagoge ad Arati phaenomena, liber falso Eratostheni tribuitur." (Petavius, 1630, index).
 
->*Archilles Tatius'* Introduction to the Phenomena of Aratus. The book is *incorrectly* attributed to *Eratosthenes*.
+>*Achilles Tatius'* Introduction to the Phenomena of Aratus. The book is *incorrectly* attributed to *Eratosthenes*.
 
 >"ERATOSTHENIS, ALIAS HIPPARCHI
-(Pseudepigraphus hic libellus. Nam neutrius est), AD ARATI PHAENOMENA.", (Petavius, 1630, p. ).
+(Pseudepigraphus hic libellus. Nam neutrius est), AD ARATI PHAENOMENA.", (Petavius, 1630, p. 256).
 >
 >ERATOSTHENES,
 ALIAS HIPPARCH (This book is by *neither* of them), ON THE PHENOMENA OF *ARATUS*.
