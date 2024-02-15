@@ -45,5 +45,5 @@ sum				126000		19845,0
 Circumference C			252000		39690,0	
 Radius R			40107		6316,9
 ~~~
-
+Arcs $\alpha°$ and latitudes $\phi$, with $\alpha°=\frac{a_l×360}{2×r×\pi}$
 
