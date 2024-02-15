@@ -11,7 +11,7 @@ For the author, *Achilles Tatius* (3rd c.) c.f. Oxford Reference (2024).
 (Pseudepigraphus hic libellus. Nam neutrius est), AD ARATI PHAENOMENA.", (Petavius, 1630, p. 256).
 >
 >ERATOSTHENES,
-ALIAS HIPPARCH (This book is by *neither* of them), ON THE PHENOMENA OF ARATUS.
+ALIAS HIPPARCH (This book is by *neither* of *them*), ON THE PHENOMENA OF ARATUS.
 
 >De Zonis. PArallelis circulis zonae quinque subjecte sunt : Borealis, quae tota supra terram eminnens est, inhabitabilis, alsiosa, Saturno dicata [...] AEstiua, cuius maior pars supra finitorem extollitur. Temperata in qua regio nostra sita est ; attributa Ioui [...] AEquinoctialis aequalem supra, infráque horizontem obtinens partem ; inhabitabilis est, exusta, Martis propria [...] hic enim tam ipsam, quàm totam sphaeram mediam diuidit [...] Hiemalis contra atque aestius maiore sui parte sub horizonte latet ; habitabilis ; temperara ; dicata Veneri [...] Australis, quae tota delitescit, inhabitabilis, frigida, ad Mercurium pertinens [...] Colliguntur ambitus terrae supra finitorem, scrupula 30 ; stadiorum verò 126000." (Petavius, 1630, p. 266).
 
