@@ -18,7 +18,7 @@ ALIAS HIPPARCH (This book is by *neither* of *them*), ON THE PHENOMENA OF ARATUS
 See tables.
 
 ## References
-Oxford Reference. (2024). Achilles Tatius. https://doi.org/10.1093/oi/authority.20110803095347168.
+Oxford Reference. (2024). Achilles Tatius. https://www.oxfordreference.com/display/10.1093/oi/authority.20110803095347168.
 
 Petavius, D. (1630). *VRANOLOGION sive systema variorvm authorvm. qvi de sphaera, ac sideribvs, eorvmove motibvs Graece commentati sunt*. LVTETIAE PARISIORVM: Sumptibus Sebastiani Cramoisy, via Iacobaea, sub Ciconiis. M. DC. XXX. CVM PRIVILEGIO REGIS CHRISTIANISS. https://doi.org/10.3931/e-rara-2004.
 
