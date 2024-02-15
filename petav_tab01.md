@@ -11,6 +11,7 @@ Hiemalis	Venus		quinque				21000
 Australis	Mercur		quinque				25200
 Colliguntur			30				126000
 ~~~
+
 Scrupula $sc$ to stades $st$, with $st=sc×1200$, stades to $a_l$ in $km$, where $km=st×0.1575$ (itinerary stades), circumference $C$, with $C=sum×2$ and radius $R$, with $R=\frac{C}{2\pi}$.
 ~~~
 							al	
@@ -44,9 +45,10 @@ sum				126000		19845,0
 Circumference C			252000		39690,0	
 Radius R			40107		6316,9
 ~~~
+
 Arcs $\alpha°$ and latitudes $\phi$, with $\alpha°=\frac{a_l×360}{2×r×\pi}$
 ~~~
-latitude phi		
+							latitude phi		
 				a°	a° cum		from		to	
 
 Scrupula	Saturn		40,14	40,14		90,00 N		49,86 N
@@ -61,4 +63,17 @@ Stadia		Saturn		36,00	36,00		90,00 N		54,00 N
 		Venus		30,00	144,00		24,00 S		54,00 S
 		Mercur		36,00	180,00		54,00 S		90,00 S
 ~~~
+
+Zone height $h$ in $km$, with $h_n=r×sin\alpha - h_{n-1}$.
+~~~
+		km	
+		sc		st
+
+Saturn		419,32		1206,42
+Jupiter		768,19		2541,15
+Mars		1461,70		5138,60
+Venus		667,38		2541,15
+Mercur		244,92		1206,40
+~~~
+
 
