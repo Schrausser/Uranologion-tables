@@ -13,7 +13,6 @@ Colliguntur			30				126000
 ~~~
 Scrupula $sc$ to stades $st$, with $st=sc×1200$, stades to $a_l$ in $km$, where $km=st×0.1575$ (itinerary stades), circumference $C$, with $C=sum×2$ and radius $R$, with $R=\frac{C}{2\pi}$.
 ~~~
-
 							al	
 				sc	st*		km	cum km
 
@@ -46,4 +45,20 @@ Circumference C			252000		39690,0
 Radius R			40107		6316,9
 ~~~
 Arcs $\alpha°$ and latitudes $\phi$, with $\alpha°=\frac{a_l×360}{2×r×\pi}$
+~~~
+latitude phi		
+				a°	a° cum		from		to	
+
+Scrupula	Saturn		40,14	40,14		90,00 N		49,86 N
+		Jupiter		30,41	70,54		49,86 N		19,46 N
+		Mars		48,65	119,19		19,46 N		29,19 S
+		Venus		30,41	149,59		29,19 S		59,59 S
+		Mercur		30,41	180,00		59,59 S		90,00 S
+
+Stadia		Saturn		36,00	36,00		90,00 N		54,00 N
+		Jupiter		30,00	66,00		54,00 N		24,00 N
+		Mars		48,00	114,00		24,00 N		24,00 S
+		Venus		30,00	144,00		24,00 S		54,00 S
+		Mercur		36,00	180,00		54,00 S		90,00 S
+~~~
 
