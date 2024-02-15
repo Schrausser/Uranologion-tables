@@ -30,6 +30,20 @@ Radius R			9,4	11306,4		1780,8
 ~~~
 *) "Nam scrupulo cuique stadia competunt 1200", (Petavius, 1630, p. 266), for each scruple is 1200 stades.
 
-				
+Stades $st$ to $a_l$ in $km$, where $km=st×0.1575$ (itinerary stades), circumference $C$, with $C=sum×2$ and radius $R$, with $R=\frac{C}{2\pi}$.				
+~~~
+						al	
+				st		km		cum km
+Borealis	Saturn		25200		3969,0		3969,0
+Aestivs		Jupiter		21000		3307,5		7276,5
+Aequinoctialis	Mars		33600		5292,0		12568,5
+Hiemalis	Venus		21000		3307,5		15876,0
+Australis	Mercur		25200		3969,0		19845,0
+Colliguntur			126000		19845,0	
+
+sum				126000		19845,0	
+Circumference C			252000		39690,0	
+Radius R			40107		6316,9
+~~~
 
 
