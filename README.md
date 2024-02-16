@@ -1,4 +1,4 @@
-# petav01
+# Uranologion-tables
 ## AD ARATI PHAENOMENA
 
 >"Achillis Tatii Isagoge ad Arati phaenomena, liber falso Eratostheni tribuitur." (Petavius, 1630, index).
@@ -18,6 +18,9 @@ ALIAS HIPPARCH (This book is by *neither* of *them*), ON THE PHENOMENA OF ARATUS
 It should be noted that here the names of the *planets* are assigned to the *zones*.
 For implications of the descriptions of the *arc lengths* $a_l$ in *scruples* $sc$ and *stades* $st$ see `petav_tab01.md`, Walker et al., (2009) and Williams (2024).
 
+## S. MAXIMI COMPUTI
+
+See `petav_tab02.md`, `petav_tab03.md`
 
 ## References
 Oxford Reference. (2024). Achilles Tatius. https://www.oxfordreference.com/display/10.1093/oi/authority.20110803095347168.
