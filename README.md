@@ -2,21 +2,21 @@
 
 Tables on the *Phenomena of Aratus* (e.g. Aratus & Hyginus, 1569) and the chronology of Maximus (c.f. Schissel, 1934) from the transscription and latin translation in the famous *Uranologion* by Denis Pétau or Dionysius Petavius (1630):
 
-### AD ARATI PHAENOMENA
+### AD ARATI PHÆNOMENA
 
->"Achillis Tatii Isagoge ad Arati phaenomena, liber falso Eratostheni tribuitur." (Petavius, 1630, index).
+>"Achillis Tatii Isagoge ad Arati phænomena, liber falso Eratostheni tribuitur." (Petavius, 1630, index).
 
 >Achilles Tatius' Introduction to the Phenomena of Aratus. The book is *incorrectly* attributed to *Eratosthenes*.
 
 For the author, *Achilles Tatius* (3rd c.) c.f. Oxford Reference (2024).
 
 >"ERATOSTHENIS, ALIAS HIPPARCHI
-(Pseudepigraphus hic libellus. Nam neutrius est), AD ARATI PHAENOMENA.", (Petavius, 1630, p. 256).
+(Pseudepigraphus hic libellus. Nam neutrius est), AD ARATI PHÆNOMENA.", (Petavius, 1630, p. 256).
 >
 >ERATOSTHENES,
 ALIAS HIPPARCH (This book is by *neither* of *them*), ON THE PHENOMENA OF ARATUS.
 
->De Zonis. PArallelis circulis zonae quinque subjecte sunt : Borealis, quae tota supra terram eminnens est, inhabitabilis, alsiosa, Saturno dicata [...] AEstiua, cuius maior pars supra finitorem extollitur. Temperata in qua regio nostra sita est ; attributa Ioui [...] AEquinoctialis aequalem supra, infráque horizontem obtinens partem ; inhabitabilis est, exusta, Martis propria [...] hic enim tam ipsam, quàm totam sphaeram mediam diuidit [...] Hiemalis contra atque aestius maiore sui parte sub horizonte latet ; habitabilis ; temperara ; dicata Veneri [...] Australis, quae tota delitescit, inhabitabilis, frigida, ad Mercurium pertinens [...] Colliguntur ambitus terrae supra finitorem, scrupula 30 ; stadiorum verò 126000." (Petavius, 1630, p. 266).
+>De Zonis. PArallelis circulis zonaæ quinque subjectæ sunt : Borealis, quæ tota supra terram eminnens est, inhabitabilis, alsiosa, Saturno dicata [...] Æstiua, cuius maior pars supra finitorem extollitur. Temperata in qua regio nostra sita est ; attributa Ioui [...] Æquinoctialis æqualem supra, infráque horizontem obtinens partem ; inhabitabilis est, exusta, Martis propria [...] hic enim tam ipsam, quàm totam sphæram mediam diuidit [...] Hiemalis contra atque æstius maiore sui parte sub horizonte latet ; habitabilis ; temperara ; dicata Veneri [...] Australis, quæ tota delitescit, inhabitabilis, frigida, ad Mercurium pertinens [...] Colliguntur ambitus terræ supra finitorem, scrupula 30 ; stadiorum verò 126000." (Petavius, 1630, p. 266).
 
 It should be noted that here the names of the *planets* are assigned to the *zones*.
 For implications of the descriptions of the *arc lengths* $a_l$ in *scruples* $sc$ and *stades* $st$ see `petav_tab01.md`, Walker et al., (2009) and Williams (2024).
