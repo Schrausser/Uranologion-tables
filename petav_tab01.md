@@ -36,6 +36,7 @@ Stades $st$ to $a_l$ in $km$, where $km=st×0.1575$ (itinerary stades), circumfe
 ~~~
 						al	
 				st		km		cum km
+
 Borealis	Saturn		25200		3969,0		3969,0
 Aestius		Jupiter		21000		3307,5		7276,5
 Aequinoctialis	Mars		33600		5292,0		12568,5
