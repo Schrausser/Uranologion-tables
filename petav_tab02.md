@@ -1,5 +1,5 @@
 # petav_tab02.md
-De sex millenariis quado singuli, & in quo definant (Petavius, 1630, p. 355).
+De sex millenariis quado singuli, & in quo definant (Petavius, 1630, p. 355), about each of the six millennia and their definition.
 ~~~					
 		In anno				JdW		AD
 
@@ -10,9 +10,9 @@ IV		Aoth		23		4023	4000	-1477
 V		Cyri Persae	31		5031	5000	-469
 VI		Anastasii	17		6017	6000	517
 ~~~
-¹) Constructio turris Babylonis incipit.
+¹) Constructio turris Babylonis incipit, the construction of the tower of Babylon begins.
 
-De periodis XI, quarum singuli annis constat DXXXII: quado & ubi unaquaeque definat (Petavius, 1630, p. 355).	
+De periodis XI, quarum singuli annis constat DXXXII: quado & ubi unaquaeque definat (Petavius, 1630, p. 355), of the 11 periods, each consisting of 832 years, how and where each is defined.	
 ~~~				
 		In anno				JdW		AD
 
