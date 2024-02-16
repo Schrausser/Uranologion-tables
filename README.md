@@ -20,12 +20,16 @@ For implications of the descriptions of the *arc lengths* $a_l$ in *scruples* $s
 
 ## S. MAXIMI COMPUTI
 
-See `petav_tab02.md`, `petav_tab03.md`
+See `petav_tab02.md`, `petav_tab03.md`, Maximus (fol. 240r-241r) and Schissel (1934, p. 270).
 
 ## References
+Maximus. Vat.gr.505 ed. Vatican: Biblioteca Apostolica Vaticana. https://digi.vatlib.it/view/MSS_Vat.gr.505.
+
 Oxford Reference. (2024). Achilles Tatius. https://www.oxfordreference.com/display/10.1093/oi/authority.20110803095347168.
 
 Petavius, D. (1630). *VRANOLOGION sive systema variorvm authorvm. qvi de sphaera, ac sideribvs, eorvmove motibvs Graece commentati sunt*. LVTETIAE PARISIORVM: Sumptibus Sebastiani Cramoisy, via Iacobaea, sub Ciconiis. M. DC. XXX. CVM PRIVILEGIO REGIS CHRISTIANISS. https://doi.org/10.3931/e-rara-2004.
+
+Schissel, O. (1934). NOTE SUR UN CATALOGUS CODICUM CHRONOLOGORUM GRAECORUM. *Byzantion 9* (1): 269–95. http://www.jstor.org/stable/44168086.
 
 Walker, M., Johnsen, S., Rasmussen, S. O., Popp, T., Steffensen, J. -P., Gibbard, P., Hoek, W., Lowe, J., Andrews, J., Björck, S., Cwynar, L. C., Hughen, K., Kershaw, P., Kromer, B., Litt, T., Lowe, D. J., Nakagawa, T., Newnham, R., & Schwander, J. (2009). Formal Definition and Dating of the GSSP (Global Stratotype Section and Point) for the Base of the Holocene Using the Greenland NGRIP Ice Core, and Selected Auxiliary Records. *Journal of Quaternary Science 24* (1): 3–17. https://doi.org/10.1002/jqs.1227.
 
