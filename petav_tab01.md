@@ -1,3 +1,5 @@
+# petav_tab01.md
+
 De Zonis (Petavius, 1630, p. 266).				
 
 Circuli in *arc length* $a_l$, resulting in half the circumference $\frac{C}{2}$, given in *scrupula* $sc$, *patens* $pt$ and *stadia* $st$.
