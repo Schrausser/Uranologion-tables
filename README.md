@@ -1,6 +1,6 @@
 # Uranologion-tables
 
-Tables on the *Phenomena of Aratus* () and the chronology of Maximus from the transscription and latin translation in the famous *Uranologion* by Denis Pétau or Dionysius Petavius (1630):
+Tables on the *Phenomena of Aratus* (e.g. Aratus & Hyginus, 1569) and the chronology of Maximus (c.f. Schissel, 1934) from the transscription and latin translation in the famous *Uranologion* by Denis Pétau or Dionysius Petavius (1630):
 
 ### AD ARATI PHAENOMENA
 
@@ -26,6 +26,8 @@ For implications of the descriptions of the *arc lengths* $a_l$ in *scruples* $s
 See `petav_tab02.md`, `petav_tab03.md`, Maximus (n.d., fol. 240r-241r) and Schissel (1934, p. 270).
 
 ## References
+Aratus, & Hyginus, G. I. (1569). *Arati Solensis Phaenomena Et Prognostica Interpretibus m. Tullio Cicerone, Rufo Festo Avieno, Germanico Caesare, Una Cum Ejus Commentariis: ; c. Julii Hygini Astronomicon*. 1st ed. Coloniae Agrippinae: Apud Theodorum Graminaeum. https://doi.org/10.3931/e-rara-53915.
+
 Maximus. (n.d.). Vat.gr.505 ed. Vatican: Biblioteca Apostolica Vaticana. https://digi.vatlib.it/view/MSS_Vat.gr.505.
 
 Oxford Reference. (2024). Achilles Tatius. https://www.oxfordreference.com/display/10.1093/oi/authority.20110803095347168.
