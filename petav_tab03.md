@@ -188,5 +188,8 @@ XI		32	5828	5829			6102	328	3421	Constantinus
 		1					6676			Alexander & Constantinus
 		7					6683			Constantinus
 										Constantinus & Romanus
-
 ~~~
+## References
+
+Petavius, D. (1630). *VRANOLOGION sive systema variorvm authorvm. qvi de sphaera, ac sideribvs, eorvmove motibvs Graece commentati sunt*. LVTETIAE PARISIORVM: Sumptibus Sebastiani Cramoisy, via Iacobaea, sub Ciconiis. M. DC. XXX. CVM PRIVILEGIO REGIS CHRISTIANISS. https://doi.org/10.3931/e-rara-2004.
+
