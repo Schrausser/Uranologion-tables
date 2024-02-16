@@ -20,10 +20,10 @@ For implications of the descriptions of the *arc lengths* $a_l$ in *scruples* $s
 
 ## S. MAXIMI COMPUTI
 
-See `petav_tab02.md`, `petav_tab03.md`, Maximus (fol. 240r-241r) and Schissel (1934, p. 270).
+See `petav_tab02.md`, `petav_tab03.md`, Maximus (n.d., fol. 240r-241r) and Schissel (1934, p. 270).
 
 ## References
-Maximus. Vat.gr.505 ed. Vatican: Biblioteca Apostolica Vaticana. https://digi.vatlib.it/view/MSS_Vat.gr.505.
+Maximus. (n.d.). Vat.gr.505 ed. Vatican: Biblioteca Apostolica Vaticana. https://digi.vatlib.it/view/MSS_Vat.gr.505.
 
 Oxford Reference. (2024). Achilles Tatius. https://www.oxfordreference.com/display/10.1093/oi/authority.20110803095347168.
 
