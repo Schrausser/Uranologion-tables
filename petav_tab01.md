@@ -67,7 +67,7 @@ Stadia		Saturn		36,00	36,00		90,00 N		54,00 N
 		Mercury		36,00	180,00		54,00 S		90,00 S
 ~~~
 
-Zone height $h$ in $km$, with $h_n=r⋅sin \alpha - h_{[n-1]}$.
+Zone height $h$ in $km$, with $h_n=r⋅ sin \alpha - h_{[n-1]}$.
 ~~~
 		km	
 		sc		st
