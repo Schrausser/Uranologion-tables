@@ -14,7 +14,7 @@ Australis	Mercury		quinque				25200
 Colliguntur			30				126000
 ~~~
 
-Scrupula $sc$ to stades $st$, with $st=sc×1200$, stades to $a_l$ in $km$, where $km=st×0.1575$ (itinerary stades), circumference $C$, with $C=sum×2$ and radius $R$, with $R=\frac{C}{2\pi}$.
+Scrupula $sc$ to stades $st$, with $st=sc⋅1200$, stades to $a_l$ in $km$, where $km=st⋅0.1575$ (itinerary stades), circumference $C$, with $C=sum⋅2$ and radius $R$, with $R=\frac{C}{2\pi}$.
 ~~~
 							al	
 				sc	st¹		km	cum km
@@ -30,9 +30,9 @@ sum				29,6	35520,0		5594,4
 Circumference C			59,2	71040,0		11188,8	
 Radius R			9,4	11306,4		1780,8	
 ~~~
-¹) "Nam scrupulo cuique stadia competunt 1200", (Petavius, 1630, p. 266), for each scruple is 1200 stades.
+¹) "Nam scrupulo cuique stadia competunt 1200.", (Petavius, 1630, p. 266), for each scruple is 1200 stades.
 
-Stades $st$ to $a_l$ in $km$, where $km=st×0.1575$ (itinerary stades), circumference $C$, with $C=sum×2$ and radius $R$, with $R=\frac{C}{2\pi}$.				
+Stades $st$ to $a_l$ in $km$, where $km=st⋅0.1575$ (itinerary stades), circumference $C$, with $C=sum⋅2$ and radius $R$, with $R=\frac{C}{2\pi}$.				
 ~~~
 						al	
 				st		km		cum km
@@ -49,7 +49,7 @@ Circumference C			252000		39690,0
 Radius R			40107		6316,9
 ~~~
 
-Arcs $\alpha°$ and latitudes $\phi$, with $\alpha°=\frac{a_l×360}{2×r×\pi}$
+Arcs $\alpha°$ and latitudes $\phi$, with $\alpha°=\frac{a_l⋅360}{2⋅r⋅\pi}$.
 ~~~
 							latitude phi		
 				a°	a° cum		from		to	
@@ -67,7 +67,7 @@ Stadia		Saturn		36,00	36,00		90,00 N		54,00 N
 		Mercury		36,00	180,00		54,00 S		90,00 S
 ~~~
 
-Zone height $h$ in $km$, with $h_n=r×sin\alpha - h_{n-1}$.
+Zone height $h$ in $km$, with $h_n=r⋅sin \alpha - h_{[n-1]}$.
 ~~~
 		km	
 		sc		st
