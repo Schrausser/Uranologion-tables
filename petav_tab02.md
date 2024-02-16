@@ -1,5 +1,5 @@
 # petav_tab02.md
-De sex millenariis quado singuli, & in quo definant (Petavius, 1630, p. 355), about each of the six millennia and their definition.
+"De sex millenariis quado singuli, & in quo definant.", (Petavius, 1630, p. 355), about each of the *six millennia* and their definition.
 ~~~					
 		In anno				JdW		AD
 
@@ -12,7 +12,7 @@ VI		Anastasii	17		6017	6000	517
 ~~~
 ¹) Constructio turris Babylonis incipit, the construction of the tower of Babylon begins.
 
-De periodis XI, quarum singuli annis constat DXXXII: quado & ubi unaquaeque definat (Petavius, 1630, p. 355), of the 11 periods, each consisting of 832 years, how and where each is defined.	
+"De periodis XI, quarum singuli annis constat DXXXII: quado & ubi unaquaeque definat.", (Petavius, 1630, p. 355), of the *11 periods*, each consisting of *832 years*, how and where each is defined.	
 ~~~				
 		In anno				JdW		AD
 
@@ -28,4 +28,8 @@ IX		Ezechiae		70	4858	4788	-642
 X		Philometoris		16	5336	5320	-164
 XI		Imperii constantini	24	5876	5852	376
 ~~~
+## References
+
+Petavius, D. (1630). *VRANOLOGION sive systema variorvm authorvm. qvi de sphaera, ac sideribvs, eorvmove motibvs Graece commentati sunt*. LVTETIAE PARISIORVM: Sumptibus Sebastiani Cramoisy, via Iacobaea, sub Ciconiis. M. DC. XXX. CVM PRIVILEGIO REGIS CHRISTIANISS. https://doi.org/10.3931/e-rara-2004.
+
 
