@@ -7,8 +7,8 @@ Circuli in *arc length* $a_l$, resulting in half the circumference $\frac{C}{2}$
 				sc		pt		st
 
 Borealis	Saturn		sexagesima	sex		25200
-Aestius		Jupiter		quinque				21000
-Aequinoctialis	Mars		octo				33600
+Æstius		Jupiter		quinque				21000
+Æquinoctialis	Mars		octo				33600
 Hiemalis	Venus		quinque				21000
 Australis	Mercury		quinque				25200
 Colliguntur			30				126000
@@ -20,8 +20,8 @@ Scrupula $sc$ to stades $st$, with $st=sc⋅1200$, stades to $a_l$ in $km$, wher
 				sc	st¹		km	cum km
 
 Borealis	Saturn		6,6	7920		1247,4	1247,4
-Aestius		Jupiter		5	6000		945,0	2192,4
-Aequinoctialis	Mars		8	9600		1512,0	3704,4
+Æstius		Jupiter		5	6000		945,0	2192,4
+Æquinoctialis	Mars		8	9600		1512,0	3704,4
 Hiemalis	Venus		5	6000		945,0	4649,4
 Australis	Mercury		5	6000		945,0	5594,4
 Colliguntur			30	36000		5670,0	
@@ -38,8 +38,8 @@ Stades $st$ to $a_l$ in $km$, where $km=st⋅0.1575$ (itinerary stades), circumf
 				st		km		cum km
 
 Borealis	Saturn		25200		3969,0		3969,0
-Aestius		Jupiter		21000		3307,5		7276,5
-Aequinoctialis	Mars		33600		5292,0		12568,5
+Æstius		Jupiter		21000		3307,5		7276,5
+Æquinoctialis	Mars		33600		5292,0		12568,5
 Hiemalis	Venus		21000		3307,5		15876,0
 Australis	Mercury		25200		3969,0		19845,0
 Colliguntur			126000		19845,0	
