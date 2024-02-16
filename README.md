@@ -2,7 +2,7 @@
 
 Tables on the *Phenomena of Aratus* () and the chronology of Maximus from the transscription and latin translation in the famous *Uranologion* by Denis Pétau or Dionysius Petavius (1630):
 
-## AD ARATI PHAENOMENA
+### AD ARATI PHAENOMENA
 
 >"Achillis Tatii Isagoge ad Arati phaenomena, liber falso Eratostheni tribuitur." (Petavius, 1630, index).
 
@@ -21,7 +21,7 @@ ALIAS HIPPARCH (This book is by *neither* of *them*), ON THE PHENOMENA OF ARATUS
 It should be noted that here the names of the *planets* are assigned to the *zones*.
 For implications of the descriptions of the *arc lengths* $a_l$ in *scruples* $sc$ and *stades* $st$ see `petav_tab01.md`, Walker et al., (2009) and Williams (2024).
 
-## S. MAXIMI COMPUTI
+### S. MAXIMI COMPUTI
 
 See `petav_tab02.md`, `petav_tab03.md`, Maximus (n.d., fol. 240r-241r) and Schissel (1934, p. 270).
 
