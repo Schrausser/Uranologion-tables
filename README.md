@@ -33,7 +33,7 @@ Colliguntur			30				126000
 It should be noted that here the names of the *planets* are assigned to the *zones*.
 For implications of the descriptions of the *arc lengths* $a_l$ in *scruples* $sc$ and *stades* $st$ see `petav_tab01.md`, Walker et al., (2009) and Williams (2024).
 
-For the chronology of Maximus, *S. MAXIMI COMPUTI* see `petav_tab02.md`, `petav_tab03.md`, Maximus (n.d., fol. 240r-241r) and Schissel (1934, p. 270).
+For the chronology of Maximus, *S. MAXIMI COMPUTI* which extends from *5500 BC* to the year *833* or *912*, respectively, see `petav_tab02.md`, `petav_tab03.md`, Maximus (n.d., fol. 240r-241r) and Schissel (1934, p. 270).
 
 ## References
 Aratus, & Hyginus, G. I. (1569). *Arati Solensis Phaenomena Et Prognostica Interpretibus m. Tullio Cicerone, Rufo Festo Avieno, Germanico Caesare, Una Cum Ejus Commentariis: ; c. Julii Hygini Astronomicon*. 1st ed. Coloniae Agrippinae: Apud Theodorum Graminaeum. https://doi.org/10.3931/e-rara-53915.
