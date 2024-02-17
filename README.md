@@ -29,6 +29,8 @@ See `petav_tab02.md`, `petav_tab03.md`, Maximus (n.d., fol. 240r-241r) and Schis
 ## References
 Aratus, & Hyginus, G. I. (1569). *Arati Solensis Phaenomena Et Prognostica Interpretibus m. Tullio Cicerone, Rufo Festo Avieno, Germanico Caesare, Una Cum Ejus Commentariis: ; c. Julii Hygini Astronomicon*. 1st ed. Coloniae Agrippinae: Apud Theodorum Graminaeum. https://doi.org/10.3931/e-rara-53915.
 
+Goldstein, B. R., & Bowen, A. C. (1983). A New View of Early Greek Astronomy. *Isis 74* (3): 330–40. http://www.jstor.org/stable/232593.
+
 Maximus. (n.d.). Vat.gr.505 ed. Vatican: Biblioteca Apostolica Vaticana. https://digi.vatlib.it/view/MSS_Vat.gr.505.
 
 Oxford Reference. (2024). Achilles Tatius. https://www.oxfordreference.com/display/10.1093/oi/authority.20110803095347168.
