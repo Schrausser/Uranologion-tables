@@ -2,8 +2,8 @@
 Years of birth in comparison according to S. Maximus (Petavius, 1630, p. 351--355).
 ~~~
 Periodis	year		corr			year			
-
 XI	VI	nat	sum	-1	2	1	tot	AD	AHeb	
+
 		230	230				230	-5270	-2661	Adam annus natus erat
 		205	435				435	-5065	-2431	Seth
 I		190	625				625	-4875	-2226	Enos
