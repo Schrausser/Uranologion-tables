@@ -8,7 +8,7 @@ Tables on the *Phenomena of Aratus* (e.g. Aratus & Hyginus, 1569) and the chrono
 
 >Achilles Tatius' Introduction to the Phenomena of Aratus. The book is *incorrectly* attributed to *Eratosthenes*.
 
-Petavius ​​​gave the translation of the introduction by *Achilles Tatius* from the 3rd century (c.f. Oxford Reference, 2024) on *Aratus'* (c. 315-240 BC) Hexameter prose adaptation of the *Phenomena* and *Enoptron* by *Eudoxus of Cnidos* (c. 390-340 BC).
+Petavius ​​​gave the translation of the introduction by *Achilles Tatius* from the 3rd century (c.f. Oxford Reference, 2024) on *Aratus'* (c. 315-240 BC) hexameter prose adaptation of the *Phenomena* and *Enoptron* by *Eudoxus of Cnidos* (c. 390-340 BC).
 
 >"ERATOSTHENIS, ALIAS HIPPARCHI
 (Pseudepigraphus hic libellus. Nam neutrius est), AD ARATI PHÆNOMENA.", (Petavius, 1630, p. 256).
