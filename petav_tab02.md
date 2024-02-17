@@ -5,12 +5,11 @@
 
 I		Iared		40		1040	1000	-4460
 II		Noe		308		2308	2000	-3192
-III		Ragau¹		99		3099	3000	-2401
+III		Ragau		99		3099	3000	-2401
 IV		Aoth		23		4023	4000	-1477
 V		Cyri Persae	31		5031	5000	-469
 VI		Anastasii	17		6017	6000	517
 ~~~
-¹) Constructio turris Babylonis incipit, the construction of the tower of Babylon begins.
 
 "De periodis XI, quarum singuli annis constát DXXXII: quádo & vbi vnaquæque desinat.", (Petavius, 1630, p. 355), of the *11 periods*, each consisting of *832 years*, when and where each one ends.	
 ~~~				
