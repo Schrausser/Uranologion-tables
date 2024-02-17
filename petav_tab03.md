@@ -1,5 +1,5 @@
 # petav_tab03.md
-"Temporum putatio, & summa.", (Petavius, 1630, p. 351--355), years of birth in comparison according to S. Maximus 
+"Temporum putatio, & summa.", (Petavius, 1630, p. 351--355), years of birth in comparison according to S. Maximus¹. 
 ~~~
 Periodis	year		corr			year			
 XI	VI	nat	sum	-1	2	1	tot	AD	AHeb	
@@ -189,6 +189,9 @@ XI		32	5828	5829			6102	328	3421	Constantinus
 		7					6683			Constantinus
 										Constantinus & Romanus
 ~~~
+¹) "S. Maximi monachi et martyris. A illustri, ac laudum genere omni celebrando Patricio Petro, Maximus humilis Monachus.", (Petavius, 1630, p. 313), St. Maximus, monk and martyr.
+Of the famous and laudable, celebrated by all, humble monk Patricio Petro Maximus.
+
 ## References
 
 Petavius, D. (1630). *VRANOLOGION sive systema variorvm authorvm. qvi de sphaera, ac sideribvs, eorvmove motibvs Graece commentati sunt*. LVTETIAE PARISIORVM: Sumptibus Sebastiani Cramoisy, via Iacobaea, sub Ciconiis. M. DC. XXX. CVM PRIVILEGIO REGIS CHRISTIANISS. https://doi.org/10.3931/e-rara-2004.
