@@ -1,5 +1,5 @@
 # petav_tab03.md
-Years of birth in comparison according to S. Maximus (Petavius, 1630, p. 351--355).
+"Temporum putatio, & summa.", (Petavius, 1630, p. 351--355), years of birth in comparison according to S. Maximus 
 ~~~
 Periodis	year		corr			year			
 XI	VI	nat	sum	-1	2	1	tot	AD	AHeb	
