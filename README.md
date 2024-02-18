@@ -57,7 +57,7 @@ III		188	1642	-3858	-1207	Lamech
 		10	4242	-1258	1844	Aelon
 		8	4250	-1250	1854	Abdon
 VIII		40	4290	-1210	1862	Philistæi
-		20	4310	-1190	1902	Samson
+		20	4310	-1190	1902	Sampson
 		40	4350	-1150	1922	Interregni & pacis
 		20	4370	-1130	1962	Heli sacerdos
 		:	:	:	:	:
