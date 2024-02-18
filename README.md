@@ -68,7 +68,7 @@ X		35	5339	-161	Ptolemæus Philometor
 		16	5384	-116	Ptolemæus Physconis
 		:	:	:	:
 ~~~
-See `petav_tab02.md`, `petav_tab03.md`, Maximus (n.d., fol. 240r-241r) and Schissel (1934, p. 270).
+See `petav_tab02.md`, `petav_tab03.md`, Maximus (n.d., fol. 240r-241r), Schissel (1934, p. 270) and Schnneider (1952, p. 519 ff.).
 
 ## References
 Aratus, & Hyginus, G. I. (1569). *Arati Solensis Phaenomena Et Prognostica Interpretibus m. Tullio Cicerone, Rufo Festo Avieno, Germanico Caesare, Una Cum Ejus Commentariis: ; c. Julii Hygini Astronomicon*. 1st ed. Coloniae Agrippinae: Apud Theodorum Graminaeum. https://doi.org/10.3931/e-rara-53915.
@@ -82,6 +82,8 @@ Oxford Reference. (2024). Achilles Tatius. https://www.oxfordreference.com/disp
 Petavius, D. (1630). *VRANOLOGION sive systema variorvm authorvm. qvi de sphaera, ac sideribvs, eorvmove motibvs Graece commentati sunt*. LVTETIAE PARISIORVM: Sumptibus Sebastiani Cramoisy, via Iacobaea, sub Ciconiis. M. DC. XXX. CVM PRIVILEGIO REGIS CHRISTIANISS. https://doi.org/10.3931/e-rara-2004.
 
 Schissel, O. (1934). NOTE SUR UN CATALOGUS CODICUM CHRONOLOGORUM GRAECORUM. *Byzantion 9* (1): 269–95. http://www.jstor.org/stable/44168086.
+
+Schneider, N. (1952). PATRIARCHENNAMEN IN ZEITGENÖSSISCHEN KEILSCHRIFTURKUNDEN. *Biblica 33* (4): 516–22. http://www.jstor.org/stable/42618775.
 
 Walker, M., Johnsen, S., Rasmussen, S. O., Popp, T., Steffensen, J. -P., Gibbard, P., Hoek, W., Lowe, J., Andrews, J., Björck, S., Cwynar, L. C., Hughen, K., Kershaw, P., Kromer, B., Litt, T., Lowe, D. J., Nakagawa, T., Newnham, R., & Schwander, J. (2009). Formal Definition and Dating of the GSSP (Global Stratotype Section and Point) for the Base of the Holocene Using the Greenland NGRIP Ice Core, and Selected Auxiliary Records. *Journal of Quaternary Science 24* (1): 3–17. https://doi.org/10.1002/jqs.1227.
 
