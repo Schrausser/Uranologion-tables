@@ -24,17 +24,17 @@ V		132	2769²				-2731	Heber
 	III	132	3031²				-2469	Ragau
 		130	3161²				-2339	Seruch
 VI		270	3161³				-2339	Nachor
-		70	3231³				-2269	Tharrha
-		100	3331³				-2169	Abraam
-		60	3391³				-2109	Isaac
-		85	3476³				-2024	Jacob
-		47	3523³				-1977	Leui
-		62	3585³				-1915	Caath
-		75	3660³				-1840	Aram
-		80	3740³				-1760	Moyses
-VII		40	3780³				-1720	In deserto
-		32	3812³				-1688	Iesus
-		50	3862³				-1638	Seniores
+		70	3231²				-2269	Tharrha
+		100	3331²				-2169	Abraam
+		60	3391²				-2109	Isaac
+		85	3476²				-2024	Jacob
+		47	3523²				-1977	Leui
+		62	3585²				-1915	Caath
+		75	3660²				-1840	Aram
+		80	3740²				-1760	Moyses
+VII		40	3780²				-1720	In deserto
+		32	3812²				-1688	Iesus
+		50	3862²				-1638	Seniores
 		50	3909	3912			-1591	Chusarathem anni
 		50	3959				-1541	Othoniel
 		18	3977				-1523	Aeglon
@@ -196,7 +196,7 @@ Of the famous and laudable, celebrated by all, humble monk Patricio Petro Maximu
 ³) $n=270$ years are subtracted.  
 ⁴) Sic.
 
-No summed values ​​are given between *Sem and Seniores*. Here it is suggested to continue the summation up to *Seruch* and to subtract $n=270$ years from *Nachor to Seniores*, this results in (1) a difference of only $n=3$ years ($3909$ vs. $3912$) at the point of *Chusarathem anni*, from where the chronology continues. Although this approach may be speculative, one could find justification in (2) the obvious implausibility of $n=270$ years of life in a period *after* Noë and (3) in the *ambiguity* of the person of Nachor himself:
+No summed values ​​are given between *Sem and Seniores*. Here it is suggested to continue the summation and to subtract the $n=270$ years to *Nachor*, this results in (1) a difference of only $n=3$ years ($3909$ vs. $3912$) at the point of *Chusarathem anni*, from where the chronology continues. Although this approach may be speculative, one could find justification in (2) the obvious implausibility of $n=270$ years of life in a period *after* Noë and (3) in the *ambiguity* of the person of Nachor himself:
 
  >[...] Nachor war der Name des Vaters von Thare und dessen zweiten Sohnes. Demnach war ein Nachor Grossvater und Bruder Abrams. In späteren Profanurkunden ist der Name sowohl als Personenname als auch als Stadtname verschiedentlich erwähnt [...]", (Schneider, 1952, p. 519).
 
