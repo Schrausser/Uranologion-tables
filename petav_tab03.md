@@ -33,8 +33,8 @@ VI		270	3161				-2339	500	Nachor
 		80	3740				-1760	1269	Moyses
 VII		40	3780				-1720	1349	In deserto
 		32	3812				-1688	1389	Iesus
-		50	3862	3862			-1638	1421	Seniores
-		50	3909	3909			-1591	1471	Chusaratem anni
+		50	3862				-1638	1421	Seniores
+		50	3909				-1591	1471	Chusaratem anni
 		50	3959				-1541	1521	Othoniel
 	I	18	3977				-1523	1571	Aeglon
 	V	50	4027				-1473	1589	Oth
