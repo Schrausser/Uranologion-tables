@@ -182,12 +182,12 @@ XI		32	5828	5829			328	3421	Constantinus
 		12	6333	6331	6330	6332	833	3923	Theophilus Michaëlis F.
 		14							Michaël Theophili F. cum matre Theodora
 		11							Michaël solus
-		1							Michaël & Basilius
+		1							Michaël, & Basilius
 		19							Basilius Thrax
 		26							Leo, & Alexander Basilij filij
-		1							Alexander & Constantinus
+		1							Alexander, & Constantinus
 		7	6412				912		Constantinus
-									Constantinus & Romanus
+									Constãtinus, & Romanus
 ~~~
 ¹) "S. Maximi monachi et martyris. A illustri, ac laudum genere omni celebrando Patricio Petro, Maximus humilis Monachus.", (Petavius, 1630, p. 313), St. Maximus, monk and martyr.
 Of the famous and laudable, celebrated by all, humble monk Patricio Petro Maximus.  
