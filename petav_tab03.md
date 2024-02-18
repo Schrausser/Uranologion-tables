@@ -192,9 +192,18 @@ XI		32	5828	5829			328	Constantinus
 ~~~
 ¹) "S. Maximi monachi et martyris. A illustri, ac laudum genere omni celebrando Patricio Petro, Maximus humilis Monachus.", (Petavius, 1630, p. 313), St. Maximus, monk and martyr.
 Of the famous and laudable, celebrated by all, humble monk Patricio Petro Maximus.  
-²) The values ​​are summed up; they are not listed in the chronology of Maximus.  
-³) The $n=270$ years of *Nachor* are subtracted, so *Seruch* and *Nachor* coincide and there is only a difference of $n=3$ years ($3909$ vs. $3912$) at the point of *Chusarathem anni*, from where the chronology continues.  
+²) values ​​are summed up; they are not listed as *sum* in the chronology.  
+³) $n=270$ years are subtracted.  
 ⁴) Sic.
+
+No summed values ​​are given between *Sem and Seniores*. Here it is suggested to continue the summation up to *Seruch* and to subtract $n=270$ years from *Nachor to Seniores*, this results in (1) a difference of only $n=3$ years ($3909$ vs. $3912$) at the point of *Chusarathem anni*, from where the chronology continues. Although this approach may be speculative, one could find justification in (2) the obvious implausibility of $n=270$ years of life in a period *after* Noë and (3) in the *ambiguity* of the person of Nachor himself:
+
+ >[...] Nachor war der Name des Vaters von Thare und dessen zweiten Sohnes. Demnach war ein Nachor Grossvater und Bruder Abrams. In späteren Profanurkunden ist der Name sowohl als Personenname als auch als Stadtname verschiedentlich erwähnt [...]", (Schneider, 1952, p. 519).
+
+>Nachor was the name of the father of Thare *and* his second son. Accordingly, a Nachor was Abram's grandfather *and* brother.
+In later profane documents the name is *mentioned variously* both as a personal name and as a city name.
+
+However, if (4) Abraham's brother were meant, a time difference of $n=270$ years *could* be considered plausible.
 
 ## References
 
