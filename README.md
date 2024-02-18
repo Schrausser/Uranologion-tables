@@ -40,33 +40,33 @@ For implications of the descriptions of the *arc lengths* $a_l$ in *scruples* $s
 Excerpt from the *chronology* of Maximus, *S. MAXIMI COMPUTI*, which extends from *5500 BC* to the year *833 AD* or *912 AD*, respectively:
 ~~~
 Periodis	year		year			
-XI	VI	nat	sum	AD	AHeb	
+XI	VI	nat	sum	AD	
 
-		230	230	-5270	-2661	Adam annus natus erat
-		205	435	-5065	-2431	Seth
-I		190	625	-4875	-2226	Enos
-		170	795	-4705	-2036	Cainan
-		165	960	-4540	-1866	Malaleel
-II	I	162	1122	-4378	-1701	Iared
-		165	1287	-4213	-1539	Enoch
-		167	1454	-4046	-1374	Mathusala
-III		188	1642	-3858	-1207	Lamech
-	II	500	2142	-3358	-1019	Noë
-		:	:	:	:	:
-		7	4232	-1268	1837	Essebon
-		10	4242	-1258	1844	Aelon
-		8	4250	-1250	1854	Abdon
-VIII		40	4290	-1210	1862	Philistæi
-		20	4310	-1190	1902	Sampson
-		40	4350	-1150	1922	Interregni & pacis
-		20	4370	-1130	1962	Heli sacerdos
-		:	:	:	:	:
-		17	5281	-219	2873	Ptolemæus Philopator
-		23	5304	-196	2896	Ptolemæus Epiphanes
-X		35	5339	-161	2931	Ptolemæus Philometor
-		29	5368	-132	2960	Ptolemæus Euergetes
-		16	5384	-116	2976	Ptolemæus Physconis
-		:	:	:	:	:
+		230	230	-5270	Adam annus natus erat
+		205	435	-5065	Seth
+I		190	625	-4875	Enos
+		170	795	-4705	Cainan
+		165	960	-4540	Malaleel
+II	I	162	1122	-4378	Iared
+		165	1287	-4213	Enoch
+		167	1454	-4046	Mathusala
+III		188	1642	-3858	Lamech
+	II	500	2142	-3358	Noë
+		:	:	:	:
+		7	4232	-1268	Essebon
+		10	4242	-1258	Aelon
+		8	4250	-1250	Abdon
+VIII		40	4290	-1210	Philistæi
+		20	4310	-1190	Sampson
+		40	4350	-1150	Interregni & pacis
+		20	4370	-1130	Heli sacerdos
+		:	:	:	:
+		17	5281	-219	Ptolemæus Philopator
+		23	5304	-196	Ptolemæus Epiphanes
+X		35	5339	-161	Ptolemæus Philometor
+		29	5368	-132	Ptolemæus Euergetes
+		16	5384	-116	Ptolemæus Physconis
+		:	:	:	:
 ~~~
 See `petav_tab02.md`, `petav_tab03.md`, Maximus (n.d., fol. 240r-241r) and Schissel (1934, p. 270).
 
