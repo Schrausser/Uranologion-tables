@@ -2,7 +2,7 @@
 "Temporum putatio, & summa.", (Petavius, 1630, p. 351--355), years of birth in comparison according to S. Maximus¹. 
 ~~~
 Periodis	year		corr			year			
-XI	VI	nat	sum	-1	2	1	AD	AHeb	
+XI	VI	nat	sum	1	2	3	AD	AHeb	
 
 		230	230				-5270	-2661	Adam annus natus erat
 		205	435				-5065	-2431	Seth
@@ -14,27 +14,27 @@ II	I	162	1122				-4378	-1701	Iared
 		167	1454				-4046	-1374	Mathusala
 III		188	1642				-3858	-1207	Lamech
 	II	500	2142				-3358	-1019	Noë
-		100	2242				-3258	-519	Sem
-		135	2377				-3123	-419	Arphaxad
-IV		130	2507				-2993	-284	Cainan
-		130	2637				-2863	-154	Sala
-V		132	2769				-2731	-24	Heber
-		130	2899				-2601	108	Phaleg
-	III	132	3031				-2469	238	Ragau
-		130	3161				-2339	370	Seruch
-VI		270	3161				-2339	500	Nachor
-		70	3231				-2269	770	Tharrha
-		100	3331				-2169	840	Abraam
-		60	3391				-2109	940	Isaac
-		85	3476				-2024	1000	Jacob
-		47	3523				-1977	1085	Leui
-		62	3585				-1915	1132	Caath
-		75	3660				-1840	1194	Aram
-		80	3740				-1760	1269	Moyses
-VII		40	3780				-1720	1349	In deserto
-		32	3812				-1688	1389	Iesus
-		50	3862				-1638	1421	Seniores
-		50	3909				-1591	1471	Chusarathem anni
+		100	2242²				-3258	-519	Sem
+		135	2377²				-3123	-419	Arphaxad
+IV		130	2507²				-2993	-284	Cainan
+		130	2637²				-2863	-154	Sala
+V		132	2769²				-2731	-24	Heber
+		130	2899²				-2601	108	Phaleg
+	III	132	3031²				-2469	238	Ragau
+		130	3161²				-2339	370	Seruch
+VI		270	3161³				-2339	500	Nachor
+		70	3231³				-2269	770	Tharrha
+		100	3331³				-2169	840	Abraam
+		60	3391³				-2109	940	Isaac
+		85	3476³				-2024	1000	Jacob
+		47	3523³				-1977	1085	Leui
+		62	3585³				-1915	1132	Caath
+		75	3660³				-1840	1194	Aram
+		80	3740³				-1760	1269	Moyses
+VII		40	3780³				-1720	1349	In deserto
+		32	3812³				-1688	1389	Iesus
+		50	3862³				-1638	1421	Seniores
+		50	3909	3912			-1591	1471	Chusarathem anni
 		50	3959				-1541	1521	Othoniel
 	I	18	3977				-1523	1571	Aeglon
 	V	50	4027				-1473	1589	Aoth
@@ -84,7 +84,7 @@ IX		29	4808				-692	2400	Ezechias
 		3	4952				-548	2544	Baltasar
 		17	4969				-531	2561	Darius, & Astyages
 	V	32	5001				-499	2593	Cyrus Persa
-		8	509²				-4991	2601	Cambyses
+		8	509⁴				-4991	2601	Cambyses
 		28	5037				-463	2629	Darius Medus
 		21	5058				-442	2650	Xerxes
 		33	5091				-409	2683	Artaxerxes
@@ -191,7 +191,9 @@ XI		32	5828	5829			328	3421	Constantinus
 ~~~
 ¹) "S. Maximi monachi et martyris. A illustri, ac laudum genere omni celebrando Patricio Petro, Maximus humilis Monachus.", (Petavius, 1630, p. 313), St. Maximus, monk and martyr.
 Of the famous and laudable, celebrated by all, humble monk Patricio Petro Maximus.  
-²) Sic.
+²) The values ​​are summed up; they are not listed in the chronology of Maximus.  
+³) The $n=270$ years of *Nachor* are subtracted, so *Seruch* and *Nachor* coincide and there is only a difference of $n=3$ years ($3909$ vs. $3912$) at the point of *Chusarathem anni*, from where the chronology continues.  
+⁴) Sic.
 
 ## References
 
