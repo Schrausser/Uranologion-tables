@@ -84,7 +84,7 @@ IX		29	4808				-692	2400	Ezechias
 		3	4952				-548	2544	Baltasar
 		17	4969				-531	2561	Darius, & Astyages
 	V	32	5001				-499	2593	Cyrus Persa
-		8	509				-4991	2601	Cambyses
+		8	509²				-4991	2601	Cambyses
 		28	5037				-463	2629	Darius Medus
 		21	5058				-442	2650	Xerxes
 		33	5091				-409	2683	Artaxerxes
@@ -94,7 +94,7 @@ IX		29	4808				-692	2400	Ezechias
 		2	5167				-333	2759	Arses Ochus
 		6	5173				-327	2765	Darius
 		12	5185				-315	2777	Alexander Macedo
-		24	5209				-291	2801	Ptolemæus Agypti
+		24	5209				-291	2801	Ptolemæus Aegypti
 		30	5239				-261	2831	Ptolemæus Philadelphus
 		25	5264				-236	2856	Ptolemæus Euergetes
 		17	5281				-219	2873	Ptolemæus Philopator
@@ -102,35 +102,35 @@ IX		29	4808				-692	2400	Ezechias
 X		35	5339				-161	2931	Ptolemæus Philometor
 		29	5368				-132	2960	Ptolemæus Euergetes
 		16	5384				-116	2976	Ptolemæus Physconis
-		9	5393				-107	2985	Ptolemæus Sideritis
-		3	5396				-104	2988	Ptolemæus qui Alexader
+		9	5393				-107	2985	Ptolemæus Siderites
+		3	5396				-104	2988	Ptolemæus, qui & Alexãder
 		8	5404				-96	2996	Ptolemæus Soter
-		28	5432				-68	3024	Bachus novus
+		28	5432				-68	3024	Bacchus nouus
 		22	5454				-46	3046	Cleopatra
 		4	5458				-42	3050	C.Iulius Romanorum
-		57	5515				15	3107	Caesar Augustus
+		57	5515				15	3107	Cæsar Augustus
 		22	5537				37	3129	Tiberius
-		4	5541				41	3133	Gaius
+		4	5541				41	3133	Caius
 		14	5555				55	3147	Claudius
 		14	5569				69	3161	Nero
 		10	5579				79	3171	Vespasianus
 		3	5582				82	3174	Titus
 		15	5597				97	3189	Domitianus
-		1	5598				98	3190	Nerva
-		18	5616				116	3208	Trajanus
+		1	5598				98	3190	Nerua
+		18	5616				116	3208	Traianus
 		21	5637				137	3229	Adrianus
 		20	5657				157	3249	Aelius Antoninus
 		16	5673				173	3265	Marcus Antoninus
 		12	5685				185	3277	Commodus
-		18	5703				203	3295	Severus
+		18	5703				203	3295	Seuerus
 		7	5710				210	3302	Antonius Caracalla
 		4	5714				214	3306	Antonius alter
-		14	5727	5728			227	3320	Alexander Mameae
+		14	5727	5728			227	3320	Alexander Mameæ
 		3	5730	5731			230	3323	Maximinus
 		6	5736	5737			236	3329	Gordianus
 		6	5742	5743			242	3335	Philippus
 		1	5743	5744			243	3336	Decius
-		2	5745	5746			245	3338	Gallus, & Volusianus
+		2	5745	5746			245	3338	Gallus & Volusianus
 		15	5760	5761			260	3353	Valerianus, & Galienus
 		1	5761	5762			261	3354	Claudius
 		6	5767	5768			267	3360	Aurelianus
@@ -140,18 +140,18 @@ X		35	5339				-161	2931	Ptolemæus Philometor
 XI		32	5828	5829			328	3421	Constantinus
 		22	5852	5851	5850		352	3443	Constantius
 		3	5855	5854	5853		355	3446	Iulianus
-		1	5856	5855	5854		356	3447	Iovianus
+		1	5856	5855	5854		356	3447	Iouianus
 		10	5866	5865	5864		366	3457	Valentinianus
 		4	5870	5869	5868		370	3461	Valens
 		16	5886	5885	5884		386	3477	Theodosius
 		14	5900	5899	5898		400	3491	Arcadius
-		42	5942	5941	5940		442	3533	Theodosius junior
+		42	5942	5941	5940		442	3533	Theodosius iunior
 		6	5948	5947	5946		448	3539	Marcianus
 		18	5966	5965	5964		466	3557	Leo
 		17	5983	5982	5981		483	3574	Zeno
 	VI	27	6010	6009	6008		510	3601	Anastasius
 		9	6019	6018	6017		519	3610	Iustinus
-		38	6057	6056	6055		557	3648	Iustinanus
+		38	6057	6056	6055		557	3648	Iustinianus
 		13	6070	6069	6068		570	3661	Iustinus iunior
 		4	6074	6073	6072		574	3665	Tiberius
 		20	6094	6093	6092		594	3685	Mauricius
@@ -162,18 +162,18 @@ XI		32	5828	5829			328	3421	Constantinus
 		17	6178	6177	6176		678	3769	Constantinus
 		10	6188	6187	6186		688	3779	Iustinanus
 		3	6191	6190	6189		691	3782	Leo
-		7	6198	6197	6196		698	3789	Tiberius, qui est Apsimarus
-		6	6204	6203	6202		704	3795	Iustinanus, iterum
+		7	6198	6197	6196		698	3789	Tiberius, qui & Apsimarus
+		6	6204	6203	6202		704	3795	Iustinanus, iterùm
 		2	6206	6205	6204		706	3797	Phillipus, qui & Bardanes
 		3	6209	6208	6207		709	3800	Artemis, qui & Anastasius
 		1	6210	6209	6208		710	3801	Theodosius Atramytenus
-		25	6235	6234	6233		735	3826	Leo, qui & cono
-		3	6238	6237	6236		738	3829	Artanasdus
+		25	6235	6234	6233		735	3826	Leo, qui & Cono
+		3	6238	6237	6236		738	3829	Artauasdus
 		31	6269	6268	6267		769	3860	Constantinus Leonis F.
 		5	6274	6273	6272		774	3865	Leo Constantini F.
 		10	6284	6283	6282		784	3875	Constantinus Leonis F. cum matre Irene
-		6	6290	6289	6288		790	3881	Constantinus Solus
-		2	6292	6291	6290		792	3883	Irene Rursus
+		6	6290	6289	6288		790	3881	Constantinus solus
+		2	6292	6291	6290		792	3883	Irene rursus
 		8	6301	6299	6298	6300	801	3891	Nicephorus
 		2	6303	6301	6300	6302	803	3893	Stauracius Nicephori F.
 		2	6305	6303	6302	6304	805	3895	Michaël & Theophylactus
@@ -190,7 +190,8 @@ XI		32	5828	5829			328	3421	Constantinus
 									Constantinus & Romanus
 ~~~
 ¹) "S. Maximi monachi et martyris. A illustri, ac laudum genere omni celebrando Patricio Petro, Maximus humilis Monachus.", (Petavius, 1630, p. 313), St. Maximus, monk and martyr.
-Of the famous and laudable, celebrated by all, humble monk Patricio Petro Maximus.
+Of the famous and laudable, celebrated by all, humble monk Patricio Petro Maximus.  
+²) Sic.
 
 ## References
 
