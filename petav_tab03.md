@@ -36,8 +36,8 @@ VII		40	3780³				-1720	1349	In deserto
 		50	3862³				-1638	1421	Seniores
 		50	3909	3912			-1591	1471	Chusarathem anni
 		50	3959				-1541	1521	Othoniel
-	I	18	3977				-1523	1571	Aeglon
-	V	50	4027				-1473	1589	Aoth
+		18	3977				-1523	1571	Aeglon
+	IV	50	4027				-1473	1589	Aoth
 		20	4047				-1453	1639	Semgar
 		20	4067				-1433	1659	Iebusæi
 		40	4107				-1393	1679	Deborra
