@@ -13,7 +13,7 @@ VI		Anastasij	17		6017	6000	517
 
 "De periodis XI, quarum singuli annis constát DXXXII: quádo & vbi vnaquæque desinat.", (Petavius, 1630, p. 355), of the *11 periods*, each consisting of *832 years*, when and where each one ends.	
 ~~~				
-		In anno			nat	sum		AD
+		In anno			nat		sum	AD
 
 I		Enos			97	629	532	-4871
 II		Iared			130	1194	1064	-4306
