@@ -209,3 +209,4 @@ However, if (4) Abraham's brother were meant, a time difference of $n=270$ years
 
 Petavius, D. (1630). *VRANOLOGION sive systema variorvm authorvm. qvi de sphaera, ac sideribvs, eorvmove motibvs Graece commentati sunt*. LVTETIAE PARISIORVM: Sumptibus Sebastiani Cramoisy, via Iacobaea, sub Ciconiis. M. DC. XXX. CVM PRIVILEGIO REGIS CHRISTIANISS. https://doi.org/10.3931/e-rara-2004.
 
+Schneider, N. (1952). PATRIARCHENNAMEN IN ZEITGENÖSSISCHEN KEILSCHRIFTURKUNDEN. *Biblica 33* (4): 516–22. http://www.jstor.org/stable/42618775.
