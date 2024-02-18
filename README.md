@@ -1,6 +1,6 @@
 # Uranologion-tables
 
-Tables on the *Phenomena of Aratus* (e.g. Aratus & Hyginus, 1569) and the chronology of Maximus (c.f. Schissel, 1934) from the transscription and latin translation in the famous *Uranologion* by Denis Pétau or Dionysius Petavius (1630):
+Tables on the *Phenomena of Aratus* (e.g. Aratus & Hyginus, 1569) and the *chronology* of Maximus (c.f. Schissel, 1934) from the transscription and latin translation in the famous *Uranologion* by Denis Pétau or Dionysius Petavius (1630):
 
 >"Achillis Tatii Isagoge ad Arati phænomena, liber falso Eratostheni tribuitur." (Petavius, 1630, index).
 
@@ -37,7 +37,7 @@ Colliguntur			30				126000
 It should be noted that here the names of the *planets* are assigned to the *zones* of the Earth.
 For implications of the descriptions of the *arc lengths* $a_l$ in *scruples* $sc$ and *stades* $st$ see `petav_tab01.md`, Walker et al., (2009) and Williams (2024).
 
-Excerpt from the chronology of Maximus, *S. MAXIMI COMPUTI*, which extends from *5500 BC* to the year *833* or *912*, respectively:
+Excerpt from the *chronology* of Maximus, *S. MAXIMI COMPUTI*, which extends from *5500 BC* to the year *833 AD* or *912 AD*, respectively:
 ~~~
 Periodis	year		year			
 XI	VI	nat	sum	AD	AHeb	
