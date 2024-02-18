@@ -1,19 +1,19 @@
 # petav_tab02.md
 "De sex millenariis quádo singuli, & in quo desinant.", (Petavius, 1630, p. 355), about each of the *six millennia* and where they end.
 ~~~					
-		In anno		nat		sum	mill	AD
+Millenium	In anno			nat	S1000	nat+S1000	S1	diff	AD	AHeb
 
-I		Iared		40		1040	1000	-4460
-II		Noë		308		2308	2000	-3192
-III		Ragau		99		3099	3000	-2401
-IV		Aoth		23		4023	4000	-1477
-V		Cyri Persæ	31		5031	5000	-469
-VI		Anastasij	17		6017	6000	517
+I		Iared			40	1000	1040		1122	-82	-4460	-1851
+II		Noë			308	2000	2308		2142	166	-3192	-583
+III		Ragau			99	3000	3099				-2401	208
+IV		Aoth			23	4000	4023		4027	-4	-1477	1132
+V		Cyri Persæ		31	5000	5031		5001	30	-469	2140
+VI		Anastasij		17	6000	6017		6010	7	517	3126
 ~~~
 
 "De periodis XI, quarum singuli annis constát DXXXII: quádo & vbi vnaquæque desinat.", (Petavius, 1630, p. 355), of the *11 periods*, each consisting of *532 years*, when and where each one ends.	
 ~~~				
-Periode		In anno			nat	sum532	nat+sum532	sum1	diff	AD	AHeb
+Period		In anno			nat	S532	nat+S532	S1	diff	AD	AHeb
 
 I		Enos			97	532	629		625	4	-4871	-2262
 II		Iared			130	1064	1194		1122	72	-4306	-1697
