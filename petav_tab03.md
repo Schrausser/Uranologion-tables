@@ -51,16 +51,16 @@ VII		40	3780				-1720	1349	In deserto
 		7	4232				-1268	1837	Essebon
 		10	4242				-1258	1844	Aelon
 		8	4250				-1250	1854	Abdon
-VIII		40	4290				-1210	1862	Philistai
-		20	4310				-1190	1902	Samson
+VIII		40	4290				-1210	1862	Philistæi
+		20	4310				-1190	1902	Sampson
 		40	4350				-1150	1922	Interregni & pacis
 		20	4370				-1130	1962	Heli sacerdos
 		20	4390				-1110	1982	Samuel sacerdos
 		40	4430				-1070	2022	Saül
-		40	4470				-1030	2062	David
+		40	4470				-1030	2062	Dauid
 		40	4510				-990	2102	Salomon
 		17	4527				-973	2119	Roboam
-		3	4530				-970	2122	Abiam
+		3	4530				-970	2122	Abia
 		41	4571				-929	2163	Asa
 		39	4610				-890	2202	Iosaphat
 		8	4618				-882	2210	Ioram
@@ -76,16 +76,16 @@ IX		29	4808				-692	2400	Ezechias
 		2	4865				-635	2457	Amos
 		31	4896				-604	2488	Iosias
 		1	4897				-603	2489	Ioachaz
-		11	4908				-592	2500	Ioazim
+		11	4908				-592	2500	Ioacim
 		1	4909				-591	2501	Iechonias
 		11	4920				-580	2512	Sedecias
 		24	4944				-556	2536	Nabuchodonoser
 		5	4949				-551	2541	Valamadarach
 		3	4952				-548	2544	Baltasar
-		17	4969				-531	2561	Darius, & Astiages
+		17	4969				-531	2561	Darius, & Astyages
 	V	32	5001				-499	2593	Cyrus Persa
 		8	509				-4991	2601	Cambyses
-		28	5037				-463	2629	Dareius Medus
+		28	5037				-463	2629	Darius Medus
 		21	5058				-442	2650	Xerxes
 		33	5091				-409	2683	Artaxerxes
 		19	5110				-390	2702	Darius
