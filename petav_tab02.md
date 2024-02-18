@@ -11,7 +11,7 @@ V		Cyri Persæ	31		5031	5000	-469
 VI		Anastasij	17		6017	6000	517
 ~~~
 
-"De periodis XI, quarum singuli annis constát DXXXII: quádo & vbi vnaquæque desinat.", (Petavius, 1630, p. 355), of the *11 periods*, each consisting of *832 years*, when and where each one ends.	
+"De periodis XI, quarum singuli annis constát DXXXII: quádo & vbi vnaquæque desinat.", (Petavius, 1630, p. 355), of the *11 periods*, each consisting of *532 years*, when and where each one ends.	
 ~~~				
 		In anno			nat		sum	AD
 
