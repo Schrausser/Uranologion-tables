@@ -4,7 +4,7 @@ Tables on the *Phenomena of Aratus* (e.g. Aratus & Hyginus, 1569) and the chrono
 
 >"Achillis Tatii Isagoge ad Arati phænomena, liber falso Eratostheni tribuitur." (Petavius, 1630, index).
 
->Achilles Tatius' Introduction to the Phenomena of Aratus. The book is *incorrectly* attributed to *Eratosthenes*.
+>Achilles Tatius' *introduction* to the *Phenomena of Aratus*. The book is *incorrectly* attributed to *Eratosthenes*.
 
 Petavius ​​​gave the translation of the introduction by *Achilles Tatius* from the 3rd century (c.f. Oxford Reference, 2024) on *Aratus'* (c. 315-240 BC) hexameter prose adaptation of the (lost) *Phenomena* and *Enoptron* by *Eudoxus of Cnidos*:
 >"[...] largely responsible for turning astronomy into a mathematical science [...] was Eudoxus of Cnidus (ca. 390-337 B.C.). [...] we propose that Eudoxus was influenced by cosmological speculation, particularly that of the Pythagoreans and Plato. For, in their view, the circular motions of the heavenly bodies manifested a moral order that was ultimately analyzable by means of [...] whole-number ratios as melodious sound.", (Goldstein & Bowen, 1983, p. 332-333).
@@ -19,7 +19,7 @@ ALIAS HIPPARCH (This book is by *neither* of *them*), ON THE PHENOMENA OF ARATUS
 
 >De Zonis. PArallelis circulis zonæ quinque subjectæ sunt : Borealis, quæ tota supra terram eminnens est, inhabitabilis, alsiosa, Saturno dicata [...] Æstiua, cuius maior pars supra finitorem extollitur. Temperata in qua regio nostra sita est ; attributa Ioui [...] Æquinoctialis æqualem supra, infráque horizontem obtinens partem ; inhabitabilis est, exusta, Martis propria [...] hic enim tam ipsam, quàm totam sphæram mediam diuidit [...] Hiemalis contra atque æstius maiore sui parte sub horizonte latet ; habitabilis ; temperara ; dicata Veneri [...] Australis, quæ tota delitescit, inhabitabilis, frigida, ad Mercurium pertinens [...] Colliguntur ambitus terræ supra finitorem, scrupula 30 ; stadiorum verò 126000." (Petavius, 1630, p. 266).
 
->About the Zones: Parallel to the circles there are five sub-zones: The North, which is entirely above the Earth, uninhabitable, sticky and dedicated to Saturn. The Summer, the greater part of which is emphasized above the limiter, is  the climate in which our region is located and attributed to Jupiter. The equinoctial part, having an equal part above and below the horizon, is uninhabitable, scorched and proper to Mars, for here it divides both, itself and the whole sphere in the middle. The greater part of Winter, in the contrary to Summer, is hidden below the horizon;  habitable;  temperate;  dedicated to Venus. The South, which is entirely hidden, uninhabitable and  cold is belonging to Mercury. The circumference of the earth is, collected above the limiter, 30 scruples, 126000 stades.
+>About the Zones: Parallel to the circles there are five sub-zones: *The North*, which is entirely above the Earth, uninhabitable, sticky and dedicated to *Saturn*. *The Summer*, the greater part of which is emphasized above the limiter, is  the climate in which our region is located and attributed to *Jupiter*. *The equinoctial part*, having an equal part above and below the horizon, is uninhabitable, scorched and proper to *Mars*, for here it divides both, itself and the whole sphere in the middle. The greater part of *Winter*, in the contrary to Summer, is hidden below the horizon;  habitable;  temperate;  dedicated to *Venus*. *The South*, which is entirely hidden, uninhabitable and  cold is belonging to *Mercury*. The circumference of the earth is, collected above the limiter, 30 scruples, 126000 stades.
 
 Circuli in *arc length* $a_l$, resulting in half the circumference $\frac{C}{2}$, given in *scrupula* $sc$, *patens* $pt$ and *stadia* $st$.
 ~~~				
@@ -37,6 +37,7 @@ Colliguntur			30				126000
 It should be noted that here the names of the *planets* are assigned to the *zones* of the Earth.
 For implications of the descriptions of the *arc lengths* $a_l$ in *scruples* $sc$ and *stades* $st$ see `petav_tab01.md`, Walker et al., (2009) and Williams (2024).
 
+Excerpt from the chronology of Maximus, *S. MAXIMI COMPUTI*, which extends from *5500 BC* to the year *833* or *912*, respectively:
 ~~~
 Periodis	year		year			
 XI	VI	nat	sum	AD	AHeb	
@@ -67,7 +68,7 @@ X		35	5339	-161	2931	Ptolemaeus Philometoris
 		16	5384	-116	2976	Ptolemaeus Physconis
 		:	:	:	:	:
 ~~~
-For the chronology of Maximus, *S. MAXIMI COMPUTI* which extends from *5500 BC* to the year *833* or *912*, respectively, see `petav_tab02.md`, `petav_tab03.md`, Maximus (n.d., fol. 240r-241r) and Schissel (1934, p. 270).
+See `petav_tab02.md`, `petav_tab03.md`, Maximus (n.d., fol. 240r-241r) and Schissel (1934, p. 270).
 
 ## References
 Aratus, & Hyginus, G. I. (1569). *Arati Solensis Phaenomena Et Prognostica Interpretibus m. Tullio Cicerone, Rufo Festo Avieno, Germanico Caesare, Una Cum Ejus Commentariis: ; c. Julii Hygini Astronomicon*. 1st ed. Coloniae Agrippinae: Apud Theodorum Graminaeum. https://doi.org/10.3931/e-rara-53915.
