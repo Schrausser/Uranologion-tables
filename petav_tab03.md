@@ -203,7 +203,7 @@ No summed values ​​are given between *Sem and Seniores*. Here it is suggeste
 >Nachor was the name of the father of Thare *and* his second son. Accordingly, a Nachor was Abram's grandfather *and* brother.
 In later profane documents the name is *mentioned variously* both as a personal name and as a city name.
 
-However, if (4) Abraham's brother were meant, a time difference of $n=270$ years *could* be considered plausible.
+However, if (4) Abraham's brother were meant, a time difference of $n=270$ years *could* be considered plausible but would not be included in the calculation.
 
 ## References
 
