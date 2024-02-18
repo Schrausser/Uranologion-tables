@@ -11,13 +11,13 @@ I		190	625				-4875	-2226	Enos
 		165	960				-4540	-1866	Malaleel
 II	I	162	1122				-4378	-1701	Iared
 		165	1287				-4213	-1539	Enoch
-		167	1454				-4046	-1374	Methusalah
+		167	1454				-4046	-1374	Mathusala
 III		188	1642				-3858	-1207	Lamech
 	II	500	2142				-3358	-1019	Noë
 		100	2242				-3258	-519	Sem
 		135	2377				-3123	-419	Arphaxad
 IV		130	2507				-2993	-284	Cainan
-		130	2637				-2863	-154	Salah
+		130	2637				-2863	-154	Sala
 V		132	2769				-2731	-24	Heber
 		130	2899				-2601	108	Phaleg
 	III	132	3031				-2469	238	Ragau
@@ -27,33 +27,33 @@ VI		270	3161				-2339	500	Nachor
 		100	3331				-2169	840	Abraam
 		60	3391				-2109	940	Isaac
 		85	3476				-2024	1000	Jacob
-		47	3523				-1977	1085	Levi
+		47	3523				-1977	1085	Leui
 		62	3585				-1915	1132	Caath
 		75	3660				-1840	1194	Aram
 		80	3740				-1760	1269	Moyses
 VII		40	3780				-1720	1349	In deserto
 		32	3812				-1688	1389	Iesus
 		50	3862				-1638	1421	Seniores
-		50	3909				-1591	1471	Chusaratem anni
+		50	3909				-1591	1471	Chusarathem anni
 		50	3959				-1541	1521	Othoniel
 	I	18	3977				-1523	1571	Aeglon
-	V	50	4027				-1473	1589	Oth
+	V	50	4027				-1473	1589	Aoth
 		20	4047				-1453	1639	Semgar
-		20	4067				-1433	1659	Iebusai
+		20	4067				-1433	1659	Iebusæi
 		40	4107				-1393	1679	Deborra
-		7	4114				-1386	1719	Orib, & Ziph
+		7	4114				-1386	1719	Oriph, & Ziph
 		40	4154				-1346	1726	Gedeon
 		3	4157				-1343	1766	Abimelech
 		22	4179				-1321	1769	Thola
 		22	4201				-1299	1791	Iaër
-		18	4219				-1281	1813	Ammanita
-		6	4225				-1275	1831	Iephta
+		18	4219				-1281	1813	Ammanitæ
+		6	4225				-1275	1831	Iephtæ
 		7	4232				-1268	1837	Essebon
 		10	4242				-1258	1844	Aelon
 		8	4250				-1250	1854	Abdon
 VIII		40	4290				-1210	1862	Philistai
 		20	4310				-1190	1902	Samson
-		40	4350				-1150	1922	interregni & pacis
+		40	4350				-1150	1922	Interregni & pacis
 		20	4370				-1130	1962	Heli sacerdos
 		20	4390				-1110	1982	Samuel sacerdos
 		40	4430				-1070	2022	Saül
@@ -94,17 +94,17 @@ IX		29	4808				-692	2400	Ezechias
 		2	5167				-333	2759	Arses Ochus
 		6	5173				-327	2765	Darius
 		12	5185				-315	2777	Alexander Macedo
-		24	5209				-291	2801	Ptolemaeus Agypti
-		30	5239				-261	2831	Ptolemaeus Philadelphus
-		25	5264				-236	2856	Ptolemaeus Euergetes
-		17	5281				-219	2873	Ptolemaeus Philopator
-		23	5304				-196	2896	Ptolemaeus Epiphanes
-X		35	5339				-161	2931	Ptolemaeus Philometoris
-		29	5368				-132	2960	Ptolemaeus Euergetes
-		16	5384				-116	2976	Ptolemaeus Physconis
-		9	5393				-107	2985	Ptolemaeus Sideritis
-		3	5396				-104	2988	Ptolemaeus qui Alexader
-		8	5404				-96	2996	Ptolemaeus Soter
+		24	5209				-291	2801	Ptolemæus Agypti
+		30	5239				-261	2831	Ptolemæus Philadelphus
+		25	5264				-236	2856	Ptolemæus Euergetes
+		17	5281				-219	2873	Ptolemæus Philopator
+		23	5304				-196	2896	Ptolemæus Epiphanes
+X		35	5339				-161	2931	Ptolemæus Philometor
+		29	5368				-132	2960	Ptolemæus Euergetes
+		16	5384				-116	2976	Ptolemæus Physconis
+		9	5393				-107	2985	Ptolemæus Sideritis
+		3	5396				-104	2988	Ptolemæus qui Alexader
+		8	5404				-96	2996	Ptolemæus Soter
 		28	5432				-68	3024	Bachus novus
 		22	5454				-46	3046	Cleopatra
 		4	5458				-42	3050	C.Iulius Romanorum
