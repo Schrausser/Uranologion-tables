@@ -56,8 +56,12 @@ VIII		40	4290	-1210	1862	Philistai
 		40	4350	-1150	1922	interregni & pacis
 		20	4370	-1130	1962	Heli facerdos
 		:	:	:	:	:
-
-
+		17	5281	-219	2873	Ptolemaeus Philopator
+		23	5304	-196	2896	Ptolemaeus Epiphanes
+X		35	5339	-161	2931	Ptolemaeus Philometoris
+		29	5368	-132	2960	Ptolemaeus Euergetes
+		16	5384	-116	2976	Ptolemaeus Physconis
+		:	:	:	:	:
 ~~~
 For the chronology of Maximus, *S. MAXIMI COMPUTI* which extends from *5500 BC* to the year *833* or *912*, respectively, see `petav_tab02.md`, `petav_tab03.md`, Maximus (n.d., fol. 240r-241r) and Schissel (1934, p. 270).
 
