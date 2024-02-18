@@ -54,8 +54,8 @@ VII		40	3780				-1720	1349	In deserto
 VIII		40	4290				-1210	1862	Philistai
 		20	4310				-1190	1902	Samson
 		40	4350				-1150	1922	interregni & pacis
-		20	4370				-1130	1962	Heli facerdos
-		20	4390				-1110	1982	Samuel facerdos
+		20	4370				-1130	1962	Heli sacerdos
+		20	4390				-1110	1982	Samuel sacerdos
 		40	4430				-1070	2022	Saül
 		40	4470				-1030	2062	David
 		40	4510				-990	2102	Salomon
