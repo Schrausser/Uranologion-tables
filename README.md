@@ -54,7 +54,7 @@ III		188	1642	-3858	-1207	Lamech
 VIII		40	4290	-1210	1862	Philistai
 		20	4310	-1190	1902	Samson
 		40	4350	-1150	1922	interregni & pacis
-		20	4370	-1130	1962	Heli facerdos
+		20	4370	-1130	1962	Heli sacerdos
 		:	:	:	:	:
 		17	5281	-219	2873	Ptolemaeus Philopator
 		23	5304	-196	2896	Ptolemaeus Epiphanes
