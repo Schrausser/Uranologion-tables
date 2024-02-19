@@ -2,7 +2,7 @@
 
 De Zonis (Petavius, 1630, p. 266).				
 
-Scrupula $sc$ to stades $st$, with $st=sc⋅1200$, stades to $a_l$ in $km$, where $km=st⋅0.1575$ (itinerary stades), circumference $C$, with $C=sum⋅2$ and radius $R$, with $R=\frac{C}{2\pi}$.
+Scrupula $sc$ to stades¹ $st$, with $st=sc⋅1200$, stades to $a_l$ in $km$, where $km=st⋅0.1575$ (itinerary stades, c.f. Engels, 1985, p. 298 ff.), circumference $C$, with $C=sum⋅2$ and radius $R$, with $R=\frac{C}{2\pi}$.
 ~~~
 							al	
 				sc	st¹		km	cum km
@@ -20,7 +20,7 @@ Radius R			9,4	11306,4		1780,8
 ~~~
 ¹) "Nam scrupulo cuique stadia competunt 1200.", (Petavius, 1630, p. 266), for each scruple is 1200 stades.
 
-Stades $st$ to $a_l$ in $km$, where $km=st⋅0.1575$ (itinerary stades), circumference $C$, with $C=sum⋅2$ and radius $R$, with $R=\frac{C}{2\pi}$.				
+Stades $st$ to $a_l$ in $km$, where $km=st⋅0.1575$, circumference $C$, with $C=sum⋅2$ and radius $R$, with $R=\frac{C}{2\pi}$.				
 ~~~
 						al	
 				st		km		cum km
@@ -67,7 +67,7 @@ Venus		667,38		2541,15
 Mercury		244,92		1206,40
 ~~~
 
-Interestingly, one gets (1) the proportions of the *Earth*, $R_E=6378km$ and ***Moon***, $R_L=1738.1 km$ (c.f. Williams, 2024) and (2) a boundary correspondence of the northernmost circle, *Saturno*, with an *arc length* of c. $a_l=4000 km$ and latitude of $\phi=54° N$  with the boundaries of the glaciation at the end of the *Holocene* in Europe, around 11700 years ago or c. 9700 BC (c.f. Walker et al., 2009).
+Interestingly, one gets (1) the proportions of the *Earth*, $R_E=6378km$ and the *Moon*, $R_L=1738.1 km$ (c.f. Williams, 2024) and (2) a boundary correspondence of the northernmost circle, *Saturno*, with an *arc length* of c. $a_l=4000 km$ and latitude of $\phi=54° N$  with the boundaries of the glaciation at the end of the *Holocene* in Europe, around 11700 years ago or c. 9700 BC (c.f. Walker et al., 2009).
 
 
 ## References
