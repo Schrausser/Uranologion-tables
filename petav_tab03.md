@@ -1,5 +1,5 @@
 # petav_tab03.md
-"Temporum putatio, & summa.", (Petavius, 1630, p. 351--355), years of birth in comparison according to S. Maximus¹. 
+"Temporum putatio, & summa.", (Petavius, 1630, p. 351--355), years of birth in comparison according to S. Maximus¹, with the 11 periods $per$, the 6 millennia $mill$, birth in years $nat$ after the predecessor and summed values $\Sigma$, corrected years $corr$, actual year $AD=\Sigma-5500$ and the names of the .
 ~~~
 per	mill	year		corr			year			
 XI	VI	nat	S	1	2	3	AD	
