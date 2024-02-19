@@ -1,7 +1,7 @@
 # petav_tab02.md
-"De sex millenariis quádo singuli, & in quo desinant.", (Petavius, 1630, p. 355), about each of the *six millennia* and where they end.
+"De sex millenariis quádo singuli, & in quo desinant.", (Petavius, 1630, p. 355), about each of the *six millennia* and where they end, with sum over millennia $\Sigma1000$, year of the $end=nat+\Sigma1000$, year of birth from the chronology $\Sigma$, the difference $diff=end-\Sigma$ and the actual year $AD=end-5500$.
 ~~~					
-Millenium	In anno			nat	S1000	nat+S1000	S1	diff	AD
+Millenium	In anno			nat	S1000	end		S	diff	AD
 
 I		Iared			40	1000	1040		1122	-82	-4460
 II		Noë			308	2000	2308		2142	166	-3192
