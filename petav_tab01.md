@@ -2,7 +2,7 @@
 
 De Zonis (Petavius, 1630, p. 266).				
 
-Scrupula $sc$ to stades¹ $st$, with $st=sc⋅1200$, stades to $a_l$ in $km$, where $km=st⋅0.1575$ (itinerary stades, c.f. Engels, 1985, p. 298 ff.), circumference $C$, with $C=sum⋅2$ and radius $R$, with $R=\frac{C}{2\pi}$.
+Scrupula $sc$ to stades¹ $st$, with $st=sc⋅1200$, stades to $a_l$ in $km$, where $km=st⋅0.1575$ (itinerary stades, c.f. Engels, 1985), circumference $C$, with $C=sum⋅2$ and radius $R$, with $R=\frac{C}{2\pi}$.
 ~~~
 							al	
 				sc	st¹		km	cum km
