@@ -71,7 +71,7 @@ Interestingly, one gets (1) the proportions of the *Earth*, $R_E=6378km$ and the
 
 
 ## References
-Engels, D. (1985). The Length of Eratosthenes’ Stade. *The American Journal of Philology 106* (3): 298–311. http://www.jstor.org/ stable/295030.
+Engels, D. (1985). The Length of Eratosthenes’ Stade. *The American Journal of Philology 106* (3): 298–311. http://www.jstor.org/stable/295030.
 
 Petavius, D. (1630). *VRANOLOGION sive systema variorvm authorvm. qvi de sphaera, ac sideribvs, eorvmove motibvs Graece commentati sunt*. LVTETIAE PARISIORVM: Sumptibus Sebastiani Cramoisy, via Iacobaea, sub Ciconiis. M. DC. XXX. CVM PRIVILEGIO REGIS CHRISTIANISS. https://doi.org/10.3931/e-rara-2004.
 
