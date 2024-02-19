@@ -1,8 +1,8 @@
 # petav_tab03.md
 "Temporum putatio, & summa.", (Petavius, 1630, p. 351--355), years of birth in comparison according to S. Maximus¹. 
 ~~~
-Periodis	year		corr			year			
-XI	VI	nat	sum	1	2	3	AD	
+per	mill	year		corr			year			
+XI	VI	nat	S	1	2	3	AD	
 
 		230	230				-5270	Adam annus natus erat
 		205	435				-5065	Seth
@@ -191,12 +191,12 @@ XI		32	5828	5829			328	Constantinus
 								Constãtinus, & Romanus
 ~~~
 ¹) "S. Maximi monachi et martyris. A illustri, ac laudum genere omni celebrando Patricio Petro, Maximus humilis Monachus.", (Petavius, 1630, p. 313), St. Maximus, monk and martyr.
-Of the famous and laudable, celebrated by all, humble monk Patricio Petro Maximus.  
+Of the famous and laudable, celebrated by all, humble monk *Patricio Petro Maximus*.  
 ²) values ​​are summed up; they are not listed as *sum* in the chronology.  
-³) $n=270$ years are subtracted.  
+³) $n=270$ years are subtracted (see below).  
 ⁴) Sic.
 
-No summed values ​​are given between *Sem and Seniores*. Here it is suggested to continue the summation and to subtract the $n=270$ years to *Nachor*, this results in (1) a difference of only $n=3$ years ($3909$ vs. $3912$) at the point of *Chusarathem anni*, from where the chronology continues. Although this approach may be speculative, one could find justification in (2) the obvious implausibility of $n=270$ years of life in a period *after* Noë and (3) in the *ambiguity* of the person of Nachor himself:
+No summed values ​​are given between *Sem and Seniores*. Here it is suggested to continue the summation and to subtract the $n=270$ years to *Nachor*, this results in (1) a difference of only $n=3$ years ($3909$ vs. $3912$) at the point of *Chusarathem anni*, from where the chronology continues. Although this approach may be speculative, one could find justification in (2) the obvious implausibility of $n=270$ years of life in a period *after* Noë and (3) in the *ambiguity* of the historical person of Nachor from the *sumerian* era himself:
 
  >[...] Nachor war der Name des Vaters von Thare und dessen zweiten Sohnes. Demnach war ein Nachor Grossvater und Bruder Abrams. In späteren Profanurkunden ist der Name sowohl als Personenname als auch als Stadtname verschiedentlich erwähnt [...]", (Schneider, 1952, p. 519).
 
