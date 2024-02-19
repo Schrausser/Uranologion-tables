@@ -73,6 +73,8 @@ See `petav_tab02.md`, `petav_tab03.md`, Maximus (n.d., fol. 240r-241r), Schissel
 ## References
 Aratus, & Hyginus, G. I. (1569). *Arati Solensis Phaenomena Et Prognostica Interpretibus m. Tullio Cicerone, Rufo Festo Avieno, Germanico Caesare, Una Cum Ejus Commentariis: ; c. Julii Hygini Astronomicon*. 1st ed. Coloniae Agrippinae: Apud Theodorum Graminaeum. https://doi.org/10.3931/e-rara-53915.
 
+Engels, D. (1985). The Length of Eratosthenes’ Stade. The American Journal of Philology 106 (3): 298–311. http://www.jstor.org/stable/295030.
+
 Goldstein, B. R., & Bowen, A. C. (1983). A New View of Early Greek Astronomy. *Isis 74* (3): 330–40. http://www.jstor.org/stable/232593.
 
 Maximus. (n.d.). Vat.gr.505 ed. Vatican: Biblioteca Apostolica Vaticana. https://digi.vatlib.it/view/MSS_Vat.gr.505.
