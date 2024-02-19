@@ -1,5 +1,5 @@
 # petav_tab02.md
-"De sex millenariis quádo singuli, & in quo desinant.", (Petavius, 1630, p. 355), about each of the *six millennia* and where they end, with sum over millennia $\Sigma1000$, year of the $end=nat+\Sigma1000$, year of birth from the chronology $\Sigma$, the difference $diff=end-\Sigma$ and the actual year $AD=end-5500$.
+"De sex millenariis quádo singuli, & in quo desinant.", (Petavius, 1630, p. 355), about each of the *six millennia* and where they end, with sum over millennia $\Sigma1000$, year of the $end=nat+\Sigma1000$, year of birth from the *chronology* $\Sigma$, the difference $diff=end-\Sigma$ and the actual year $AD=end-5500$.
 ~~~					
 Millenium	In anno			nat	S1000	end		S	diff	AD
 
@@ -11,9 +11,9 @@ V		Cyri Persæ		31	5000	5031		5001	30	-469
 VI		Anastasij		17	6000	6017		6010	7	517
 ~~~
 
-"De periodis XI, quarum singuli annis constát DXXXII: quádo & vbi vnaquæque desinat.", (Petavius, 1630, p. 355), of the *11 periods*, each consisting of *532 years*, when and where each one ends.	
+"De periodis XI, quarum singuli annis constát DXXXII: quádo & vbi vnaquæque desinat.", (Petavius, 1630, p. 355), of the *11 periods*, each consisting of *532 years*, when and where each one ends, with sum over periods $\Sigma532$, year of the $end=nat+\Sigma532$, year of birth from the *chronology* $\Sigma$, the difference $diff=end-\Sigma$ and the actual year $AD=end-5500$.
 ~~~				
-Period		In anno			nat	S532	nat+S532	S1	diff	AD
+Period		In anno			nat	S532	nat+S532	S	diff	AD
 
 I		Enos			97	532	629		625	4	-4871
 II		Iared			130	1064	1194		1122	72	-4306
