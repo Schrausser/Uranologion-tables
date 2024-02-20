@@ -6,7 +6,7 @@ Tables on the *Phenomena of Aratus* (e.g. Aratus & Hyginus, 1569) and the *chron
 
 >Achilles Tatius' *introduction* to the *Phenomena of Aratus*. The book is *incorrectly* attributed to *Eratosthenes*.
 
-Petavius ​​​gave the translation of the introduction by *Achilles Tatius* from the 3rd century (c.f. Oxford Reference, 2024) on *Aratus'* (c. 315-240 BC) hexameter prose adaptation of the (lost) *Phenomena* and *Enoptron* by *Eudoxus of Cnidos*:
+Petavius ​​​gave the translation of the introduction by *Achilles Tatius* from the 3rd century (c.f. Oxford Reference, 2024) on *Aratus'* (c. 315-240 BC) hexameter prose adaptation of the (lost) *Phenomena* and *Enoptron* by *Eudoxus of Cnidus*:
 >"[...] largely responsible for turning astronomy into a mathematical science [...] was Eudoxus of Cnidus (ca. 390-337 B.C.). [...] we propose that Eudoxus was influenced by cosmological speculation, particularly that of the Pythagoreans and Plato. For, in their view, the circular motions of the heavenly bodies manifested a moral order that was ultimately analyzable by means of [...] whole-number ratios as melodious sound.", (Goldstein & Bowen, 1983, p. 332-333).
 
 A description of *astronomy*, the *world* and the *Earth* is given (Petavius, 1630, p. 256-267):
