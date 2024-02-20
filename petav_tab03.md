@@ -206,9 +206,15 @@ No summed values ​​are given between *Sem and Seniores*. Here it is suggeste
 >Nachor was the name of the father of Thare *and* his second son. Accordingly, a Nachor was Abram's grandfather *and* brother.
 In later profane documents the name is *mentioned variously* both as a personal name and as a city name.
 
-However, if (4) Abraham's brother were meant, a time difference of $n=270$ years *could* be considered plausible but would not be included in the calculation.
+However, if (4) Abraham's brother were meant, a time difference of $n=270$ years *could* be considered plausible but would not be included in the calculation (c.f. Frayne, 1997, 2021)
 
 ## References
+Frayne, D. (1997). *Ur III Period (2112-2004 BC)*. Toronto, Ontario: University of Toronto Press. http://www.jstor.org/stable/10.3138/j.ctt13x1qkz.
+
+———. (2021). *Presargonic Period: Early Periods, Volume 1 (2700-2350 BC)*. Toronto, Ontario: University of Toronto Press. https://books.google.com/books?id=dfi9zgEACAAJ.
+
+
+
 Maximus. (n.d.). Vat.gr.505 ed. Vatican: Biblioteca Apostolica Vaticana. https://digi.vatlib.it/view/MSS_Vat.gr.505.
 
 Petavius, D. (1630). *VRANOLOGION sive systema variorvm authorvm. qvi de sphaera, ac sideribvs, eorvmove motibvs Graece commentati sunt*. LVTETIAE PARISIORVM: Sumptibus Sebastiani Cramoisy, via Iacobaea, sub Ciconiis. M. DC. XXX. CVM PRIVILEGIO REGIS CHRISTIANISS. https://doi.org/10.3931/e-rara-2004.
