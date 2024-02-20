@@ -20,26 +20,26 @@ II	I	162	1122				-4378	Iared
 III		188	1642				-3858	Lamech
 	II	500	2142				-3358	Noë
 
-		100	2242¹				-3258	Sem
-		135	2377¹				-3123	Arphaxad
-IV		130	2507¹				-2993	Cainan
-		130	2637¹				-2863	Sala
-V		132	2769¹				-2731	Heber
-		130	2899¹				-2601	Phaleg
-	III	132	3031¹				-2469	Ragau
-		130	3161¹				-2339	Seruch
-VI		270	3161²				-2339	Nachor
-		70	3231¹				-2269	Tharrha
-		100	3331¹				-2169	Abraam
-		60	3391¹				-2109	Isaac
-		85	3476¹				-2024	Jacob
-		47	3523¹				-1977	Leui
-		62	3585¹				-1915	Caath
-		75	3660¹				-1840	Aram
-		80	3740¹				-1760	Moyses
-VII		40	3780¹				-1720	In deserto
-		32	3812¹				-1688	Iesus
-		50	3862¹				-1638	Seniores
+		100	2242¹				-3258¹	Sem
+		135	2377¹				-3123¹	Arphaxad
+IV		130	2507¹				-2993¹	Cainan
+		130	2637¹				-2863¹	Sala
+V		132	2769¹				-2731¹	Heber
+		130	2899¹				-2601¹	Phaleg
+	III	132	3031¹				-2469¹	Ragau
+		130	3161¹				-2339¹	Seruch
+VI		270	3161²				-2339²	Nachor
+		70	3231¹				-2269¹	Tharrha
+		100	3331¹				-2169¹	Abraam
+		60	3391¹				-2109¹	Isaac
+		85	3476¹				-2024¹	Jacob
+		47	3523¹				-1977¹	Leui
+		62	3585¹				-1915¹	Caath
+		75	3660¹				-1840¹	Aram
+		80	3740¹				-1760¹	Moyses
+VII		40	3780¹				-1720¹	In deserto
+		32	3812¹				-1688¹	Iesus
+		50	3862¹				-1638¹	Seniores
 		50	3909	3912			-1591	Chusarathem anni
 		50	3959				-1541	Othoniel
 		18	3977				-1523	Aeglon
