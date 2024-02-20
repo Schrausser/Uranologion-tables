@@ -39,7 +39,7 @@ Radius R			40107		6316,9
 
 Arcs $\alpha°$ and latitudes $\phi$, with $\alpha°=\frac{a_l⋅360}{2⋅r⋅\pi}$.
 ~~~
-							latitude phi		
+							phi		
 				a°	a° cum		from		to	
 
 Scrupula	Saturn		40,14	40,14		90,00 N		49,86 N
