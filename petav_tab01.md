@@ -86,7 +86,7 @@ Venus		667,4	2335,8	2541,2
 Mercury		244,9	857,2	1206,4
 ~~~
 
-Interestingly, if you don't use the conversion factor suggested by Petavius, one gets (1) the proportions of the *Earth*, $R_E=6378km$ and the *Moon*, $R_L=1738.1 km$ (c.f. Williams, 2024) and also (2) a boundary correspondence of the northernmost circle, *Saturno*, with an *arc length* of c. $a_l=4000 km$ and latitude of $\phi=50-54° N$  with the boundaries of the glaciation at the end of the *Holocene* in Europe, around 11700 years ago or c. 9700 BC (c.f. Walker et al., 2009).
+Interestingly, if you don't use the conversion factor suggested by Petavius, one gets (1) the proportions of the *Earth*, $R_E=6378km$ and the *Moon*, $R_L=1738.1 km$ (c.f. Williams, 2024) and also (2) a boundary correspondence of the northernmost circle, *Saturno*, with an *arc length* of c. $L_a=4000 km$ and latitude of $\phi=50-54° N$  with the boundaries of the glaciation at the end of the *Holocene* in Europe, around 11700 years ago or c. 9700 BC (c.f. Walker et al., 2009).
 
 
 ## References
