@@ -1,5 +1,5 @@
 # petav_tab02.md
->"De sex millenariis quádo singuli, & in quo desinant.", (Petavius, 1630, p. 355)
+>"De sex millenariis quádo singuli, & in quo desinant.", (Petavius, 1630, p. 355).
 
 >About each of the *six millennia* and where they end.
 
@@ -15,9 +15,9 @@ V		Cyri Persæ		31	5000	5031		5001	30	-469
 VI		Anastasij		17	6000	6017		6010	7	517
 ~~~
 
->"De periodis XI, quarum singuli annis constát DXXXII: quádo & vbi vnaquæque desinat.", (Petavius, 1630, p. 355)
+>"De periodis XI, quarum singuli annis constát DXXXII: quádo & vbi vnaquæque desinat.", (Petavius, 1630, p. 355).
 
->Of the *11 periods*, each consisting of *532 years*, when and where each one ends
+>Of the *11 periods*, each consisting of *532 years*, when and where each one ends.
 
 The 11 periods with sum over periods $\Sigma532$, year of the $end=nat+\Sigma532$, year of birth from the *chronology* $\Sigma$, the difference $diff=end-\Sigma$ and the actual year $AD=end-5500$.
 ~~~				
