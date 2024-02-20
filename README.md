@@ -12,10 +12,10 @@ Petavius ​​​gave the translation of the introduction by *Achilles Tatius* 
 A description of *astronomy*, the *world* and the *Earth* is given (Petavius, 1630, p. 256-267):
 
 >"ERATOSTHENIS, ALIAS HIPPARCHI
-[Pseudepigraphus hic libellus. Nam neutrius est], AD ARATI PHÆNOMENA.", (Petavius, 1630, p. 256).
+[Pseudepigraphus hic libellus. nam neutrius est], AD ARATI PHÆNOMENA.", (Petavius, 1630, p. 256).
 >
 >ERATOSTHENES,
-ALIAS HIPPARCH (This book is by *neither* of *them*), ON THE PHENOMENA OF ARATUS.
+ALIAS HIPPARCH (this book is by *neither* of *them*), ON THE PHENOMENA OF ARATUS.
 
 >De Zonis. PArallelis circulis zonæ quinque subjectæ sunt : Borealis, quæ tota supra terram eminnens est, inhabitabilis, alsiosa, Saturno dicata [...] Æstiua, cuius maior pars supra finitorem extollitur. Temperata in qua regio nostra sita est ; attributa Ioui [...] Æquinoctialis æqualem supra, infráque horizontem obtinens partem ; inhabitabilis est, exusta, Martis propria [...] hic enim tam ipsam, quàm totam sphæram mediam diuidit [...] Hiemalis contra atque æstius maiore sui parte sub horizonte latet ; habitabilis ; temperara ; dicata Veneri [...] Australis, quæ tota delitescit, inhabitabilis, frigida, ad Mercurium pertinens [...] Colliguntur ambitus terræ supra finitorem, scrupula 30 ; stadiorum verò 126000." (Petavius, 1630, p. 266).
 
