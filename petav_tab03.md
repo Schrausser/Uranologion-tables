@@ -1,5 +1,14 @@
 # petav_tab03.md
-"Temporum putatio, & summa.", (Petavius, 1630, p. 351-355), years of birth in comparison according to S. Maximus¹, with the 11 periods $per$, the 6 millennia $mill$, birth in years $nat$ after the predecessor and summed values $\Sigma$, corrected years $corr$, actual year $AD=\Sigma-5500$ and the names of the *patriarchs*.
+>"S. Maximi monachi et martyris. A illustri, ac laudum genere omni celebrando Patricio Petro, Maximus humilis Monachus.", (Petavius, 1630, p. 313).
+
+>St. Maximus, monk and martyr.
+Of the famous and laudable, celebrated by all, humble monk *Patricio Petro Maximus*.
+
+>"Temporum putatio, & summa.", (Petavius, 1630, p. 351-355)
+
+>Years of birth in comparison according to S. Maximus.
+
+Chronology from 5500 BC to 833 AD, with the 11 periods $per$, the 6 millennia $mill$, birth in years $nat$ after the predecessor and summed values $\Sigma$, corrected years $corr$, actual year $AD=\Sigma-5500$ and the names of the *patriarchs*.
 ~~~
 per	mill	year		corr			year			
 XI	VI	nat	S	1	2	3	AD	
@@ -15,26 +24,26 @@ II	I	162	1122				-4378	Iared
 III		188	1642				-3858	Lamech
 	II	500	2142				-3358	Noë
 
-		100	2242²				-3258	Sem
-		135	2377²				-3123	Arphaxad
-IV		130	2507²				-2993	Cainan
-		130	2637²				-2863	Sala
-V		132	2769²				-2731	Heber
-		130	2899²				-2601	Phaleg
-	III	132	3031²				-2469	Ragau
-		130	3161²				-2339	Seruch
-VI		270	3161³				-2339	Nachor
-		70	3231²				-2269	Tharrha
-		100	3331²				-2169	Abraam
-		60	3391²				-2109	Isaac
-		85	3476²				-2024	Jacob
-		47	3523²				-1977	Leui
-		62	3585²				-1915	Caath
-		75	3660²				-1840	Aram
-		80	3740²				-1760	Moyses
-VII		40	3780²				-1720	In deserto
-		32	3812²				-1688	Iesus
-		50	3862²				-1638	Seniores
+		100	2242¹				-3258	Sem
+		135	2377¹				-3123	Arphaxad
+IV		130	2507¹				-2993	Cainan
+		130	2637¹				-2863	Sala
+V		132	2769¹				-2731	Heber
+		130	2899¹				-2601	Phaleg
+	III	132	3031¹				-2469	Ragau
+		130	3161¹				-2339	Seruch
+VI		270	3161²				-2339	Nachor
+		70	3231¹				-2269	Tharrha
+		100	3331¹				-2169	Abraam
+		60	3391¹				-2109	Isaac
+		85	3476¹				-2024	Jacob
+		47	3523¹				-1977	Leui
+		62	3585¹				-1915	Caath
+		75	3660¹				-1840	Aram
+		80	3740¹				-1760	Moyses
+VII		40	3780¹				-1720	In deserto
+		32	3812¹				-1688	Iesus
+		50	3862¹				-1638	Seniores
 		50	3909	3912			-1591	Chusarathem anni
 		50	3959				-1541	Othoniel
 		18	3977				-1523	Aeglon
@@ -85,7 +94,7 @@ IX		29	4808				-692	Ezechias
 		3	4952				-548	Baltasar
 		17	4969				-531	Darius, & Astyages
 	V	32	5001				-499	Cyrus Persa
-		8	509⁴				-4991	Cambyses
+		8	509³				-4991	Cambyses
 		28	5037				-463	Darius Medus
 		21	5058				-442	Xerxes
 		33	5091				-409	Artaxerxes
@@ -187,14 +196,12 @@ XI		32	5828	5829			328	Constantinus
 		19						Basilius Thrax
 		26						Leo, & Alexander Basilij filij
 		1						Alexander, & Constantinus
-		7	6412²				912²	Constantinus
+		7	6412¹				912¹	Constantinus
 								Constãtinus, & Romanus
 ~~~
-¹) "S. Maximi monachi et martyris. A illustri, ac laudum genere omni celebrando Patricio Petro, Maximus humilis Monachus.", (Petavius, 1630, p. 313), St. Maximus, monk and martyr.
-Of the famous and laudable, celebrated by all, humble monk *Patricio Petro Maximus*.  
-²) values ​​are summed up; they are not listed as *sum* in the chronology.  
-³) $n=270$ years are subtracted (see below).  
-⁴) Sic.
+¹) values ​​are summed up; they are not listed as *sum* in the chronology.  
+²) $n=270$ years are subtracted (see below).  
+³) Sic.
 
 No summed values ​​are given between *Sem and Seniores*. Here it is suggested to continue the summation and to subtract the $n=270$ years to *Nachor*, this results in (1) a difference of only $n=3$ years (3909 vs. 3912) at the point of *Chusarathem anni*, from where the chronology continues. Although this approach may be speculative, one could find justification in (2) the obvious implausibility of $n=270$ years of life in a period *after* Noë and (3) in the *ambiguity* of the historical person of Nachor from the *sumerian* era himself:
 
