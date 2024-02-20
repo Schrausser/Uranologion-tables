@@ -61,13 +61,13 @@ Angle $\alpha°$ and latitude $\phi$, with $\alpha°=\frac{L_a⋅360}{2⋅r⋅\p
 				angle			phi		
 unit		Zone		a°	a° cum		from		to	
 
-Scrupula	Saturn		40,14	40,14		90,00 N		49,86 N
+scrupula	Saturn		40,14	40,14		90,00 N		49,86 N
 		Jupiter		30,41	70,54		49,86 N		19,46 N
 		Mars		48,65	119,19		19,46 N		29,19 S
 		Venus		30,41	149,59		29,19 S		59,59 S
 		Mercury		30,41	180,00		59,59 S		90,00 S
 
-Stadia		Saturn		36,00	36,00		90,00 N		54,00 N
+stadia		Saturn		36,00	36,00		90,00 N		54,00 N
 		Jupiter		30,00	66,00		54,00 N		24,00 N
 		Mars		48,00	114,00		24,00 N		24,00 S
 		Venus		30,00	144,00		24,00 S		54,00 S
