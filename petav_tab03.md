@@ -4,7 +4,7 @@
 >St. Maximus, monk and martyr.
 Of the famous and laudable, celebrated by all, humble monk *Patricio Petro Maximus*.
 
-Chronology (Petavius, 1630, p. 351-355) from 5500 BC to 833 AD, with the 11 periods $per$, the 6 millennia $mill$, birth in years $nat$ after the predecessor and summed values $\Sigma$, corrected years $corr$, actual year $AD=\Sigma-5500$ and the names of the *patriarchs*.
+Chronology (Maximus, n.d., fol. 240r-241r; Petavius, 1630, p. 351-355) from 5500 BC to 833 AD, with the 11 periods $per$, the 6 millennia $mill$, birth in years $nat$ after the predecessor and summed values $\Sigma$, corrected years $corr$, actual year $AD=\Sigma-5500$ and the names of the *patriarchs*.
 ~~~
 per	mill	year		corr			year			
 XI	VI	nat	S	1	2	3	AD	
