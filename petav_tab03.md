@@ -1,5 +1,5 @@
 # petav_tab03.md
->"S. Maximi monachi et martyris. A illustri, ac laudum genere omni celebrando Patricio Petro, Maximus humilis Monachus.", (Petavius, 1630, p. 313).
+>"S. MAXIMI MONACHI ET MARTYRIS. A illustri, ac laudum genere omni celebrando Patricio Petro, Maximus humilis Monachus.", (Petavius, 1630, p. 313).
 
 >St. Maximus, monk and martyr.
 Of the famous and laudable, celebrated by all, humble monk *Patricio Petro Maximus*.
