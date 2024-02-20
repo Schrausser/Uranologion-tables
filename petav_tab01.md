@@ -39,7 +39,7 @@ Circumference C			59,2	248640,0	39160,8
 Radius R			9,4	39572,3		6232,6
 ~~~
 
-Arc length $L_a$ from stades $st$ to $km$, where $km=st⋅0.1575$, circumference $C$, with $C=sum⋅2$ and radius $R$, with $R=\frac{C}{2\pi}$.				
+Arc length $L_a$ from stades $st$ to $km$, where $km=st⋅0.1575$ (*itinerary* stades, c.f. Engels, 1985, p. 304), circumference $C$, with $C=sum⋅2$ and radius $R$, with $R=\frac{C}{2\pi}$.				
 ~~~
 				La	
 Zone				st		km		cum km
