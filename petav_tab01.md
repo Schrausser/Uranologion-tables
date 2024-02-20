@@ -27,16 +27,16 @@ Scrupula $sc$ to stades $st'$, with $st'=sc⋅4200$ (as noted by Petavius), stad
 							al	
 				sc	st'		km	cum km
 
-Borealis	Saturn		6,6	7920		1247,4	1247,4
-Æstius		Jupiter		5	6000		945,0	2192,4
-Æquinoctialis	Mars		8	9600		1512,0	3704,4
-Hiemalis	Venus		5	6000		945,0	4649,4
-Australis	Mercury		5	6000		945,0	5594,4
-Colliguntur			30	36000		5670,0	
+Borealis	Saturn		6,6	27720		4365,9	4365,9
+Æstivs		Jupiter		5	21000		3307,5	7673,4
+Æquinoctialis	Mars		8	33600		5292,0	12965,4
+Hiemalis	Venus		5	21000		3307,5	16272,9
+Australis	Mercury		5	21000		3307,5	19580,4
+Colliguntur			30	126000		19845,0	
 
-sum				29,6	35520,0		5594,4	
-Circumference C			59,2	71040,0		11188,8	
-Radius R			9,4	11306,4		1780,8	
+sum				29,6	124320,0	19580,4	
+Circumference C			59,2	248640,0	39160,8	
+Radius R			9,4	39572,3		6232,6
 ~~~
 
 Stades $st$ to $a_l$ in $km$, where $km=st⋅0.1575$, circumference $C$, with $C=sum⋅2$ and radius $R$, with $R=\frac{C}{2\pi}$.				
