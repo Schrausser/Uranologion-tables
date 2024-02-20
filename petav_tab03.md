@@ -90,7 +90,7 @@ IX		29	4808				-692	Ezechias
 		3	4952				-548	Baltasar
 		17	4969				-531	Darius, & Astyages
 	V	32	5001				-499	Cyrus Persa
-		8	509³				-4991	Cambyses
+		8	509³	5009			-491	Cambyses
 		28	5037				-463	Darius Medus
 		21	5058				-442	Xerxes
 		33	5091				-409	Artaxerxes
