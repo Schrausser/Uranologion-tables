@@ -4,9 +4,9 @@
 
 >For each scruple is 1200 stades, more correctly 4200.				
 
-Scrupula $sc$ to stades $st$, with $st=sc⋅1200$, stades to $a_l$ in $km$, where $km=st⋅0.1575$ (*itinerary* stades, c.f. Engels, 1985, p. 304), circumference $C$, with $C=sum⋅2$ and radius $R$, with $R=\frac{C}{2\pi}$.
+Scrupula $sc$ to stades $st$, with $st=sc⋅1200$, stades to $L_a$ in $km$, where $km=st⋅0.1575$ (*itinerary* stades, c.f. Engels, 1985, p. 304), circumference $C$, with $C=sum⋅2$ and radius $R$, with $R=\frac{C}{2\pi}$.
 ~~~
-							al	
+				La	
 				sc	st		km	cum km
 
 Borealis	Saturn		6,6	7920		1247,4	1247,4
@@ -22,9 +22,9 @@ Radius R			9,4	11306,4		1780,8
 ~~~
 
 
-Scrupula $sc$ to stades $st'$, with $st'=sc⋅4200$ (as noted by Petavius), stades to $a_l$ in $km$, where $km=st'⋅0.1575$ (*itinerary* stades, c.f. Engels, 1985, p. 304), circumference $C$, with $C=sum⋅2$ and radius $R$, with $R=\frac{C}{2\pi}$.
+Scrupula $sc$ to stades $st'$, with $st'=sc⋅4200$ (as noted by Petavius), stades to $L_a$ in $km$, where $km=st'⋅0.1575$ (*itinerary* stades, c.f. Engels, 1985, p. 304), circumference $C$, with $C=sum⋅2$ and radius $R$, with $R=\frac{C}{2\pi}$.
 ~~~
-							al	
+				La	
 				sc	st'		km	cum km
 
 Borealis	Saturn		6,6	27720		4365,9	4365,9
@@ -39,9 +39,9 @@ Circumference C			59,2	248640,0	39160,8
 Radius R			9,4	39572,3		6232,6
 ~~~
 
-Stades $st$ to $a_l$ in $km$, where $km=st⋅0.1575$, circumference $C$, with $C=sum⋅2$ and radius $R$, with $R=\frac{C}{2\pi}$.				
+Stades $st$ to $L_a$ in $km$, where $km=st⋅0.1575$, circumference $C$, with $C=sum⋅2$ and radius $R$, with $R=\frac{C}{2\pi}$.				
 ~~~
-						al	
+				La	
 				st		km		cum km
 
 Borealis	Saturn		25200		3969,0		3969,0
