@@ -68,12 +68,16 @@ X		35	5339	-161	Ptolemæus Philometor
 		16	5384	-116	Ptolemæus Physconis
 		:	:	:	:
 ~~~
-See `petav_tab02.md`, `petav_tab03.md`, Maximus (n.d., fol. 240r-241r), Schissel (1934, p. 270) and Schnneider (1952, p. 519 ff.).
+See `petav_tab02.md`, `petav_tab03.md`, Maximus (n.d., fol. 240r-241r), Schissel (1934, p. 270) and also Schnneider (1952, p. 519 ff.) or Frayne, (1997, 2021)
 
 ## References
 Aratus, & Hyginus, G. I. (1569). *Arati Solensis Phaenomena Et Prognostica Interpretibus m. Tullio Cicerone, Rufo Festo Avieno, Germanico Caesare, Una Cum Ejus Commentariis: ; c. Julii Hygini Astronomicon*. 1st ed. Coloniae Agrippinae: Apud Theodorum Graminaeum. https://doi.org/10.3931/e-rara-53915.
 
 Engels, D. (1985). The Length of Eratosthenes’ Stade. *The American Journal of Philology 106* (3): 298–311. http://www.jstor.org/stable/295030.
+
+Frayne, D. (1997). *Ur III Period (2112-2004 BC)*. Toronto, Ontario: University of Toronto Press. http://www.jstor.org/stable/10.3138/j.ctt13x1qkz.
+
+———. (2021). *Presargonic Period: Early Periods, Volume 1 (2700-2350 BC)*. Toronto, Ontario: University of Toronto Press. https://books.google.com/books?id=dfi9zgEACAAJ.
 
 Goldstein, B. R., & Bowen, A. C. (1983). A New View of Early Greek Astronomy. *Isis 74* (3): 330–40. http://www.jstor.org/stable/232593.
 
