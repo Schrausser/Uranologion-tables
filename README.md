@@ -68,7 +68,7 @@ X		35	5339	-161	Ptolemæus Philometor
 		16	5384	-116	Ptolemæus Physconis
 		:	:	:	:
 ~~~
-See `petav_tab02.md`, `petav_tab03.md`, Maximus (n.d., fol. 240r-241r), Schissel (1934, p. 270) and also Schnneider (1952, p. 519 ff.), Pinches (1911) or Frayne (1997, 2021).
+See `petav_tab02.md`, `petav_tab03.md`, Maximus (n.d., fol. 240r-241r), Schissel (1934, p. 270) and also Schneider (1952, p. 519 ff.), Pinches (1911) or Frayne (1997, 2021).
 
 ## References
 Aratus, & Hyginus, G. I. (1569). *Arati Solensis Phaenomena Et Prognostica Interpretibus m. Tullio Cicerone, Rufo Festo Avieno, Germanico Caesare, Una Cum Ejus Commentariis: ; c. Julii Hygini Astronomicon*. 1st ed. Coloniae Agrippinae: Apud Theodorum Graminaeum. https://doi.org/10.3931/e-rara-53915.
