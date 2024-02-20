@@ -4,10 +4,10 @@
 
 >For each scruple is 1200 stades, more correctly 4200.				
 
-Scrupula $sc$ to stades $st$, with $st=sc⋅1200$, stades to $L_a$ in $km$, where $km=st⋅0.1575$ (*itinerary* stades, c.f. Engels, 1985, p. 304), circumference $C$, with $C=sum⋅2$ and radius $R$, with $R=\frac{C}{2\pi}$.
+Arc length $L_a$ from scrupula $sc$ to stades $st$, with $st=sc⋅1200$, from stades to $km$, where $km=st⋅0.1575$ (*itinerary* stades, c.f. Engels, 1985, p. 304), circumference $C$, with $C=sum⋅2$ and radius $R$, with $R=\frac{C}{2\pi}$.
 ~~~
 				La	
-				sc	st		km	cum km
+Zone				sc	st		km	cum km
 
 Borealis	Saturn		6,6	7920		1247,4	1247,4
 Æstius		Jupiter		5	6000		945,0	2192,4
@@ -22,10 +22,10 @@ Radius R			9,4	11306,4		1780,8
 ~~~
 
 
-Scrupula $sc$ to stades $st'$, with $st'=sc⋅4200$ (as noted by Petavius), stades to $L_a$ in $km$, where $km=st'⋅0.1575$ (*itinerary* stades, c.f. Engels, 1985, p. 304), circumference $C$, with $C=sum⋅2$ and radius $R$, with $R=\frac{C}{2\pi}$.
+Arc length $L_a$ from scrupula $sc$ to stades $st'$, with $st'=sc⋅4200$ (as noted by Petavius), from stades to $km$, where $km=st'⋅0.1575$ (*itinerary* stades, c.f. Engels, 1985, p. 304), circumference $C$, with $C=sum⋅2$ and radius $R$, with $R=\frac{C}{2\pi}$.
 ~~~
 				La	
-				sc	st'		km	cum km
+Zone				sc	st'		km	cum km
 
 Borealis	Saturn		6,6	27720		4365,9	4365,9
 Æstivs		Jupiter		5	21000		3307,5	7673,4
@@ -39,10 +39,10 @@ Circumference C			59,2	248640,0	39160,8
 Radius R			9,4	39572,3		6232,6
 ~~~
 
-Stades $st$ to $L_a$ in $km$, where $km=st⋅0.1575$, circumference $C$, with $C=sum⋅2$ and radius $R$, with $R=\frac{C}{2\pi}$.				
+Arc length $L_a$ from stades $st$ to $km$, where $km=st⋅0.1575$, circumference $C$, with $C=sum⋅2$ and radius $R$, with $R=\frac{C}{2\pi}$.				
 ~~~
 				La	
-				st		km		cum km
+Zone				st		km		cum km
 
 Borealis	Saturn		25200		3969,0		3969,0
 Æstius		Jupiter		21000		3307,5		7276,5
@@ -59,7 +59,7 @@ Radius R			40107		6316,9
 Arcs $\alpha°$ and latitudes $\phi$, with $\alpha°=\frac{a_l⋅360}{2⋅r⋅\pi}$.
 ~~~
 							phi		
-				a°	a° cum		from		to	
+		Zone		a°	a° cum		from		to	
 
 Scrupula	Saturn		40,14	40,14		90,00 N		49,86 N
 		Jupiter		30,41	70,54		49,86 N		19,46 N
@@ -77,7 +77,7 @@ Stadia		Saturn		36,00	36,00		90,00 N		54,00 N
 Zone height $h$ in $km$, with $h_n=r⋅\sin \alpha - h_{[n-1]}$.
 ~~~
 		km	
-		sc	sc'	st
+Zone		sc	sc'	st
 
 Saturn		419,3	1467,6	1206,4
 Jupiter		768,2	2688,7	2541,2
