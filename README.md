@@ -21,9 +21,10 @@ ALIAS HIPPARCH (this book is by *neither* of *them*), ON THE PHENOMENA OF ARATUS
 
 >About the Zones: Parallel to the circles there are five sub-zones: *The North*, which is entirely above the Earth, uninhabitable, sticky and dedicated to *Saturn*. *The Summer*, the greater part of which is emphasized above the limiter, is  the climate in which our region is located and attributed to *Jupiter*. *The equinoctial part*, having an equal part above and below the horizon, is uninhabitable, scorched and proper to *Mars*, for here it divides both, itself and the whole sphere in the middle. The greater part of *Winter*, in the contrary to Summer, is hidden below the horizon;  habitable;  temperate;  dedicated to *Venus*. *The South*, which is entirely hidden, uninhabitable and  cold is belonging to *Mercury*. Areas above the limiter of the earth are collected, 30 scruples, indeed 126000 stades.
 
-Circuli in *arc length* $L_a$, resulting in half the circumference $\frac{C}{2}$, given in *scrupula* $sc$, *patens* $pt$ and *stadia* $st$ (c.f. Engels, 1985).
+Zones in *arc length* $L_a$, resulting in half the circumference $\frac{C}{2}$, given in *scrupula* $sc$, *patens* $pt$ and *stadia* $st$ (c.f. Engels, 1985).
 ~~~				
-				sc		pt		st
+				La
+Zone				sc		pt		st
 
 Borealis	Saturn		sexagesima	sex		25200
 Æstius		Jupiter		quinque				21000
