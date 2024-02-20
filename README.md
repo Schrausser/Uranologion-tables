@@ -68,7 +68,7 @@ X		35	5339	-161	Ptolemæus Philometor
 		16	5384	-116	Ptolemæus Physconis
 		:	:	:	:
 ~~~
-See `petav_tab02.md`, `petav_tab03.md`, Maximus (n.d., fol. 240r-241r), Schissel (1934, p. 270) and also Schnneider (1952, p. 519 ff.) or Frayne, (1997, 2021)
+See `petav_tab02.md`, `petav_tab03.md`, Maximus (n.d., fol. 240r-241r), Schissel (1934, p. 270) and also Schnneider (1952, p. 519 ff.), Pinches (1911) or Frayne (1997, 2021).
 
 ## References
 Aratus, & Hyginus, G. I. (1569). *Arati Solensis Phaenomena Et Prognostica Interpretibus m. Tullio Cicerone, Rufo Festo Avieno, Germanico Caesare, Una Cum Ejus Commentariis: ; c. Julii Hygini Astronomicon*. 1st ed. Coloniae Agrippinae: Apud Theodorum Graminaeum. https://doi.org/10.3931/e-rara-53915.
@@ -86,6 +86,8 @@ Maximus. (n.d.). Vat.gr.505 ed. Vatican: Biblioteca Apostolica Vaticana. https:
 Oxford Reference. (2024). Achilles Tatius. https://www.oxfordreference.com/display/10.1093/oi/authority.20110803095347168.
 
 Petavius, D. (1630). *VRANOLOGION sive systema variorvm authorvm. qvi de sphaera, ac sideribvs, eorvmove motibvs Graece commentati sunt*. LVTETIAE PARISIORVM: Sumptibus Sebastiani Cramoisy, via Iacobaea, sub Ciconiis. M. DC. XXX. CVM PRIVILEGIO REGIS CHRISTIANISS. https://doi.org/10.3931/e-rara-2004.
+
+Pinches, T. G. (1911). Review of Sumerian Administrative Documents, Dated in the Reigns of the Second Dynasty of Ur, from the Temple Archives of Nippur Preserved in Philadelphia. Vol. III, Part i, by d. W. Myhrman & h. V. Hilprecht. *Journal of the Royal Asiatic Society of Great Britain and Ireland*, 571–73. http://www.jstor.org/stable/25189899.
 
 Schissel, O. (1934). NOTE SUR UN CATALOGUS CODICUM CHRONOLOGORUM GRAECORUM. *Byzantion 9* (1): 269–95. http://www.jstor.org/stable/44168086.
 
