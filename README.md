@@ -12,7 +12,7 @@ Petavius ​​​gave the translation of the introduction by *Achilles Tatius* 
 A description of *astronomy*, the *world* and the *Earth* is given (Petavius, 1630, p. 256-267):
 
 >"ERATOSTHENIS, ALIAS HIPPARCHI
-(Pseudepigraphus hic libellus. Nam neutrius est), AD ARATI PHÆNOMENA.", (Petavius, 1630, p. 256).
+[Pseudepigraphus hic libellus. Nam neutrius est], AD ARATI PHÆNOMENA.", (Petavius, 1630, p. 256).
 >
 >ERATOSTHENES,
 ALIAS HIPPARCH (This book is by *neither* of *them*), ON THE PHENOMENA OF ARATUS.
