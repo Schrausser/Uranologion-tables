@@ -2,7 +2,7 @@
 
 Tables on the *Phenomena of Aratus* (e.g. Aratus & Hyginus, 1569) and the *chronology* of Maximus (c.f. Schissel, 1934) from the transscription and latin translation in the famous *Uranologion* by Denis Pétau or Dionysius Petavius (1630):
 
->"Achillis Tatii Isagoge ad Arati phænomena, liber falso Eratostheni tribuitur.", (Petavius, 1630, index).
+>"Achillis Tatij Isagoge ad Arati Phænomena, qui liber falsò Eratostheni tribuitur.", (Petavius, 1630, index).
 
 >Achilles Tatius' *introduction* to the *Phenomena of Aratus*. The book is *incorrectly* attributed to *Eratosthenes*.
 
