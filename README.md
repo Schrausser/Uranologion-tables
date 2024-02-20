@@ -41,7 +41,7 @@ For implications of the descriptions of the *arc lengths* $L_a$ in *scruples* $s
 Excerpt from the *chronology* of Maximus, *S. MAXIMI COMPUTI*, which extends from the *Neolithic* period of 5500 BC until the early *Middle Ages* (833 AD, 912 AD, respectively).
 ~~~
 per	mill	year			
-XI	VI	nat	S	AD	
+XI	VI	nat	S	AD	patriarch
 
 		230	230	-5270	Adam annus natus erat
 		205	435	-5065	Seth
