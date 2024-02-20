@@ -77,16 +77,16 @@ Stadia		Saturn		36,00	36,00		90,00 N		54,00 N
 Zone height $h$ in $km$, with $h_n=r⋅\sin \alpha - h_{[n-1]}$.
 ~~~
 		km	
-		sc		st
+		sc	sc'	st
 
-Saturn		419,32		1206,42
-Jupiter		768,19		2541,15
-Mars		1461,70		5138,60
-Venus		667,38		2541,15
-Mercury		244,92		1206,40
+Saturn		419,3	1467,6	1206,4
+Jupiter		768,2	2688,7	2541,2
+Mars		1461,7	5116,0	5138,6
+Venus		667,4	2335,8	2541,2
+Mercury		244,9	857,2	1206,4
 ~~~
 
-Interestingly, if you don't use the conversion factor suggested by Petavius, one gets (1) the proportions of the *Earth*, $R_E=6378km$ and the *Moon*, $R_L=1738.1 km$ (c.f. Williams, 2024) and also (2) a boundary correspondence of the northernmost circle, *Saturno*, with an *arc length* of c. $a_l=4000 km$ and latitude of $\phi=54° N$  with the boundaries of the glaciation at the end of the *Holocene* in Europe, around 11700 years ago or c. 9700 BC (c.f. Walker et al., 2009).
+Interestingly, if you don't use the conversion factor suggested by Petavius, one gets (1) the proportions of the *Earth*, $R_E=6378km$ and the *Moon*, $R_L=1738.1 km$ (c.f. Williams, 2024) and also (2) a boundary correspondence of the northernmost circle, *Saturno*, with an *arc length* of c. $a_l=4000 km$ and latitude of $\phi=50-54° N$  with the boundaries of the glaciation at the end of the *Holocene* in Europe, around 11700 years ago or c. 9700 BC (c.f. Walker et al., 2009).
 
 
 ## References
