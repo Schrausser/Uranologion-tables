@@ -36,7 +36,7 @@ Colliguntur			30				126000
 
 
 It should be noted that here the names of the *planets* are assigned to the *zones* of the Earth.
-For implications of the descriptions of the *arc lengths* $L_a$ in *scruples* $sc$ and *stades* $st$ see `petav_tab01.md`, Walker et al., (2009) and Williams (2024).
+For implications of the descriptions of the *arc lengths* $L_a$ in *scruples* $sc$ and *stades* $st$ see `petav_tab01.md`, Walker et al. (2009) and Williams (2024).
 
 Excerpt from the *chronology* of Maximus, *S. MAXIMI COMPUTI*, which extends from the *Neolithic* period of 5500 BC until the early *Middle Ages* (833 AD, 912 AD, respectively).
 ~~~
