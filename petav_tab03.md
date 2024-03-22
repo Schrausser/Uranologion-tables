@@ -199,7 +199,7 @@ XI		32	5828	5829			328	Constantinus
 ²) $n=270$ years are subtracted (see below).  
 ³) Sic.
 
-No summed values ​​are given between *Sem and Seniores*. Here it is suggested to continue the summation and to subtract the $n=270$ years to *Nachor*, this results in (1) a difference of only $n=3$ years (3909 vs. 3912) at the point of *Chusarathem anni*, from where the chronology continues. Although this approach may be speculative, one could find justification in (2) the obvious implausibility of $n=270$ years of life in a period *after* Noë and (3) in the *ambiguity* of the historical person of Nachor from the *Sumerian* era between *UR I* and *UR III* himself:
+No summed values ​​are given between *Sem and Seniores*. Here it is suggested to continue the summation and to subtract the $n=270$ years to *Nachor*, this results in (1) a difference of only $n=3$ years (3909 vs. 3912) at the point of *Chusarathem anni*, from where the chronology continues. Although this approach may be speculative, one could find justification in (2) the obvious implausibility of $n=270$ years of life in a period *after* Noë and (3) in the *ambiguity* of the historical person of Nachor from the *Sumerian* era between *Ur I* and *Ur III* himself:
 
  >[...] Nachor war der Name des Vaters von Thare und dessen zweiten Sohnes. Demnach war ein Nachor Grossvater und Bruder Abrams. In späteren Profanurkunden ist der Name sowohl als Personenname als auch als Stadtname verschiedentlich erwähnt [...]", (Schneider, 1952, p. 519).
 
