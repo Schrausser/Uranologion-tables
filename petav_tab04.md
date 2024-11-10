@@ -1,3 +1,5 @@
+# petav_tab04.md
+
 Differences in the sequence of the chronologies of Petavius (1630) ​​and Maximus (n.d.).
 ~~~											
 per	mill	year				nr		diff		patriarch	
@@ -95,3 +97,8 @@ X		5339	5264	-161	-236	96	93	75	-3	Ptolemæus Philometor		Ptolemæus Euergetes
 		6412¹	6412¹	912¹	912¹	183	183			Constantinus			Constantinus
 						184	184	0	0	Constãtinus, & Romanus		Constãtinus, & Romanus
 ~~~
+## References
+
+Maximus. (n.d.). Vat.gr.505 ed. Vatican: Biblioteca Apostolica Vaticana. https://digi.vatlib.it/view/MSS_Vat.gr.505.
+
+Petavius, D. (1630). *VRANOLOGION sive systema variorvm authorvm. qvi de sphaera, ac sideribvs, eorvmove motibvs Graece commentati sunt*. LVTETIAE PARISIORVM: Sumptibus Sebastiani Cramoisy, via Iacobaea, sub Ciconiis. M. DC. XXX. CVM PRIVILEGIO REGIS CHRISTIANISS. https://doi.org/10.3931/e-rara-2004.
