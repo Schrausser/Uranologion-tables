@@ -1,4 +1,4 @@
-Greek (Byzantine) numerals, greek letter *gl* with corresponding number *n*.
+Greek (Byzantine) numerals, Greek letter *gl* with corresponding number *n*.
 ~~~
 gl   n
 
@@ -21,4 +21,29 @@ gl   n
 μ    40
 υ    400
 ,Δ   4000
+
+5
+50
+500
+5000
+
+6
+60
+600
+6000
+
+7
+70
+700
+7000
+
+8
+80
+800
+8000
+
+9
+90
+900
+9000
 ~~~
