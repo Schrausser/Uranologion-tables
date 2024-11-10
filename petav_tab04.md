@@ -1,3 +1,4 @@
+Differences in the sequence of the chronologies of Petavius (1630) ​​and Maximus (n.d.).
 ~~~											
 per	mill	year				nr		diff		patriarch	
 XI	VI	Sp	Sm	ADp	ADm	p	m	S	nr	Petavius			Maximus
