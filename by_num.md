@@ -1,5 +1,6 @@
+Greek (Byzantine) numerals, greek letter *gl* with corresponding number *n*.
 ~~~
-gl   num
+gl   n
 
 α    1
 ι    10
