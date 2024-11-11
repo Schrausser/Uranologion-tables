@@ -1,6 +1,6 @@
 # Uranologion-tables
 
-Tables on the *Phenomena of Aratus* (e.g. Aratus & Hyginus, 1569) and the *chronology* of Maximus (c.f. Schissel, 1934) from the transscription and latin translation in the famous *Uranologion* by Denis Pétau or Dionysius Petavius (1630):
+Tables on the *Phenomena of Aratus* (e.g. Aratus & Hyginus, 1569) and the *chronology* of Maximus (c.f. Schissel, 1934) from the transscription and latin translation in the famous *Uranologion* by Denis Pétau or Dionysius Petavius (1630), c.f. `petav_tr01`:
 
 >"Achillis Tatij Isagoge ad Arati Phænomena, qui liber falsò Eratostheni tribuitur.", (Petavius, 1630, index).
 
