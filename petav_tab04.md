@@ -12,9 +12,9 @@ XI	VI	P	M	P	M	p	M	S	nr	P				M
 		3977	3977	-1523	-1523	33	33	0	0	Aeglon				Aeglon
 	IV	4027	4027	-1473	-1473	34	34	0	0	Aoth				Aoth
 		4047	4047	-1453	-1453	35	35	0	0	Semgar				Semgar
-		4067	4626	-1433	-874	36	62	-559	26	Iebusæi				| Gotholia
-		4107	4666	-1393	-834	37	63	-559	26	Deborra				| Ioas
-		4114	4695	-1386	-805	38	64	-581	26	Oriph, & Ziph			| Amasias
+		4067	4626	-1433	-874	36	62	-559	26	Iebusæi				| Gotholia¹
+		4107	4666	-1393	-834	37	63	-559	26	Deborra				| Ioas¹
+		4114	4695	-1386	-805	38	64	-581	26	Oriph, & Ziph			| Amasias¹
 		4154	4067	-1346	-1433	39	36	87	-3	Gedeon				Iebusæi
 		4157	4107	-1343	-1393	40	37	50	-3	Abimelech			Deborra
 		4179	4114	-1321	-1386	41	38	65	-3	Thola				Oriph, & Ziph
@@ -38,12 +38,12 @@ VIII		4290	4232	-1210	-1268	48	45	58	-3	Philistæi			Essebon
 		4610	4527	-890	-973	59	56	83	-3	Iosaphat			Roboam
 		4618	4530	-882	-970	60	57	88	-3	Ioram				Abia
 		4619	4571	-881	-929	61	58	48	-3	Ochozias			Asa
-		4626	4610	-874	-890	62	59	16	-3	| Gotholia			Iosaphat
-		4666	4618	-834	-882	63	60	48	-3	| Ioas				Ioram
-		4695	4619	-805	-881	64	61	76	-3	| Amasias			Ochozias
-		4747	5579	-753	79	65	110	-832	45	Ozias				|| Vespasianus
-		4763	5582	-737	82	66	111	-819	45	Ioatham				|| Titus
-		4779	5597	-721	97	67	112	-818	45	Achas				|| Domitianus
+		4626	4610	-874	-890	62	59	16	-3	| Gotholia¹			Iosaphat
+		4666	4618	-834	-882	63	60	48	-3	| Ioas¹				Ioram
+		4695	4619	-805	-881	64	61	76	-3	| Amasias¹			Ochozias
+		4747	5579	-753	79	65	110	-832	45	Ozias				|| Vespasianus²
+		4763	5582	-737	82	66	111	-819	45	Ioatham				|| Titus²
+		4779	5597	-721	97	67	112	-818	45	Achas				|| Domitianus²
 IX		4808	4747	-692	-753	68	65	61	-3	Ezechias			Ozias
 		4863	4763	-637	-737	69	66	100	-3	Manasses			Ioatham
 		4865	4779	-635	-721	70	67	86	-3	Amos				Achas
@@ -57,10 +57,10 @@ IX		4808	4747	-692	-753	68	65	61	-3	Ezechias			Ozias
 		4952	4920	-548	-580	78	75	32	-3	Baltasar			Sedecias
 		4969	4944	-531	-556	79	76	25	-3	Darius, & Astyages		Nabuchodonoser
 	V	5001	4949	-499	-551	80	77	52	-3	Cyrus Persa			Valamadarach
-		509	4952	-491	-548	81	78	-4443	-3	Cambyses			Baltasar
+		509³	4952	-491	-548	81	78	-4443	-3	Cambyses			Baltasar
 		5037	4969	-463	-531	82	79	68	-3	Darius Medus			Darius, & Astyages
 		5058	5001	-442	-499	83	80	57	-3	Xerxes				Cyrus Persa
-		5091	5009	-409	-491	84	81	82	-3	Artaxerxes			Cambyses
+		5091	5009³	-409	-491	84	81	82	-3	Artaxerxes			Cambyses
 		5110	5037	-390	-463	85	82	73	-3	Darius				Darius Medus
 		5144	5058	-356	-442	86	83	86	-3	Artaxerxes			Xerxes
 		5165	5091	-335	-409	87	84	74	-3	Ochus				Artaxerxes
@@ -86,9 +86,9 @@ X		5339	5264	-161	-236	96	93	75	-3	Ptolemæus Philometor		Ptolemæus Euergetes
 		5541	5458	41	-42	107	104	83	-3	Caius				C.Iulius Romanorum
 		5555	5515	55	15	108	105	40	-3	Claudius			Cæsar Augustus
 		5569	5537	69	37	109	106	32	-3	Nero				Tiberius
-		5579	5541	79	41	110	107	38	-3	|| Vespasianus			Caius
-		5582	5555	82	55	111	108	27	-3	|| Titus			Claudius
-		5597	5569	97	69	112	109	28	-3	|| Domitianus			Nero
+		5579	5541	79	41	110	107	38	-3	|| Vespasianus²			Caius
+		5582	5555	82	55	111	108	27	-3	|| Titus²			Claudius
+		5597	5569	97	69	112	109	28	-3	|| Domitianus²			Nero
 		5598	5598	98	98	113	113	0	0	Nerua				Nerua
 		5616	5616	116	116	114	114	0	0	Traianus			Traianus
 :	:	:								:				:
@@ -97,6 +97,10 @@ X		5339	5264	-161	-236	96	93	75	-3	Ptolemæus Philometor		Ptolemæus Euergetes
 		6412	6412	912	912	183	183			Constantinus			Constantinus
 						184	184	0	0	Constãtinus, & Romanus		Constãtinus, & Romanus
 ~~~
+¹) were moved back by 26 positions at $M$, the year numbers remain unchanged.  
+²) were moved back by 45 positions at $M$, the year numbers remain unchanged.  
+³) correct year number at $M$.  
+
 ## References
 
 Maximus. (n.d.). Vat.gr.505 ed. Vatican: Biblioteca Apostolica Vaticana. https://digi.vatlib.it/view/MSS_Vat.gr.505.
