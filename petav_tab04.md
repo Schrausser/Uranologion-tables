@@ -1,9 +1,9 @@
 # petav_tab04.md
 
-Differences in the sequence of the chronologies of Petavius (1630) ​​and Maximus (n.d.).
+Differences in the sequence of the chronologies of Petavius (1630) *P* ​​and Maximus (n.d.) *M*.
 ~~~											
-per	mill	year				nr		diff		patriarch	
-XI	VI	Sp	Sm	ADp	ADm	p	m	S	nr	Petavius			Maximus
+per	mill	S		AD		nr		diff		patriarch	
+XI	VI	P	M	P	M	p	M	S	nr	P				M
 											
 		230	230	-5270	-5270	1	1	0	0	Adam annus natus erat		Adam...
 :	:	:								:				:
@@ -57,7 +57,7 @@ IX		4808	4747	-692	-753	68	65	61	-3	Ezechias			Ozias
 		4952	4920	-548	-580	78	75	32	-3	Baltasar			Sedecias
 		4969	4944	-531	-556	79	76	25	-3	Darius, & Astyages		Nabuchodonoser
 	V	5001	4949	-499	-551	80	77	52	-3	Cyrus Persa			Valamadarach
-		509³	4952	-491	-548	81	78	-4443	-3	Cambyses			Baltasar
+		509	4952	-491	-548	81	78	-4443	-3	Cambyses			Baltasar
 		5037	4969	-463	-531	82	79	68	-3	Darius Medus			Darius, & Astyages
 		5058	5001	-442	-499	83	80	57	-3	Xerxes				Cyrus Persa
 		5091	5009	-409	-491	84	81	82	-3	Artaxerxes			Cambyses
@@ -94,7 +94,7 @@ X		5339	5264	-161	-236	96	93	75	-3	Ptolemæus Philometor		Ptolemæus Euergetes
 :	:	:								:				:
 		6333	6333	833	833	176	176	0	0	Theophilus Michaëlis F.		Theophilus Michaëlis F.
 :	:	:								:				:
-		6412¹	6412¹	912¹	912¹	183	183			Constantinus			Constantinus
+		6412	6412	912	912	183	183			Constantinus			Constantinus
 						184	184	0	0	Constãtinus, & Romanus		Constãtinus, & Romanus
 ~~~
 ## References
