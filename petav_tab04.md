@@ -99,7 +99,7 @@ X		5339	5264	-161	-236	96	93	75	-3	Ptolemæus Philometor		Ptolemæus Euergetes
 ~~~
 ¹) were moved back by 26 positions at $M$, the year numbers remain unchanged.  
 ²) were moved back by 45 positions at $M$, the year numbers remain unchanged.  
-³) correct year number at $M$.  
+³) correct year number at $M$, c.f. `by_num`.  
 
 ## References
 
