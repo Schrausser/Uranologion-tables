@@ -36,7 +36,7 @@ Colliguntur			30				126000
 
 
 It should be noted that here the names of the *planets* are assigned to the *zones* of the Earth.
-For implications of the descriptions of the *arc lengths* $L_a$ in *scruples* $sc$ and *stades* $st$ see `petav_tab01.md`, Walker et al. (2009) and Williams (2024).
+For implications of the descriptions of the *arc lengths* $L_a$ in *scruples* $sc$ and *stades* $st$ see `petav_tab01`, Walker et al. (2009) and Williams (2024).
 
 Excerpt from the *chronology* of Maximus, *S. MAXIMI COMPUTI*, which extends from the *Neolithic* period of 5500 BC until the early *Middle Ages* (833 AD, 912 AD, respectively).
 ~~~
@@ -69,7 +69,7 @@ X		35	5339	-161	Ptolemæus Philometor
 		16	5384	-116	Ptolemæus Physconis
 		:	:	:	:
 ~~~
-See `petav_tab02.md`, `petav_tab03.md`, Maximus (n.d., fol. 240r-241r), Schissel (1934, p. 270) and also Schneider (1952, p. 519 ff.), Pinches (1911) or Frayne (1997, 2021).
+See `petav_tab02`, `petav_tab03`, `petav_tab04`, Maximus (n.d., fol. 240r-241r), Schissel (1934, p. 270) and also Schneider (1952, p. 519 ff.), Pinches (1911) or Frayne (1997, 2021).
 
 ## References
 Aratus, & Hyginus, G. I. (1569). *Arati Solensis Phaenomena Et Prognostica Interpretibus m. Tullio Cicerone, Rufo Festo Avieno, Germanico Caesare, Una Cum Ejus Commentariis: ; c. Julii Hygini Astronomicon*. 1st ed. Coloniae Agrippinae: Apud Theodorum Graminaeum. https://doi.org/10.3931/e-rara-53915.
