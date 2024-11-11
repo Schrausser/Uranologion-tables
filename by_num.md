@@ -1,4 +1,4 @@
-Greek (Byzantine) numerals, Greek letter *gl* with corresponding number *n*.
+Greek (Byzantine) numerals, Greek letter $gl$ with corresponding number $n$.
 ~~~
 gl   n
 
