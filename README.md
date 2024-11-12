@@ -86,7 +86,7 @@ Gelzer, H. (1880). *SEXTUS JULIUS AFRICANUS UND DIE BYZANTINISCHE CHRONOGRAPHIE
 
 ———. (1898a). *SEXTUS JULIUS AFRICANUS UND DIE BYZANTINISCHE CHRONOGRAPHIE*. Vol. II.1: Die Nachfolger des Julius Africanus. Leipzig: J. C. Hinrichs’sche Buchhandlung. https://archive.org/details/sextusjuliusafr01gelzgoog.
 
-———. (1898. *SEXTUS JULIUS AFRICANUS UND DIE BYZANTINISCHE CHRONOGRAPHIE*. Vol. II.2: Nachträge. Leipzig: J. C. Hinrichs’sche Buchhandlung. https://archive.org/details/sextusjuliusafr00gelzgoog.
+———. (1898b). *SEXTUS JULIUS AFRICANUS UND DIE BYZANTINISCHE CHRONOGRAPHIE*. Vol. II.2: Nachträge. Leipzig: J. C. Hinrichs’sche Buchhandlung. https://archive.org/details/sextusjuliusafr00gelzgoog.
 
 Goldstein, B. R., & Bowen, A. C. (1983). A New View of Early Greek Astronomy. *Isis 74* (3): 330–40. http://www.jstor.org/stable/232593.
 
