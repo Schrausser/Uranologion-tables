@@ -71,6 +71,8 @@ X		35	5339	-161	Ptolemæus Philometor
 ~~~
 See `petav_tab02`, `petav_tab03`, `petav_tab04`, Maximus (n.d., fol. 240r-241r), Schissel (1934, p. 270) and also Schneider (1952, p. 519 ff.), Pinches (1911) or Frayne (1997, 2021).
 
+Further and more profound information on the subject of Byzantine chronology can be found at Gelzer (1880, 1898a, b).
+
 ## References
 Aratus, & Hyginus, G. I. (1569). *Arati Solensis Phaenomena Et Prognostica Interpretibus m. Tullio Cicerone, Rufo Festo Avieno, Germanico Caesare, Una Cum Ejus Commentariis: ; c. Julii Hygini Astronomicon*. 1st ed. Coloniae Agrippinae: Apud Theodorum Graminaeum. https://doi.org/10.3931/e-rara-53915.
 
@@ -79,6 +81,12 @@ Engels, D. (1985). The Length of Eratosthenes’ Stade. *The American Journal o
 Frayne, D. (1997). *Ur III Period (2112-2004 BC)*. Toronto, Ontario: University of Toronto Press. http://www.jstor.org/stable/10.3138/j.ctt13x1qkz.
 
 ———. (2021). *Presargonic Period: Early Periods, Volume 1 (2700-2350 BC)*. Toronto, Ontario: University of Toronto Press. https://books.google.com/books?id=dfi9zgEACAAJ.
+
+Gelzer, H. (1880). *SEXTUS JULIUS AFRICANUS UND DIE BYZANTINISCHE CHRONOGRAPHIE*. Vol. I: DIE CHRONOGRAPHIE DES JULIUS AFRICANUS. Leipzig: Druck und Verlag von B. G. Teubner. https://archive.org/details/sextusjuliusafr02gelzgoog.
+
+———. (1898a). *SEXTUS JULIUS AFRICANUS UND DIE BYZANTINISCHE CHRONOGRAPHIE*. Vol. II.1: Die Nachfolger des Julius Africanus. Leipzig: J. C. Hinrichs’sche Buchhandlung. https://archive.org/details/sextusjuliusafr01gelzgoog.
+
+———. (1898. *SEXTUS JULIUS AFRICANUS UND DIE BYZANTINISCHE CHRONOGRAPHIE*. Vol. II.2: Nachträge. Leipzig: J. C. Hinrichs’sche Buchhandlung. https://archive.org/details/sextusjuliusafr00gelzgoog.
 
 Goldstein, B. R., & Bowen, A. C. (1983). A New View of Early Greek Astronomy. *Isis 74* (3): 330–40. http://www.jstor.org/stable/232593.
 
