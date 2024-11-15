@@ -101,7 +101,16 @@ X		5339	5264	-161	-236	96	93	75	-3	Ptolemæus Philometor		Ptolemæus Euergetes
 ²) were moved back by 45 positions at $M$, the year numbers remain unchanged.  
 ³) correct year number at $M$, c.f. `by_num`.  
 
+The reason why the *Flavian dynasty* was relocated to the 8th century BC remains unclear, a similar inconsistency concerning the era of *Vespasian* may be noted here (s. Hilts, 2013 or Jacques, 2014):
+
+>" [...] the Iron Age fortifications [...]
+Dubbed ‘Vespasian’s Camp’ by the Elizabethan antiquarian William Camden — despite having no connection to the Roman commander (and later emperor) who subdued Britain’s southwest [...] — the full archaeological potential of the 2,500-year-old hillfort only started to be appreciated recently.", (Hilts, 2013).
+
 ## References
+
+Hilts, C. (2013). *Vespasian’s Camp: Cradle of Stonehenge*. Current Archaeology. https://archaeology.co.uk/articles/features/vespasians-camp-cradle-of-stonehenge.htm.
+
+Jacques, D. (2014). *Vespasian’s Camp and the extent of its eighteenth century landscaping*. University of Buckingham. https://www.buckingham.ac.uk/research/hri/fellows/jacques/18thcentury.
 
 Maximus. (n.d.). Vat.gr.505 ed. Vatican: Biblioteca Apostolica Vaticana. https://digi.vatlib.it/view/MSS_Vat.gr.505.
 
