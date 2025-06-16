@@ -1,6 +1,6 @@
 # petav_tab04.md
 
-Differences in the sequence of the chronologies of Petavius (1630, p. 351-355) $P$ ​​and Maximus (n.d., fol. 240r-241r) $M$, with periods $per$, millennia $mill$, summed years $\Sigma$, $AD=\Sigma-5500$, number $nr$, differences $diff$ and the names of the *patriarchs* (s. `petav_tab03`).
+Differences in the sequence of the chronologies of Petavius ([1630](https://doi.org/10.3931/e-rara-2004), p. 351-355) $P$ ​​and Maximus ([n.d.](https://digi.vatlib.it/view/MSS_Vat.gr.505), fol. 240r-241r) $M$, with periods $per$, millennia $mill$, summed years $\Sigma$, $AD=\Sigma-5500$, number $nr$, differences $diff$ and the names of the *patriarchs* (s. `petav_tab03`).
 ~~~											
 per	mill	S		AD		nr		diff		patriarch	
 XI	VI	P	M	P	M	p	M	S	nr	P				M
@@ -101,17 +101,17 @@ X		5339	5264	-161	-236	96	93	75	-3	Ptolemæus Philometor		Ptolemæus Euergetes
 ²) were moved back by 45 positions at $M$, the year numbers remain unchanged.  
 ³) correct year number at $M$, c.f. `by_num`.  
 
-The reason why the *Flavian dynasty* was relocated to the 8th century BC remains unclear, a similar inconsistency concerning the era of *Vespasian* may be noted here (s. Hilts, 2013 or Jacques, 2014):
+The reason why the *Flavian dynasty* was relocated to the 8th century BC remains unclear, a similar inconsistency concerning the era of *Vespasian* may be noted here (s. Hilts, [2013](https://archaeology.co.uk/articles/features/vespasians-camp-cradle-of-stonehenge.htm) or Jacques, [2014](https://www.buckingham.ac.uk/research/hri/fellows/jacques/18thcentury)):
 
 >" [...] the Iron Age fortifications [...]
-Dubbed ‘Vespasian’s Camp’ by the Elizabethan antiquarian William Camden — despite having no connection to the Roman commander (and later emperor) who subdued Britain’s southwest [...] — the full archaeological potential of the 2,500-year-old hillfort only started to be appreciated recently.", (Hilts, 2013).
+Dubbed ‘Vespasian’s Camp’ by the Elizabethan antiquarian William Camden — despite having no connection to the Roman commander (and later emperor) who subdued Britain’s southwest [...] — the full archaeological potential of the 2,500-year-old hillfort only started to be appreciated recently.", (Hilts, [2013](https://archaeology.co.uk/articles/features/vespasians-camp-cradle-of-stonehenge.htm)).
 
 ## References
 
-Hilts, C. (2013). *Vespasian’s Camp: Cradle of Stonehenge*. Current Archaeology. https://archaeology.co.uk/articles/features/vespasians-camp-cradle-of-stonehenge.htm.
+Hilts, C. (2013). *Vespasian’s Camp: Cradle of Stonehenge*. Current Archaeology. [https://archaeology.co.uk/articles/features/vespasians-camp-cradle-of-stonehenge.htm](https://archaeology.co.uk/articles/features/vespasians-camp-cradle-of-stonehenge.htm)
 
-Jacques, D. (2014). *Vespasian’s Camp and the extent of its eighteenth century landscaping*. University of Buckingham. https://www.buckingham.ac.uk/research/hri/fellows/jacques/18thcentury.
+Jacques, D. (2014). *Vespasian’s Camp and the extent of its eighteenth century landscaping*. University of Buckingham. [https://www.buckingham.ac.uk/research/hri/fellows/jacques/18thcentury](https://www.buckingham.ac.uk/research/hri/fellows/jacques/18thcentury)
 
-Maximus. (n.d.). Vat.gr.505 ed. Vatican: Biblioteca Apostolica Vaticana. https://digi.vatlib.it/view/MSS_Vat.gr.505.
+Maximus. (n.d.). Vat.gr.505 ed. Vatican: Biblioteca Apostolica Vaticana. [https://digi.vatlib.it/view/MSS_Vat.gr.505](https://digi.vatlib.it/view/MSS_Vat.gr.505)
 
-Petavius, D. (1630). *VRANOLOGION sive systema variorvm authorvm. qvi de sphaera, ac sideribvs, eorvmove motibvs Graece commentati sunt*. LVTETIAE PARISIORVM: Sumptibus Sebastiani Cramoisy, via Iacobaea, sub Ciconiis. M. DC. XXX. CVM PRIVILEGIO REGIS CHRISTIANISS. https://doi.org/10.3931/e-rara-2004.
+Petavius, D. (1630). *VRANOLOGION sive systema variorvm authorvm. qvi de sphaera, ac sideribvs, eorvmove motibvs Graece commentati sunt*. LVTETIAE PARISIORVM: Sumptibus Sebastiani Cramoisy, via Iacobaea, sub Ciconiis. M. DC. XXX. CVM PRIVILEGIO REGIS CHRISTIANISS. [https://doi.org/10.3931/e-rara-2004](https://doi.org/10.3931/e-rara-2004)
