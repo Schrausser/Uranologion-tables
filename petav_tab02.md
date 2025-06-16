@@ -1,5 +1,5 @@
 # petav_tab02.md
->"De sex millenariis quádo singuli, & in quo desinant.", (Petavius, 1630, p. 355).
+>"De sex millenariis quádo singuli, & in quo desinant.", (Petavius, [1630](https://doi.org/10.3931/e-rara-2004), p. 355).
 
 >About each of the *six millennia* and where they end.
 
@@ -38,6 +38,6 @@ XI		imperij Constantini	24	5852	5876		5828	48	376
 
 ## References
 
-Petavius, D. (1630). *VRANOLOGION sive systema variorvm authorvm. qvi de sphaera, ac sideribvs, eorvmove motibvs Graece commentati sunt*. LVTETIAE PARISIORVM: Sumptibus Sebastiani Cramoisy, via Iacobaea, sub Ciconiis. M. DC. XXX. CVM PRIVILEGIO REGIS CHRISTIANISS. https://doi.org/10.3931/e-rara-2004.
+Petavius, D. (1630). *VRANOLOGION sive systema variorvm authorvm. qvi de sphaera, ac sideribvs, eorvmove motibvs Graece commentati sunt*. LVTETIAE PARISIORVM: Sumptibus Sebastiani Cramoisy, via Iacobaea, sub Ciconiis. M. DC. XXX. CVM PRIVILEGIO REGIS CHRISTIANISS. [https://doi.org/10.3931/e-rara-2004](https://doi.org/10.3931/e-rara-2004)
 
 
