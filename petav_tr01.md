@@ -10,10 +10,10 @@ Sed hi sunt maximè necessarii. Meridianus, & qui medium secar. Atque hi quidem 
 *Quid intersit astrum inter, et stellam*.[^18]  
 **D**Iffert astrum à stella. Est enim illud imago ex multis stellis effigiata. hæc vero simplex, & uniata descriptione constans. Cæterum Sol contra atque cœlum agitatur: adeo ut duplicem motum habeat: alterum communem cum mundo: peculiarem alterum. Habet autem æstius dies quando Sol obtinet in Græcia, * * * Nox verò duos quintas. At hieme contra sese res habeat. Sidera vocantur αμϕιϕαγή, quæ bis eadem nocte cernuntur. In australi nihil apparet eiusmodi.  
 *Quot sint stellæ*.[^19]  
-**S**Tellas omnes Hipparchus afferit esse 1080. Que nimirum constellationes apparentes efficiunt. Oposita signa sunt; Aries, Celae: Taurus, Scorpius: Gemini, Saggitarius: item Capricornus Cancro: Leoni Aquarius: Virgini Pisces.", (Petavius, 1630, p. 261-262).  
+**S**Tellas omnes Hipparchus afferit esse 1080. Que nimirum constellationes apparentes efficiunt. Oposita signa sunt; Aries, Celae: Taurus, Scorpius: Gemini, Saggitarius: item Capricornus Cancro: Leoni Aquarius: Virgini Pisces.", (Petavius, [1630](https://doi.org/10.3931/e-rara-2004), p. 261-262).  
 
 >"*De astris*.[^20]  
-**A**Strorum alia fixa, alia errantia vocantur. fixa dicuntur quæ in mundi superficii non moventur: sed eundem ordinem inter se perpetuò seruant. Errantia sunt sol, & lunæ, ac cæteri planetæ quinque. Ex his enim sol * * in uno zodiaci circuli loco moventur, stationem faciunt. * * repedantes ad permeantem media signa circulum: & ad Septentriones, aut meridiem æqualiter ad utrumque deflectentes. Inerrantium stellarum aliæ ad aquilonem à zodiaco circulo recedunt; ad astrum aliæ. Dicuntur autem borealis partes, dextræ, superiorésque: ut quæ sublimiores existant. australes, sinistræ, & inferiores. Iam verò cùm mundus ab orto moveatur in occasium, contrario moto planetæ nihilominus agitantur : ac propter conversionis mundi, celeritatem, itidem ut inerrantes in orbem cientur.", (Petavius, 1630, p. 265-266).
+**A**Strorum alia fixa, alia errantia vocantur. fixa dicuntur quæ in mundi superficii non moventur: sed eundem ordinem inter se perpetuò seruant. Errantia sunt sol, & lunæ, ac cæteri planetæ quinque. Ex his enim sol * * in uno zodiaci circuli loco moventur, stationem faciunt. * * repedantes ad permeantem media signa circulum: & ad Septentriones, aut meridiem æqualiter ad utrumque deflectentes. Inerrantium stellarum aliæ ad aquilonem à zodiaco circulo recedunt; ad astrum aliæ. Dicuntur autem borealis partes, dextræ, superiorésque: ut quæ sublimiores existant. australes, sinistræ, & inferiores. Iam verò cùm mundus ab orto moveatur in occasium, contrario moto planetæ nihilominus agitantur : ac propter conversionis mundi, celeritatem, itidem ut inerrantes in orbem cientur.", (Petavius, [1630](https://doi.org/10.3931/e-rara-2004), p. 265-266).
 
 ## English
 *About those things which are seen in the sublime*.   
@@ -160,4 +160,4 @@ Dies bedingt durch die Weltrotation, sowie durch die Geschwindigkeit des eigenen
 
 ## References
 
-Petavius, D. (1630). *VRANOLOGION sive systema variorvm authorvm. qvi de sphaera, ac sideribvs, eorvmove motibvs Graece commentati sunt*. LVTETIAE PARISIORVM: Sumptibus Sebastiani Cramoisy, via Iacobaea, sub Ciconiis. M. DC. XXX. CVM PRIVILEGIO REGIS CHRISTIANISS. https://doi.org/10.3931/e-rara-2004. 
+Petavius, D. (1630). *VRANOLOGION sive systema variorvm authorvm. qvi de sphaera, ac sideribvs, eorvmove motibvs Graece commentati sunt*. LVTETIAE PARISIORVM: Sumptibus Sebastiani Cramoisy, via Iacobaea, sub Ciconiis. M. DC. XXX. CVM PRIVILEGIO REGIS CHRISTIANISS. [https://doi.org/10.3931/e-rara-2004](https://doi.org/10.3931/e-rara-2004)
