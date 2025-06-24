@@ -1,6 +1,6 @@
 # petav_tab04.md
 
-Differences in the sequence of the chronologies of Petavius ([1630](https://doi.org/10.3931/e-rara-2004), p. 351-355) $P$ ​​and Maximus ([n.d.](https://digi.vatlib.it/view/MSS_Vat.gr.505), fol. 240r-241r) $M$, with periods $per$, millennia $mill$, summed years $\Sigma$, $AD=\Sigma-5500$, number $nr$, differences $diff$ and the names of the *patriarchs* (s. `petav_tab03`).
+Table 1. Differences in the sequence of the chronologies of Petavius ([1630](https://doi.org/10.3931/e-rara-2004), p. 351-355) $P$ ​​and Maximus ([n.d.](https://digi.vatlib.it/view/MSS_Vat.gr.505), fol. 240r-241r) $M$, with periods $per$, millennia $mill$, summed years $\Sigma$, $AD=\Sigma-5500$, number $nr$, differences $diff$ and the names of the *patriarchs* (s. `petav_tab03`).
 ~~~											
 per	mill	S		AD		nr		diff		patriarch	
 XI	VI	P	M	P	M	p	M	S	nr	P				M
