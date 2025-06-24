@@ -4,7 +4,7 @@
 
 >For each scruple is 1200 stades, more correctly 4200.				
 
-Arc length $L_a$ from scrupula $sc$ to stades $st$, with $st=sc⋅1200$, from stades to $km$, where $km=st⋅0.1575$ (*itinerary* stades, c.f. Engels, 1985, p. 304), circumference $C$, with $C=sum⋅2$ and radius $R$, with $R=\frac{C}{2\pi}$.
+Table 1. Arc length $L_a$ from scrupula $sc$ to stades $st$, with $st=sc⋅1200$, from stades to $km$, where $km=st⋅0.1575$ (*itinerary* stades, c.f. Engels, 1985, p. 304), circumference $C$, with $C=sum⋅2$ and radius $R$, with $R=\frac{C}{2\pi}$.
 ~~~
 				La	
 Zone				sc	st		km	cum km
@@ -22,7 +22,7 @@ Radius R			9,4	11306,4		1780,8
 ~~~
 
 
-Arc length $L_a$ from scrupula $sc$ to stades $st'$, with $st'=sc⋅4200$ (as noted by Petavius), from stades to $km$, where $km=st'⋅0.1575$ (*itinerary* stades, c.f. Engels, [1985](http://www.jstor.org/stable/295030), p. 304), circumference $C$, with $C=sum⋅2$ and radius $R$, with $R=\frac{C}{2\pi}$.
+Table 2. Arc length $L_a$ from scrupula $sc$ to stades $st'$, with $st'=sc⋅4200$ (as noted by Petavius), from stades to $km$, where $km=st'⋅0.1575$ (*itinerary* stades, c.f. Engels, [1985](http://www.jstor.org/stable/295030), p. 304), circumference $C$, with $C=sum⋅2$ and radius $R$, with $R=\frac{C}{2\pi}$.
 ~~~
 				La	
 Zone				sc	st'		km	cum km
@@ -39,7 +39,7 @@ Circumference C			59,2	248640,0	39160,8
 Radius R			9,4	39572,3		6232,6
 ~~~
 
-Arc length $L_a$ from stades $st$ to $km$, where $km=st⋅0.1575$ (*itinerary* stades, c.f. Engels, [1985](http://www.jstor.org/stable/295030), p. 304), circumference $C$, with $C=sum⋅2$ and radius $R$, with $R=\frac{C}{2\pi}$.				
+Table 3. Arc length $L_a$ from stades $st$ to $km$, where $km=st⋅0.1575$ (*itinerary* stades, c.f. Engels, [1985](http://www.jstor.org/stable/295030), p. 304), circumference $C$, with $C=sum⋅2$ and radius $R$, with $R=\frac{C}{2\pi}$.				
 ~~~
 				La	
 Zone				st		km		cum km
@@ -56,7 +56,7 @@ Circumference C			252000		39690,0
 Radius R			40107		6316,9
 ~~~
 
-Angle $\alpha°$ and latitude $\phi$, with $\alpha°=\frac{L_a⋅360}{2⋅r⋅\pi}$.
+Table 4. Angle $\alpha°$ and latitude $\phi$, with $\alpha°=\frac{L_a⋅360}{2⋅r⋅\pi}$.
 ~~~
 				angle			phi		
 unit		Zone		a°	a° cum		from		to	
@@ -74,7 +74,7 @@ stadia		Saturn		36,00	36,00		90,00 N		54,00 N
 		Mercury		36,00	180,00		54,00 S		90,00 S
 ~~~
 
-Zone height $h$ in $km$, with $h_n=r⋅\sin \alpha - h_{[n-1]}$.
+Table 5. Zone height $h$ in $km$, with $h_n=r⋅\sin \alpha - h_{[n-1]}$.
 ~~~
 		km	
 Zone		sc	sc'	st
