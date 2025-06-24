@@ -42,7 +42,7 @@ vapida				nebula nubes aquarum sterilis
 				Glacies, aqua concreta			
 				Pruina ros			
 				Nix pluuiarum, stilla in nubæ concretâ			
-				νιςας, nix tenuiter cadens			
+				νιϕας, nix tenuiter cadens			
 				Grando, imber concretus			
 					
 sicca & fumida	frigore		efficit ventos 			
