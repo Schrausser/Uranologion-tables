@@ -60,4 +60,4 @@ sicca & fumida	frigore		efficit ventos
 
 Flammarion, C. (1888). *L’atmosphère Métérologie Populaire : Ouvrage Contenant Quinze Planches Tirées En Chromotypographie, Deux Cartes En Couleur Et Trois Cent Sept Figures Insérées Dans Le Texte*. Paris: Librairie Hachette et cie. [https://archive.org/details/McGillLibrary-125043-2586/page/n175/mode/2up](https://archive.org/details/McGillLibrary-125043-2586/page/n175/mode/2up)
 
-Petavius, D. (1630). *VRANOLOGION sive systema variorvm authorvm. qvi de sphaera, ac sideribvs, eorvmove motibvs Graece commentati sunt*. LVTETIAE PARISIORVM: Sumptibus Sebastiani Cramoisy, via Iacobaea, sub Ciconiis. M. DC. XXX. CVM PRIVILEGIO REGIS CHRISTIANISS. [https://doi.org/10.3931/e-rara-2004](https://doi.org/10.3931/e-rara-2004)
+Petavius, D. (1630). *VRANOLOGION sive systema variorvm authorvm. qvi de sphaera, ac sideribvs, eorvmove motibvs Graece commentati sunt*. LVTETIAE PARISIORVM: Sumptibus Sebastiani Cramoisy, via Iacobaea, sub Ciconiis. M. DC. XXX. CVM PRIVILEGIO REGIS CHRISTIANISS. [https://doi.org/10.3931/e-rara-2004](https://doi.org/10.3931/e-rara-2004) 
