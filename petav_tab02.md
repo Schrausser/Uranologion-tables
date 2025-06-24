@@ -3,7 +3,7 @@
 
 >About each of the *six millennia* and where they end.
 
-The 6 millennia with sum over millennia $\Sigma1000$, year of the $end=nat+\Sigma1000$, year of birth from the *chronology* $\Sigma$, the difference $diff=end-\Sigma$ and the actual year $AD=end-5500$.
+Table 1. The 6 millennia with sum over millennia $\Sigma1000$, year of the $end=nat+\Sigma1000$, year of birth from the *chronology* $\Sigma$, the difference $diff=end-\Sigma$ and the actual year $AD=end-5500$.
 ~~~					
 Millenium	In anno			nat	S1000	end		S	diff	AD
 
@@ -19,7 +19,7 @@ VI		Anastasij		17	6000	6017		6010	7	517
 
 >Of the *11 periods*, each consisting of *532 years*, when and where each one ends.
 
-The 11 periods with sum over periods $\Sigma532$, year of the $end=nat+\Sigma532$, year of birth from the *chronology* $\Sigma$, the difference $diff=end-\Sigma$ and the actual year $AD=end-5500$.
+Table 2. The 11 periods with sum over periods $\Sigma532$, year of the $end=nat+\Sigma532$, year of birth from the *chronology* $\Sigma$, the difference $diff=end-\Sigma$ and the actual year $AD=end-5500$.
 ~~~				
 Period		In anno			nat	S532	nat+S532	S	diff	AD
 
