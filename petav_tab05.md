@@ -54,6 +54,11 @@ sicca & fumida	frigore		efficit ventos
 				Cæterum: fulmen, prester & typhon incumbens σχηπτός			
 ~~~
 
+>"Ros est humor puriori allapsus ex æthere [...] ", (Petavius, ([1630](https://doi.org/10.3931/e-rara-2004), p. 261).
+
+>Dew is pure moisture falling out from the ether, [...]
+
+>Tau ist reine, aus dem Äther fallende Feuchtigkeit, [...]
 
 
 ## References
