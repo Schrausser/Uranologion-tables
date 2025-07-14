@@ -4,7 +4,7 @@
 
 >For each scruple is 1200 stades, more correctly 4200.				
 
-Table 1. Arc length $L_a$ from scrupula $sc$ to stades $st$, with $st=sc⋅1200$, from stades to $km$, where $km=st⋅0.1575$ (*itinerary* stades, c.f. Engels, 1985, p. 304), circumference $C$, with $C=sum⋅2$ and radius $R$, with $R=\frac{C}{2\pi}$.
+Table 1. Arc length $L_a$ from scrupula $sc$ to stades $st$, with $st=sc⋅1200$, from stades to $km$, where $km=st⋅0.1575$ (*itinerary* stades, c.f. Engels, [1985](http://www.jstor.org/stable/295030), p. 304), circumference $C$, with $C=sum⋅2$ and radius $R$, with $R=\frac{C}{2\pi}$.
 ~~~
 				La	
 Zone				sc	st		km	cum km
