@@ -15,7 +15,7 @@ V		Cyri Persæ		31	5000	5031		5001	30	-469
 VI		Anastasij		17	6000	6017		6010	7	517
 ~~~
 
->"De periodis XI, quarum singuli annis constát DXXXII: quádo & vbi vnaquæque desinat.", (Petavius, 1630, p. 355).
+>"De periodis XI, quarum singuli annis constát DXXXII: quádo & vbi vnaquæque desinat.", (Petavius, [1630](https://doi.org/10.3931/e-rara-2004), p. 355).
 
 >Of the *11 periods*, each consisting of *532 years*, when and where each one ends.
 
@@ -39,5 +39,3 @@ XI		imperij Constantini	24	5852	5876		5828	48	376
 ## References
 
 Petavius, D. (1630). *VRANOLOGION sive systema variorvm authorvm. qvi de sphaera, ac sideribvs, eorvmove motibvs Graece commentati sunt*. LVTETIAE PARISIORVM: Sumptibus Sebastiani Cramoisy, via Iacobaea, sub Ciconiis. M. DC. XXX. CVM PRIVILEGIO REGIS CHRISTIANISS. [https://doi.org/10.3931/e-rara-2004](https://doi.org/10.3931/e-rara-2004)
-
-
