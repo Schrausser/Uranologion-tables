@@ -1,8 +1,8 @@
 # Uranologion-tables
 
-Tables on the *Phenomena of Aratus* (e.g. Aratus and Hyginus, [1569](https://doi.org/10.3931/e-rara-53915)) and the *chronology* of Maximus (c.f. Schissel, [1934]()) from the transscription and latin translation in the famous *Uranologion* by Denis Pétau or Dionysius Petavius ([1630](https://doi.org/10.3931/e-rara-2004)), c.f. `petav_tr01`, `petav_tab05`:
+Tables on the *Phenomena of Aratus* (e.g. Aratus and Hyginus, [1569](https://doi.org/10.3931/e-rara-53915)) and the *chronology* of Maximus (c.f. Schissel, [1934](http://www.jstor.org/stable/44168086)) from the transscription and latin translation in the famous *Uranologion* by Denis Pétau or Dionysius Petavius ([1630](https://doi.org/10.3931/e-rara-2004)), c.f. `petav_tr01`, `petav_tab05`:
 
->"Achillis Tatij Isagoge ad Arati Phænomena, qui liber falsò Eratostheni tribuitur.", (Petavius, [1630](), index).
+>"Achillis Tatij Isagoge ad Arati Phænomena, qui liber falsò Eratostheni tribuitur.", (Petavius, [1630](https://doi.org/10.3931/e-rara-2004), index).
 
 >Achilles Tatius' *introduction* to the *Phenomena of Aratus*. The book is *incorrectly* attributed to *Eratosthenes*.
 
