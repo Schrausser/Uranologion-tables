@@ -108,10 +108,10 @@ Dubbed ‘Vespasian’s Camp’ by the Elizabethan antiquarian William Camden �
 
 ## References
 
-Hilts, C. (2013). *Vespasian’s Camp: Cradle of Stonehenge*. Current Archaeology. [https://archaeology.co.uk/articles/features/vespasians-camp-cradle-of-stonehenge.htm](https://archaeology.co.uk/articles/features/vespasians-camp-cradle-of-stonehenge.htm)
+Hilts, C. (2013). *Vespasian’s Camp: Cradle of Stonehenge*. Current Archaeology. [https://archaeology.co.uk/articles/features/vespasians-camp-cradle-of-stonehenge.htm](https://archaeology.co.uk/articles/features/vespasians-camp-cradle-of-stonehenge.htm)
 
-Jacques, D. (2014). *Vespasian’s Camp and the extent of its eighteenth century landscaping*. University of Buckingham. [https://www.buckingham.ac.uk/research/hri/fellows/jacques/18thcentury](https://www.buckingham.ac.uk/research/hri/fellows/jacques/18thcentury)
+Jacques, D. (2014). *Vespasian’s Camp and the extent of its eighteenth century landscaping*. University of Buckingham. [https://www.buckingham.ac.uk/research/hri/fellows/jacques/18thcentury](https://www.buckingham.ac.uk/research/hri/fellows/jacques/18thcentury)
 
-Maximus. (n.d.). Vat.gr.505 ed. Vatican: Biblioteca Apostolica Vaticana. [https://digi.vatlib.it/view/MSS_Vat.gr.505](https://digi.vatlib.it/view/MSS_Vat.gr.505)
+Maximus. (n.d.). Vat.gr.505 ed. Vatican: Biblioteca Apostolica Vaticana. [https://digi.vatlib.it/view/MSS_Vat.gr.505](https://digi.vatlib.it/view/MSS_Vat.gr.505)
 
-Petavius, D. (1630). *VRANOLOGION sive systema variorvm authorvm. qvi de sphaera, ac sideribvs, eorvmove motibvs Graece commentati sunt*. LVTETIAE PARISIORVM: Sumptibus Sebastiani Cramoisy, via Iacobaea, sub Ciconiis. M. DC. XXX. CVM PRIVILEGIO REGIS CHRISTIANISS. [https://doi.org/10.3931/e-rara-2004](https://doi.org/10.3931/e-rara-2004)
+Petavius, D. (1630). *VRANOLOGION sive systema variorvm authorvm. qvi de sphaera, ac sideribvs, eorvmove motibvs Graece commentati sunt*. LVTETIAE PARISIORVM: Sumptibus Sebastiani Cramoisy, via Iacobaea, sub Ciconiis. M. DC. XXX. CVM PRIVILEGIO REGIS CHRISTIANISS. [https://doi.org/10.3931/e-rara-2004](https://doi.org/10.3931/e-rara-2004)

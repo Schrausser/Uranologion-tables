@@ -206,18 +206,18 @@ No summed values ​​are given between *Sem and Seniores*. Here it is suggeste
 >Nachor was the name of the father of Thare *and* his second son. Accordingly, a Nachor was Abram's grandfather *and* brother.
 In later profane documents the name is *mentioned variously* both as a personal name and as a city name.
 
-However, if (4) Abraham's brother were meant, a time difference of $n=270$ years *could* be considered plausible but would not be included in the calculation (c.f. Pinches, [1911](http://www.jstor.org/stable/25189899); Frayne, [1997](http://www.jstor.org/stable/10.3138/j.ctt13x1qkz), [2021](https://books.google.com/books?id=dfi9zgEACAAJ))
+However, if (4) Abraham's brother were meant, a time difference of $n=270$ years *could* be considered plausible but would not be included in the calculation (c.f. Pinches, [1911](http://www.jstor.org/stable/25189899); Frayne, [1997](http://www.jstor.org/stable/10.3138/j.ctt13x1qkz), [2021](https://books.google.com/books?id=dfi9zgEACAAJ)).
 
 ## References
 
-Frayne, D. (1997). *Ur III Period (2112-2004 BC)*. Toronto, Ontario: University of Toronto Press. [http://www.jstor.org/stable/10.3138/j.ctt13x1qkz](http://www.jstor.org/stable/10.3138/j.ctt13x1qkz)
+Frayne, D. (1997). *Ur III Period (2112-2004 BC)*. Toronto, Ontario: University of Toronto Press. [http://www.jstor.org/stable/10.3138/j.ctt13x1qkz](http://www.jstor.org/stable/10.3138/j.ctt13x1qkz)
 
-———. (2021). *Presargonic Period: Early Periods, Volume 1 (2700-2350 BC)*. Toronto, Ontario: University of Toronto Press. [https://books.google.com/books?id=dfi9zgEACAAJ](https://books.google.com/books?id=dfi9zgEACAAJ)
+———. (2021). *Presargonic Period: Early Periods, Volume 1 (2700-2350 BC)*. Toronto, Ontario: University of Toronto Press. [https://books.google.com/books?id=dfi9zgEACAAJ](https://books.google.com/books?id=dfi9zgEACAAJ)
 
-Maximus. (n.d.). Vat.gr.505 ed. Vatican: Biblioteca Apostolica Vaticana. [https://digi.vatlib.it/view/MSS_Vat.gr.505](https://digi.vatlib.it/view/MSS_Vat.gr.505)
+Maximus. (n.d.). Vat.gr.505 ed. Vatican: Biblioteca Apostolica Vaticana. [https://digi.vatlib.it/view/MSS_Vat.gr.505](https://digi.vatlib.it/view/MSS_Vat.gr.505)
 
-Petavius, D. (1630). *VRANOLOGION sive systema variorvm authorvm. qvi de sphaera, ac sideribvs, eorvmove motibvs Graece commentati sunt*. LVTETIAE PARISIORVM: Sumptibus Sebastiani Cramoisy, via Iacobaea, sub Ciconiis. M. DC. XXX. CVM PRIVILEGIO REGIS CHRISTIANISS. [https://doi.org/10.3931/e-rara-2004](https://doi.org/10.3931/e-rara-2004)
+Petavius, D. (1630). *VRANOLOGION sive systema variorvm authorvm. qvi de sphaera, ac sideribvs, eorvmove motibvs Graece commentati sunt*. LVTETIAE PARISIORVM: Sumptibus Sebastiani Cramoisy, via Iacobaea, sub Ciconiis. M. DC. XXX. CVM PRIVILEGIO REGIS CHRISTIANISS. [https://doi.org/10.3931/e-rara-2004](https://doi.org/10.3931/e-rara-2004)
 
-Pinches, T. G. (1911). Review of Sumerian Administrative Documents, Dated in the Reigns of the Second Dynasty of Ur, from the Temple Archives of Nippur Preserved in Philadelphia. Vol. III, Part i, by d. W. Myhrman & h. V. Hilprecht. *Journal of the Royal Asiatic Society of Great Britain and Ireland*, 571–73. [http://www.jstor.org/stable/25189899](http://www.jstor.org/stable/25189899)
+Pinches, T. G. (1911). Review of Sumerian Administrative Documents, Dated in the Reigns of the Second Dynasty of Ur, from the Temple Archives of Nippur Preserved in Philadelphia. Vol. III, Part i, by d. W. Myhrman & h. V. Hilprecht. *Journal of the Royal Asiatic Society of Great Britain and Ireland*, 571–73. [http://www.jstor.org/stable/25189899](http://www.jstor.org/stable/25189899)
 
-Schneider, N. (1952). PATRIARCHENNAMEN IN ZEITGENÖSSISCHEN KEILSCHRIFTURKUNDEN. *Biblica 33* (4): 516–22. [http://www.jstor.org/stable/42618775](http://www.jstor.org/stable/42618775)
+Schneider, N. (1952). PATRIARCHENNAMEN IN ZEITGENÖSSISCHEN KEILSCHRIFTURKUNDEN. *Biblica, 33*(4), 516–22. [http://www.jstor.org/stable/42618775](http://www.jstor.org/stable/42618775)
