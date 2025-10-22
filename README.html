@@ -5,146 +5,120 @@
 <meta name="Author" content="Dietmar Gerald Schrausser">
 
 <title>
-Uranologion-table/README
+Ptolemy-s-table-of-chords/README
 </title>
 
 </head> 
-<body style="font-family:calibri;font-size:85%;background-color:#eceff1;color:#37474f">
+<body style="font-family:calibri;font-size:85%;background-color:#efebe9;color:#37474f">
 
 <style>
 a {color: #78909c; }
 a:visited {color: #78909c;}
+img {max-width: 50%;}
 </style>
 
-<h1 id="uranologion-tables">Uranologion-tables</h1>
-<p>Tables on the <em>Phenomena of Aratus</em> (e.g. Aratus & Hyginus, <a href="https://doi.org/10.3931/e-rara-53915">1569</a>) and the <em>chronology</em> of Maximus (c.f. Schissel, <a href="http://www.jstor.org/stable/44168086">1934</a>) from the transscription and latin translation in the famous <em>Uranologion</em> by Denis Pétau or Dionysius Petavius (<a href="https://doi.org/10.3931/e-rara-2004">1630</a>), c.f. <code>petav_tr01</code>, <code>petav_tab05</code>:</p>
+<h1 id="ptolemys-table-of-chords">Ptolemy's table of chords</h1>
+<p><a href="https://m.youtube.com/watch?v=xUpBBr5btvk">Demo movie</a></p>
+<p><code>CHORD</code> application for Android (Schrausser, <a href="https://doi.org/10.5281/zenodo.7948117">2023</a>): Famous table of chord lengths according to Ptolemy's <em>Almagest</em> (<a href="https://doi.org/10.3931/e-rara-206">1515</a>, fol. 7r ff.) converted into decimal values and calculated in comparison using the sine function, see Halma (<a href="https://ia600202.us.archive.org/12/items/bub_gb_a9nvvbG-OOIC/bub_gb_a9nvvbG-OOIC.pdf">1813</a>, p. 38 ff.),  Heiberg (<a href="https://archive.org/details/pt1claudiiptolemaei01ptoluoft/page/n561/mode/2up">1898</a>, p. 48 ff.) or Toomer (<a href="https://doi.org/10.2307/631776">1984</a>, p. 57 ff., <a href="https://www.amazon.de/Ptolemys-Almagest-Ptolemy/dp/0691002606">1998</a>, res.), c.f. <code>chords_time</code> tables, Schrausser (<a href="https://doi.org/10.31219/osf.io/dv4nz">2024</a>), respectively.<br />
+Chord lengths <math display="inline">
+<msub><mi>l</mi><mn>0</mn></msub>
+</math> are <em>derived</em> according to <em>Ptolemy's theorem</em> (Fig. 1) within the relation between four sides and two diagonals of a cyclic quadrilateral where</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><mi>A</mi><mi>C</mi><mo>&middot;</mo><mi>B</mi><mi>D</mi><mo>=</mo><mi>A</mi><mi>B</mi><mo>&middot;</mo><mi>C</mi><mi>D</mi><mo>+</mo><mi>B</mi><mi>C</mi><mo>&middot;</mo><mi>A</mi><mi>D</mi><mo>.</mo></math></p>
+<p>Figure 1.
+<img src="pic1.jpg" alt="figure.\label{Figure1: Cyclic quadrilateral.}" /></p>
+<p>Chord lengths <math display="inline">
+<msub><mi>l</mi><mn>0</mn></msub>
+</math> (Fig. 2) are expressed in fractional parts of sexagesimal numerals <math display="inline">
+<mi>x</mi>
+</math> <math display="inline">
+<mi>y</mi>
+</math> <math display="inline">
+<mi>z</mi>
+</math>. Decimal values <math display="inline">
+<msub><mi>l</mi><mn>1</mn></msub>
+</math> are calculated by</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><msub><mi>l</mi><mn>1</mn></msub><mo>=</mo><mi>x</mi><mo>+</mo><mfrac><mi>y</mi><mn>60</mn></mfrac><mo>+</mo><mfrac><mi>z</mi><msup><mn>60</mn><mn>2</mn></msup></mfrac><mo>.</mo></math></p>
+<p>Figure 2.
+<img src="pic2.jpg" alt="figure.\label{Figure2: Chord length representation.}" /></p>
+<p><em>Sixtieth</em> is the average interpolation number to be added to length <math display="inline">
+<msub><mi>l</mi><mn>0</mn></msub>
+</math> or <math display="inline">
+<msub><mi>l</mi><mn>1</mn></msub>
+</math> each time angle increases by one minute of arc, that is <math display="inline"><mi>n</mi><mo>=</mo><mn>30</mn></math> times per half angle degree <math display="inline">
+<mi>&alpha;</mi>
+</math>.<br />
+Lengths <math display="inline">
+<msub><mi>l</mi><mn>2</mn></msub>
+</math> to given arcus <math display="inline">
+<mi>&alpha;</mi>
+</math> and diameter <math display="inline">
+<mi>d</mi>
+</math> are calculated using the sine function, where</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><msub><mi>l</mi><mn>2</mn></msub><mo>=</mo><mi>d</mi><mo>&middot;</mo><mi>sin</mi><mo data-mjx-texclass="NONE">⁡</mo><mfrac><mrow><mi>&alpha;</mi><mo>&middot;</mo><mo>&pi;</mo></mrow><mn>360</mn></mfrac><mo>.</mo></math></p>
+<p>This is equivalent in terms of content to distance <math display="inline">
+<mi>s</mi>
+</math> or radius <math display="inline">
+<mi>r</mi>
+</math> determination via angular diameter <math display="inline">
+<mi>V</mi>
+</math> with</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><mi>r</mi><mo>=</mo><mi>s</mi><mo>&middot;</mo><mi>tan</mi><mo data-mjx-texclass="NONE">⁡</mo><mfrac><mi>V</mi><mn>2</mn></mfrac><mo>.</mo></math></p>
+<p>In the absence of trigonometric sine functions, however, no <em>calculation</em> was made with distance parameters <math display="inline">
+<mi>s</mi>
+</math>, but tabularized values from previous model calculations with given <math display="inline"><mi>d</mi><mo>=</mo><mn>120</mn></math> by means of the <em>Pythagorean theorem</em></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><msup><mi>b</mi><mn>2</mn></msup><mo>=</mo><msup><mi>c</mi><mn>2</mn></msup></math></p>
+<p>were used and interpolated to the corresponding angle values of expansion:</p>
+<p>Figure 3.</p>
+<p><img src="anim01.gif" alt="figure.\label{anim}" /></p>
+<p>Chord parameters <math display="inline"><msub><mi>l</mi><mrow data-mjx-texclass="ORD"><mo stretchy="false">(</mo><mn>120</mn><mo stretchy="false">)</mo></mrow></msub></math> can then be adapted to empirical <math display="inline"><msub><mi>l</mi><mrow data-mjx-texclass="ORD"><mo stretchy="false">(</mo><mi>d</mi><mo stretchy="false">)</mo></mrow></msub></math> proportions by transforming the model parameter with</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><msub><mi>l</mi><mrow data-mjx-texclass="ORD"><mo stretchy="false">(</mo><mi>d</mi><mo stretchy="false">)</mo></mrow></msub><mo>=</mo><msub><mi>l</mi><mrow data-mjx-texclass="ORD"><mo stretchy="false">(</mo><mn>120</mn><mo stretchy="false">)</mo></mrow></msub><mo>&middot;</mo><mfrac><mi>d</mi><mn>120</mn></mfrac><mo>.</mo></math></p>
+<p>Chord length values <math display="inline"><msub><mi>l</mi><mrow data-mjx-texclass="ORD"><mo stretchy="false">(</mo><mi>d</mi><mo stretchy="false">)</mo></mrow></msub></math> corresponding to <em>empirical</em> distances <math display="inline">
+<mi>s</mi>
+</math> can be expressed by multiplying with a ratio factor <math display="inline">
+<mi>&delta;</mi>
+</math> as <math display="inline"><msub><mi>l</mi><mrow data-mjx-texclass="ORD"><mo stretchy="false">(</mo><mi>e</mi><mo stretchy="false">)</mo></mrow></msub><mo>=</mo><msub><mi>l</mi><mrow data-mjx-texclass="ORD"><mo stretchy="false">(</mo><mi>d</mi><mo stretchy="false">)</mo></mrow></msub><mo>&middot;</mo><mi>&delta;</mi></math>
+ to given angle <math display="inline">
+<mi>&alpha;</mi>
+</math>, where according to <em>Pythagoras</em></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><mi>&delta;</mi><mo>=</mo><mi>s</mi><mo>&middot;</mo><mrow data-mjx-texclass="OPEN"><mo minsize="2.470em" maxsize="2.470em">(</mo></mrow><msup><mfrac><mi>D</mi><mn>2</mn></mfrac><mn>2</mn></msup><mo>&minus;</mo><msup><mfrac><mi>L</mi><mn>2</mn></mfrac><mn>2</mn></msup><msup><mrow data-mjx-texclass="CLOSE"><mo minsize="2.470em" maxsize="2.470em">)</mo></mrow><mrow data-mjx-texclass="ORD"><mo>&minus;</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup><mo>.</mo></math></p>
+<p>Differences <math display="inline">
+<mi>d</mi><mi>i</mi><mi>f</mi><mi>f</mi>
+</math> show the difference between (1) <em>sixtieth</em> and arithmetical interpolation as well as the difference between (2) the calculation types of chord lengths <math display="inline">
+<msub><mi>l</mi><mn>1</mn></msub>
+</math> and <math display="inline">
+<msub><mi>l</mi><mn>2</mn></msub>
+</math>, see <code>chords</code>, <code>chords_tab</code> or <code>chords.xlsx</code> tables.<br />
+Using this method along with methods for parallax determination, Ptolemy was able to determine e.g. Moon's <em>distance</em> and <em>radius</em> quite accurate:</p>
 <blockquote>
-<p>&quot;Achillis Tatij Isagoge ad Arati Phænomena, qui liber falsò Eratostheni tribuitur.&quot;, (Petavius, <a href="https://doi.org/10.3931/e-rara-2004">1630</a>, index).</p>
+<p>&quot;We have explained in the Almagest [...] that the least distance of the Moon is 33 earth radii, and its greatest distance 64 earth radii [...] &quot;, (Goldstein, <a href="https://doi.org/10.2307/1006040">1967</a>, p. 7).</p>
 </blockquote>
-<blockquote>
-<p>Achilles Tatius' <em>introduction</em> to the <em>Phenomena of Aratus</em>. The book is <em>incorrectly</em> attributed to <em>Eratosthenes</em>.</p>
-</blockquote>
-<p>Petavius ​​​gave the translation of the introduction by <em>Achilles Tatius</em> from the 3rd century (c.f. Oxford Reference, <a href="https://www.oxfordreference.com/display/10.1093/oi/authority.20110803095347168">2024</a>) on <em>Aratus'</em> (c. 315-240 BC) hexameter prose adaptation of the (lost) <em>Phenomena</em> and <em>Enoptron</em> by <em>Eudoxus of Cnidus</em>:</p>
-<blockquote>
-<p>&quot;[...] largely responsible for turning astronomy into a mathematical science [...] was Eudoxus of Cnidus (ca. 390-337 B.C.). [...] we propose that Eudoxus was influenced by cosmological speculation, particularly that of the Pythagoreans and Plato. For, in their view, the circular motions of the heavenly bodies manifested a moral order that was ultimately analyzable by means of [...] whole-number ratios as melodious sound.&quot;, (Goldstein & Bowen, <a href="http://www.jstor.org/stable/232593">1983</a>, p. 332-333).</p>
-</blockquote>
-<p>A description of <em>astronomy</em>, the <em>world</em> and the <em>Earth</em> is given (Petavius, <a href="https://doi.org/10.3931/e-rara-2004">1630</a>, p. 256-267):</p>
-<blockquote>
-<p>&quot;ERATOSTHENIS, ALIAS HIPPARCHI
-[Pseudepigraphus hic libellus. nam neutrius est], AD ARATI PHÆNOMENA.&quot;, (Petavius, <a href="https://doi.org/10.3931/e-rara-2004">1630</a>, p. 256).</p>
-<p>ERATOSTHENES,
-ALIAS HIPPARCH (this book is by <em>neither</em> of <em>them</em>), ON THE PHENOMENA OF ARATUS.</p>
-</blockquote>
-<blockquote>
-<p>De Zonis. PArallelis circulis zonæ quinque subjectæ sunt : Borealis, quæ tota supra terram eminnens est, inhabitabilis, alsiosa, Saturno dicata [...] Æstiua, cuius maior pars supra finitorem extollitur. Temperata in qua regio nostra sita est ; attributa Ioui [...] Æquinoctialis æqualem supra, infráque horizontem obtinens partem ; inhabitabilis est, exusta, Martis propria [...] hic enim tam ipsam, quàm totam sphæram mediam diuidit [...] Hiemalis contra atque æstius maiore sui parte sub horizonte latet ; habitabilis ; temperara ; dicata Veneri [...] Australis, quæ tota delitescit, inhabitabilis, frigida, ad Mercurium pertinens [...] Colliguntur ambitus terræ supra finitorem, scrupula 30 ; stadiorum verò 126000.&quot;, (Petavius, <a href="https://doi.org/10.3931/e-rara-2004">1630</a>, p. 266).</p>
-</blockquote>
-<blockquote>
-<p>About the Zones: Parallel to the circles there are five sub-zones: <em>The North</em>, which is entirely above the Earth, uninhabitable, sticky and dedicated to <em>Saturn</em>. <em>The Summer</em>, the greater part of which is emphasized above the limiter, is  the climate in which our region is located and attributed to <em>Jupiter</em>. <em>The equinoctial part</em>, having an equal part above and below the horizon, is uninhabitable, scorched and proper to <em>Mars</em>, for here it divides both, itself and the whole sphere in the middle. The greater part of <em>Winter</em>, in the contrary to Summer, is hidden below the horizon;  habitable;  temperate;  dedicated to <em>Venus</em>. <em>The South</em>, which is entirely hidden, uninhabitable and  cold is belonging to <em>Mercury</em>. Areas above the limiter of the earth are collected, 30 scruples, indeed 126000 stades.</p>
-</blockquote>
-<p>Table 1. Zones in <em>arc length</em> <math display="inline">
-<msub>
-<mi>L</mi><mi>a</mi>
-</msub>
-</math>, resulting in half the circumference <math display="inline">
-<mfrac>
-<mi>C</mi>
-<mrow>
-<mn>2</mn>
-</mrow>
-</mfrac>
-</math>, given in <em>scrupula</em> <math display="inline">
-<mi>s</mi><mi>c</mi>
-</math>, <em>patens</em> <math display="inline">
-<mi>p</mi><mi>t</mi>
-</math> and <em>stadia</em> <math display="inline">
-<mi>s</mi><mi>t</mi>
-</math> (c.f. Engels, <a href="http://www.jstor.org/stable/295030">1985</a>).</p>
-<pre><code>				La
-Zone				sc		pt		st
-
-Borealis	Saturn		sexagesima	sex		25200
-Æstius		Jupiter		quinque				21000
-Æquinoctialis	Mars		octo				33600
-Hiemalis	Venus		quinque				21000
-Australis	Mercury		quinque				25200
-Colliguntur			30				126000
-</code></pre>
-<p>It should be noted that here the names of the <em>planets</em> are assigned to the <em>zones</em> of the Earth.
-For implications of the descriptions of the <em>arc lengths</em> <math display="inline">
-<msub>
-<mi>L</mi><mi>a</mi>
-</msub>
-</math> in <em>scruples</em> <math display="inline">
-<mi>s</mi><mi>c</mi>
-</math> and <em>stades</em> <math display="inline">
-<mi>s</mi><mi>t</mi>
-</math> see <code>petav_tab01</code>, Walker et al. (<a href="https://doi.org/10.1002/jqs.1227">2009</a>) and Williams (<a href="https://nssdc.gsfc.nasa.gov/planetary/planetfact.html">2024</a>).</p>
-<p>Table 2. Excerpt from the <em>chronology</em> of Maximus, <em>S. MAXIMI COMPUTI</em>, which extends from the <em>Neolithic</em> period of 5500 BC until the early <em>Middle Ages</em> (833 AD, 912 AD, respectively).</p>
-<pre><code>per	mill	year			
-XI	VI	nat	S	AD	patriarch
-
-		230	230	-5270	Adam annus natus erat
-		205	435	-5065	Seth
-I		190	625	-4875	Enos
-		170	795	-4705	Cainan
-		165	960	-4540	Malaleel
-II	I	162	1122	-4378	Iared
-		165	1287	-4213	Enoch
-		167	1454	-4046	Mathusala
-III		188	1642	-3858	Lamech
-	II	500	2142	-3358	Noë
-		:	:	:	:
-		7	4232	-1268	Essebon
-		10	4242	-1258	Aelon
-		8	4250	-1250	Abdon
-VIII		40	4290	-1210	Philistæi
-		20	4310	-1190	Sampson
-		40	4350	-1150	Interregni &amp; pacis
-		20	4370	-1130	Heli sacerdos
-		:	:	:	:
-		17	5281	-219	Ptolemæus Philopator
-		23	5304	-196	Ptolemæus Epiphanes
-X		35	5339	-161	Ptolemæus Philometor
-		29	5368	-132	Ptolemæus Euergetes
-		16	5384	-116	Ptolemæus Physconis
-		:	:	:	:
-</code></pre>
-<p>See <code>petav_tab02</code>, <code>petav_tab03</code>, <code>petav_tab04</code>, Maximus (<a href="https://digi.vatlib.it/view/MSS_Vat.gr.505">n.d.</a>, fol. 240r-241r), Schissel (<a href="http://www.jstor.org/stable/44168086">1934</a>, p. 270) and also Schneider (<a href="http://www.jstor.org/stable/42618775">1952</a>, p. 519 ff.), Pinches (<a href="http://www.jstor.org/stable/25189899">1911</a>) or Frayne (<a href="http://www.jstor.org/stable/10.3138/j.ctt13x1qkz">1997</a>, <a href="https://books.google.com/books?id=dfi9zgEACAAJ">2021</a>).</p>
-<p>Further and more profound information on the subject of Byzantine chronology can be found at Gelzer (<a href="https://archive.org/details/sextusjuliusafr02gelzgoog">1880</a>, <a href="https://archive.org/details/sextusjuliusafr01gelzgoog">1898a</a>, <a href="https://archive.org/details/sextusjuliusafr00gelzgoog">b</a>).</p>
 <br>
-<h2 id="references">References</h2>
-<p>Aratus, &amp; Hyginus, G. I. (1569). <em>Arati Solensis Phaenomena Et Prognostica Interpretibus m. Tullio Cicerone, Rufo Festo Avieno, Germanico Caesare, Una Cum Ejus Commentariis: ; c. Julii Hygini Astronomicon</em>. 1st ed. Coloniae Agrippinae: Apud Theodorum Graminaeum. <a href="https://doi.org/10.3931/e-rara-53915">https://doi.org/10.3931/e-rara-53915</a></p>
-<p>Engels, D. (1985). The Length of Eratosthenes’ Stade. <em>The American Journal of Philology, 106</em>(3), 298–311. <a href="http://www.jstor.org/stable/295030">http://www.jstor.org/stable/295030</a></p>
-<p>Frayne, D. (1997). <em>Ur III Period (2112-2004 BC)</em>. Toronto, Ontario: University of Toronto Press. <a href="http://www.jstor.org/stable/10.3138/j.ctt13x1qkz">http://www.jstor.org/stable/10.3138/j.ctt13x1qkz</a></p>
-<p>———. (2021). <em>Presargonic Period: Early Periods, Volume 1 (2700-2350 BC)</em>. Toronto, Ontario: University of Toronto Press. <a href="https://books.google.com/books?id=dfi9zgEACAAJ">https://books.google.com/books?id=dfi9zgEACAAJ</a></p>
-<p>Gelzer, H. (1880). <em>SEXTUS JULIUS AFRICANUS UND DIE BYZANTINISCHE CHRONOGRAPHIE</em>. Vol. I: DIE CHRONOGRAPHIE DES JULIUS AFRICANUS. Leipzig: Druck und Verlag von B. G. Teubner. <a href="https://archive.org/details/sextusjuliusafr02gelzgoog">https://archive.org/details/sextusjuliusafr02gelzgoog</a></p>
-<p>———. (1898a). <em>SEXTUS JULIUS AFRICANUS UND DIE BYZANTINISCHE CHRONOGRAPHIE</em>. Vol. II.1: Die Nachfolger des Julius Africanus. Leipzig: J. C. Hinrichs’sche Buchhandlung. <a href="https://archive.org/details/sextusjuliusafr01gelzgoog">https://archive.org/details/sextusjuliusafr01gelzgoog</a></p>
-<p>———. (1898b). <em>SEXTUS JULIUS AFRICANUS UND DIE BYZANTINISCHE CHRONOGRAPHIE</em>. Vol. II.2: Nachträge. Leipzig: J. C. Hinrichs’sche Buchhandlung. <a href="https://archive.org/details/sextusjuliusafr00gelzgoog">https://archive.org/details/sextusjuliusafr00gelzgoog</a></p>
-<p>Goldstein, B. R., &amp; Bowen, A. C. (1983). A New View of Early Greek Astronomy. <em>Isis, 74</em>(3), 330–40. <a href="http://www.jstor.org/stable/232593">http://www.jstor.org/stable/232593</a></p>
-<p>Maximus. (n.d.). Vat.gr.505 ed. Vatican: Biblioteca Apostolica Vaticana. <a href="https://digi.vatlib.it/view/MSS_Vat.gr.505">https://digi.vatlib.it/view/MSS_Vat.gr.505</a></p>
-<p>Oxford Reference. (2024). Achilles Tatius. <a href="https://www.oxfordreference.com/display/10.1093/oi/authority.20110803095347168">https://www.oxfordreference.com/display/10.1093/oi/authority.20110803095347168</a></p>
-<p>Petavius, D. (1630). <em>VRANOLOGION sive systema variorvm authorvm. qvi de sphaera, ac sideribvs, eorvmove motibvs Graece commentati sunt</em>. LVTETIAE PARISIORVM: Sumptibus Sebastiani Cramoisy, via Iacobaea, sub Ciconiis. M. DC. XXX. CVM PRIVILEGIO REGIS CHRISTIANISS. <a href="https://doi.org/10.3931/e-rara-2004">https://doi.org/10.3931/e-rara-2004</a></p>
-<p>Pinches, T. G. (1911). Review of Sumerian Administrative Documents, Dated in the Reigns of the Second Dynasty of Ur, from the Temple Archives of Nippur Preserved in Philadelphia. Vol. III, Part i, by d. W. Myhrman &amp; h. V. Hilprecht. <em>Journal of the Royal Asiatic Society of Great Britain and Ireland</em>, 571–73. <a href="http://www.jstor.org/stable/25189899">http://www.jstor.org/stable/25189899</a></p>
-<p>Schissel, O. (1934). NOTE SUR UN CATALOGUS CODICUM CHRONOLOGORUM GRAECORUM. <em>Byzantion, 9</em>(1), 269–95. <a href="http://www.jstor.org/stable/44168086">http://www.jstor.org/stable/44168086</a></p>
-<p>Schneider, N. (1952). PATRIARCHENNAMEN IN ZEITGENÖSSISCHEN KEILSCHRIFTURKUNDEN. <em>Biblica, 33</em>(4), 516–22. <a href="http://www.jstor.org/stable/42618775">http://www.jstor.org/stable/42618775</a></p>
-<p>Walker, M., Johnsen, S., Rasmussen, S. O., Popp, T., Steffensen, J. -P., Gibbard, P., Hoek, W., Lowe, J., Andrews, J., Björck, S., Cwynar, L. C., Hughen, K., Kershaw, P., Kromer, B., Litt, T., Lowe, D. J., Nakagawa, T., Newnham, R., &amp; Schwander, J. (2009). Formal Definition and Dating of the GSSP (Global Stratotype Section and Point) for the Base of the Holocene Using the Greenland NGRIP Ice Core, and Selected Auxiliary Records. <em>Journal of Quaternary Science, 24</em>(1), 3–17. <a href="https://doi.org/10.1002/jqs.1227">https://doi.org/10.1002/jqs.1227</a></p>
-<p>Williams, D. R. (2024). <em>Planetary Fact Sheets.</em> NASA Goddard Space Flight Center. <a href="https://nssdc.gsfc.nasa.gov/planetary/planetfact.html">https://nssdc.gsfc.nasa.gov/planetary/planetfact.html</a></p>
+<h3 id="references">References</h3>
+<p>Goldstein, B. R. (1967). The Arabic Version of Ptolemy’s Planetary Hypotheses. <em>Transactions of the American Philosophical Society, 57</em>(4), 3–55. <a href="https://doi.org/10.2307/1006040">DOI:10.2307/1006040</a></p>
+<p>Halma, N. (1813). <em>Composition mathématique de Claude Ptolémée.</em> Traduite pour la première fois du grec en français, sur les manuscrits originaux de la Bibliothèque Impériale de Paris, par M. Halma; et suivie des notes de M. Delambre, ... A Paris, chez Henri Grand, libraire, Rue Saint-André-des-Arcs, N° 51. (Mathematical composition of Claude Ptolemy. Translated for the first time from Greek into French, on the Original Manuscripts of the Imperial Library of Paris...)
+<a href="https://ia600202.us.archive.org/12/items/bub_gb_a9nvvbG-OOIC/bub_gb_a9nvvbG-OOIC.pdf">https://gallica.bnf.fr/ark: /12148/bpt6k62056165?rk=21459;2</a></p>
+<p>Heiberg, J. L. (1898). <em>Claudii Ptolemaei Opera quae exstant omnia. Syntaxis Mathematica. Vol. 1. 1.</em> Lipsae: In aedibus B. G. Teubneri. <a href="https://archive.org/details/pt1claudiiptolemaei01ptoluoft/page/n561/mode/2up">https://archive.org/details/pt1claudiiptolemaei01ptoluoft/page/n561/mode/2up</a></p>
+<p>Ptolemaeus, C. (1515). <em>Almagestum CL. Ptolemei Pheludiensis Alexandrini astronomorum principis: Opus ingens ac nobile omnes Caelorum motus continens.</em> Felicibus astris eat in lucem: Ductu Petri Liechtenstein Coloniensis Germani. Anno Virginei Partus, 1515, Die 10. Ia. Venetiis ex officina eiusdem litteraria. (Almagest of CL. Ptolemy Pheludiens, head of the Alexandrian astronomers: A great and noble work containing all the movements of the heavens...) <a href="https://doi.org/10.3931/e-rara-206">DOI:10.3931/e-rara-206</a></p>
+<p>Schrausser, D. G. (2023). <em>Schrausser/Ptolemy-s-table-of-chords: Calculator (v3.5.7)</em>. Zenodo. <a href="https://doi.org/10.5281/zenodo.7948117">DOI:10.5281/zenodo.7948117</a></p>
+<p>———. (2024). Ptolemy’s Table of Chords: Implications Considered and Discussed. <em>OSF Open Science Framework, 05/24</em>. <a href="https://doi.org/10.31219/osf.io/dv4nz">DOI:10.31219/osf.io/dv4nz</a></p>
+<p>Toomer, G. J. (1984). <em>Ptolemy's Almagest</em>. Duckworth, London &amp; Springer, New York. <a href="https://doi.org/10.2307/631776">DOI:10.2307/631776</a></p>
+<p>———. (1998). <em>Ptolemy’s Almagest. Revised.</em> Princeton, NJ: Princeton University Press. <a href="https://www.amazon.de/Ptolemys-Almagest-Ptolemy/dp/0691002606">https://www.amazon.de/Ptolemys-Almagest-Ptolemy/dp/0691002606</a></p>
 
 <hr WIDTH="75%">
 <blockquote ALIGN="CENTER">
 <center>
-<a href="https://github.com/Schrausser/Uranologion-tables">
-Uranologion-tables
+<a href="https://github.com/Schrausser/Ptolemy-s-table-of-chords">
+Ptolemy-s-table-of-chords
 </a>
 <br><font color="#999999"><font size=-1>
 <a
 href="https://orcid.org/0000-0002-4924-8280">
 Dietmar Gerald Schrausser
 </a>
-<p>15.07.2025</p>
+<p>16.07.2025</p>
 </font></font>
 </center>
-</blockquote>
+</blockquote>	
 
 </body>
 </html>
