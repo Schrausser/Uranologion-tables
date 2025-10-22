@@ -1,146 +1,108 @@
-# Velho's Cosmographia tables
+# Uranologion-tables
 
-Bartholomeu Velho's *Cosmographia* illustration ([1568](http://catalogue.bnf.fr/ark:/12148/cb416166390), fol. 9v-10r, fol. 6r-7v, res.) depicting his geocentric model (c.f. Domosh et al., [2020](https://books.google.com/books?id=8n7vDwAAQBAJ), p. 28) with tables elaborated and recalculated as well as presented with corresponding images of *his*  Solar System:
+Tables on the *Phenomena of Aratus* (e.g. Aratus & Hyginus, [1569](https://doi.org/10.3931/e-rara-53915)) and the *chronology* of Maximus (c.f. Schissel, [1934](http://www.jstor.org/stable/44168086)) from the transscription and latin translation in the famous *Uranologion* by Denis Pétau or Dionysius Petavius ([1630](https://doi.org/10.3931/e-rara-2004)), c.f. `petav_tr01`, `petav_tab05`:
 
->„ [...] the Bibliotheque Nationale succeeded in acquiring the manuscript in which the Portuguese Bartolomeu Velho summarised his cosmographic knowledge for the benefit of King Charles IX of France [...] This volume consists of 23 cosmographic tavoadas and figuras illustrated by representations of the terrestrial globe on different projections and allegorical figures of the Moon, Mercury, Venus, the Sun, Jupiter and Saturn  [...] the work, which Velho compiled at the request of Francisco d'Albagno, remained in the latter's possession and was not delivered to the king owing to the author's death [...] Soon after, it passed to Giovanni Andreozzi [...] who in 1576 offered it to the Grand Duke Francis of Tuscany [...]  it was discovered in the library of M. Ferreira das Neves [...] and studied in 1890 [...] The MS. reappeared in the library of Ch. Chadenat, whence it passed into the Bibliotheque Nationale on March 13, 1950 [...] “, (Foncin, [1960](http://www.jstor.org/stable/1150275), p. 43-44).
+>"Achillis Tatij Isagoge ad Arati Phænomena, qui liber falsò Eratostheni tribuitur.", (Petavius, [1630](https://doi.org/10.3931/e-rara-2004), index).
 
-See also Codazzi ([1964](http://www.jstor.org/stable/1150381)), p. 78) and Cortesão ([1965](https://books.google.com/books?id=9TkNAAAAYAAJ), [2009](https://www.amazon.com/Hist%C3%B3ria-Brasil-Velhos-Mapas-portugiesisch/dp/9722717952), respectively).
+>Achilles Tatius' *introduction* to the *Phenomena of Aratus*. The book is *incorrectly* attributed to *Eratosthenes*.
 
-Table 1. Translation of the *headline* text.		
-~~~
-portugues	FIGURA DOS CORPOS CELESTES			
-english		Picture of the celestial bodies.
-~~~
+Petavius ​​​gave the translation of the introduction by *Achilles Tatius* from the 3rd century (c.f. Oxford Reference, [2024](https://www.oxfordreference.com/display/10.1093/oi/authority.20110803095347168)) on *Aratus'* (c. 315-240 BC) hexameter prose adaptation of the (lost) *Phenomena* and *Enoptron* by *Eudoxus of Cnidus*:
+>"[...] largely responsible for turning astronomy into a mathematical science [...] was Eudoxus of Cnidus (ca. 390-337 B.C.). [...] we propose that Eudoxus was influenced by cosmological speculation, particularly that of the Pythagoreans and Plato. For, in their view, the circular motions of the heavenly bodies manifested a moral order that was ultimately analyzable by means of [...] whole-number ratios as melodious sound.", (Goldstein & Bowen, [1983](http://www.jstor.org/stable/232593), p. 332-333).
 
-Table 2. Display and translation of *sphere parameters* starting at the top right in a clockwise direction (c.f. Fig. 1).		
-~~~
-Parameter		Text	
+A description of *astronomy*, the *world* and the *Earth* is given (Petavius, [1630](https://doi.org/10.3931/e-rara-2004), p. 256-267):
 
-1) Arc length BL	Legoas de hu grao : e cada hu globo celeste
-                	Arc length per degree in legues.	
-
-2) Circumference U	Legoas do mayor circulo de cada hu globo C'eleste.				
-          		Sphere circumference in legues.	
-
-3) Diameter D		Legoas do diametro de cada hu globo celeste.	
-         		Sphere diameter in legues.	
-
-4) Width b		Legoas da gro sura de cada hu globo cesleste.	
-                	Sphere width in legues.	
-	
-5) Distance d		Legoas ate o centro da terra ‐ de cada hu globo celeste.
-                	Distance from the center of the earth or sphere radius in legues.  
-~~~
-Figure 1. 		
-![figure.\label{velho01}](velho01.png)
-
-Arc length *BL* (fol. 7v) per degree $∡°$ is calculated by
-
-$$BL_{∡°}=\frac{U}{360},$$
-
-where circumference $U=\pi_0⋅D$ and diameter $D=2⋅r$ (fol. 7r). The *corresponding* circular constant $\pi_0$ used by Velho can be derived from given $U_0$ and $D_0$ as
-
-$$\pi_0=\frac{U_0}{D_0}= 3.\overline{142857}$$
-
-or $\pi_0=\frac{22}{7}$, respectively. Width $b$ (fol. 6v) at given $n$ is calculated by
-
-$$b_n=r_n-r_{(n-1)},$$
-
-where radius $r$ (fol. 6r) equals distance $d$.
-
-Table 3. Translation of the *rotation* descriptions.		
-~~~
-Texto em portogues		english
-
-R. DA LVA			Orbital period of the Moon
-EN 27 DIAS E 8 ORAS		in 27 days and 8 hours.
-
-R. DE MERCVRIO			Orbital period of Mercury
-EN 70 DIAS E 7 ORAS		in 70 days and 7 hours.
-
-REVOLVCAO DE VENUS		Orbital period of Venus
-EN 273 DIAS E 23 ORAS		in 273 days and 23 hours.
-
-REVOLVCAC DO SOL		Orbital period of the Sun
-EN 365 DIAS E SEIS ORAS		in 365 days and six hours.
-
-REVOLVCAO DE MARS		Orbital period of Mars
-EN DOVS ANNOS			in two years.
-
-REVOLVCAO DO CEO D IVPITER	Orbital period of the Jupiter sky
-EN DOZE ANNOS			in twelve years.
-
-REVOLVCAO DO CEO D SATVRNO	Orbital period of the Saturn sky
-EN TRINTA ANNOS			in thirty years.
-
-REVOLVCAO DO CEO DAS ES TRELAS	Orbital period of the starry sky
-EN 36000 ANOS			in 36000 years.
-
-REVOLVCAO DO PRIMO		Orbital period of the first
-MOBILE EM 24 ORAS		mobile in 24 hours.
-
-CELVM EMPIREVM HABITACVLVM	Heaven of the home of
-DEI ET OMNIVM ELECTORUM		God and all chosen ones.
-~~~
-Table 4. Radius *r*, distances *d*, res., given in *Legoas* $L$ converted into kilometers *km*, with *Légua terrestre*[^1] $L_t=6.600km$ and *Légua antiga* $L_a=6.197km$ (c.f. Costa, [1994](http://historia_demografica.tripod.com/bhds/bhd1.htm#pesos)).
-[^1]:Land league in the colonial period of Brazil.
-~~~
-                km		
-        	L(t)             L(a)
-	
-Terra	 	6 615,00         6 211,08 	
-Ar	 	66 151,80 	 62 112,53 	 
-Fogo		180 076,05 	 169 080,50 	 
-Luna		344 092,65 	 323 082,14 	 
-Mercurio	895 537,50 	 840 855,44 	 
-Venus		4 974 750,00 	 4 670 988,75 	 
-Sol	 	6 627 225,00 	 6 222 562,63 	 
-Mars	 	34 430 550,00 	 32 328 199,75 	 
-Jupiter	 	65 894 812,50 	 61 871 235,31 	 
-Saturno	 	104 737 875,00 	 98 342 516,88 	 
-Firmamento	212 577 750,00 	 199 597 623,75  
-~~~
-Velho's universe up to the *firmament* therefore has a size that roughly extends to the *orbit of Mars*, with semimajor axis $d=227956000km$ (c.f. Williams, [2024](https://nssdc.gsfc.nasa.gov/planetary/factsheet/marsfact.html)).
-For the corresponding *distances* or *sizes* of the spheres c.f. Fig. 2.  
-At this point it also becomes clear that, given the distances shown, it hardly makes any difference in the *overall* picture whether you place the Earth or the Sun in the center (see `velho_tab01`, `velho_tab02`, `velho_tab03` and `velho_tab04` tables).  
-
-Figure 2.
-![figure.\label{velho02}](velho02.png)
-
-In this context see *Anaxagoras* and his concepts of the *primum mobile* and *nous* (c.f. Ferchius, [1646](https://doi.org/10.3931/e-rara-73987)), *Pythagoras‘* doctrine of *musica universalis* (c.f. Davis et al., [1901](https://archive.org/details/republicstatesma00plat_0/)) and *Plato’s* fifth *etheric* element, the *quintessence* (see e.g. Böckh, [1852](https://doi.org/10.3931/e-rara-90691)):
-
->„As the eyes, said I, seem formed for studying astronomy, so do the ears seem formed for harmonious motions: and these seem to be twin sciences to one another, as also the Pythagoreans say.", (Davis et al., [1901](https://archive.org/details/republicstatesma00plat_0/), p. 252).
+>"ERATOSTHENIS, ALIAS HIPPARCHI
+[Pseudepigraphus hic libellus. nam neutrius est], AD ARATI PHÆNOMENA.", (Petavius, [1630](https://doi.org/10.3931/e-rara-2004), p. 256).
 >
-For further readings see e.g. Campbell ([1978](http://www.jstor.org/stable/1150712), p. 105), Furtado ([2022](https://doi.org/10.1093/acrefore/9780199366439.013.773)), Krtalić and McIntosh ([2022](https://doi.org/10.1017/S0373463322000662)) or Meirinhos ([2022](https://books.google.com/books?id=EAEezwEACAAJ)).
+>ERATOSTHENES,
+ALIAS HIPPARCH (this book is by *neither* of *them*), ON THE PHENOMENA OF ARATUS.
+
+>De Zonis. PArallelis circulis zonæ quinque subjectæ sunt : Borealis, quæ tota supra terram eminnens est, inhabitabilis, alsiosa, Saturno dicata [...] Æstiua, cuius maior pars supra finitorem extollitur. Temperata in qua regio nostra sita est ; attributa Ioui [...] Æquinoctialis æqualem supra, infráque horizontem obtinens partem ; inhabitabilis est, exusta, Martis propria [...] hic enim tam ipsam, quàm totam sphæram mediam diuidit [...] Hiemalis contra atque æstius maiore sui parte sub horizonte latet ; habitabilis ; temperara ; dicata Veneri [...] Australis, quæ tota delitescit, inhabitabilis, frigida, ad Mercurium pertinens [...] Colliguntur ambitus terræ supra finitorem, scrupula 30 ; stadiorum verò 126000.", (Petavius, [1630](https://doi.org/10.3931/e-rara-2004), p. 266).
+
+>About the Zones: Parallel to the circles there are five sub-zones: *The North*, which is entirely above the Earth, uninhabitable, sticky and dedicated to *Saturn*. *The Summer*, the greater part of which is emphasized above the limiter, is  the climate in which our region is located and attributed to *Jupiter*. *The equinoctial part*, having an equal part above and below the horizon, is uninhabitable, scorched and proper to *Mars*, for here it divides both, itself and the whole sphere in the middle. The greater part of *Winter*, in the contrary to Summer, is hidden below the horizon;  habitable;  temperate;  dedicated to *Venus*. *The South*, which is entirely hidden, uninhabitable and  cold is belonging to *Mercury*. Areas above the limiter of the earth are collected, 30 scruples, indeed 126000 stades.
+
+Zones in *arc length* $L_a$, resulting in half the circumference $\frac{C}{2}$, given in *scrupula* $sc$, *patens* $pt$ and *stadia* $st$ (c.f. Engels, [1985](http://www.jstor.org/stable/295030)).
+~~~				
+				La
+Zone				sc		pt		st
+
+Borealis	Saturn		sexagesima	sex		25200
+Æstius		Jupiter		quinque				21000
+Æquinoctialis	Mars		octo				33600
+Hiemalis	Venus		quinque				21000
+Australis	Mercury		quinque				25200
+Colliguntur			30				126000
+~~~
+
+
+It should be noted that here the names of the *planets* are assigned to the *zones* of the Earth.
+For implications of the descriptions of the *arc lengths* $L_a$ in *scruples* $sc$ and *stades* $st$ see `petav_tab01`, Walker et al. ([2009](https://doi.org/10.1002/jqs.1227)) and Williams ([2024](https://nssdc.gsfc.nasa.gov/planetary/planetfact.html)).
+
+Excerpt from the *chronology* of Maximus, *S. MAXIMI COMPUTI*, which extends from the *Neolithic* period of 5500 BC until the early *Middle Ages* (833 AD, 912 AD, respectively).
+~~~
+per	mill	year			
+XI	VI	nat	S	AD	patriarch
+
+		230	230	-5270	Adam annus natus erat
+		205	435	-5065	Seth
+I		190	625	-4875	Enos
+		170	795	-4705	Cainan
+		165	960	-4540	Malaleel
+II	I	162	1122	-4378	Iared
+		165	1287	-4213	Enoch
+		167	1454	-4046	Mathusala
+III		188	1642	-3858	Lamech
+	II	500	2142	-3358	Noë
+		:	:	:	:
+		7	4232	-1268	Essebon
+		10	4242	-1258	Aelon
+		8	4250	-1250	Abdon
+VIII		40	4290	-1210	Philistæi
+		20	4310	-1190	Sampson
+		40	4350	-1150	Interregni & pacis
+		20	4370	-1130	Heli sacerdos
+		:	:	:	:
+		17	5281	-219	Ptolemæus Philopator
+		23	5304	-196	Ptolemæus Epiphanes
+X		35	5339	-161	Ptolemæus Philometor
+		29	5368	-132	Ptolemæus Euergetes
+		16	5384	-116	Ptolemæus Physconis
+		:	:	:	:
+~~~
+See `petav_tab02`, `petav_tab03`, `petav_tab04`, Maximus ([n.d.](https://digi.vatlib.it/view/MSS_Vat.gr.505), fol. 240r-241r), Schissel ([1934](http://www.jstor.org/stable/44168086), p. 270) and also Schneider ([1952](http://www.jstor.org/stable/42618775), p. 519 ff.), Pinches ([1911](http://www.jstor.org/stable/25189899)) or Frayne ([1997](http://www.jstor.org/stable/10.3138/j.ctt13x1qkz), [2021](https://books.google.com/books?id=dfi9zgEACAAJ)).
+
+Further and more profound information on the subject of Byzantine chronology can be found at Gelzer ([1880](https://archive.org/details/sextusjuliusafr02gelzgoog), [1898a](https://archive.org/details/sextusjuliusafr01gelzgoog), [b](https://archive.org/details/sextusjuliusafr00gelzgoog)).
 
 ## References
 
-Böckh, A. (1852). *Untersuchungen Über Das Kosmische System Des Platon: Mit Bezug Auf Hrn. Gruppe’s Kosmische Systeme Der Griechen ; Sendschreiben an Alexander von Humboldt*. Berlin: Verlag von Veit & Comp. [https://doi.org/10.3931/e-rara-90691](https://doi.org/10.3931/e-rara-90691)
+Aratus, & Hyginus, G. I. (1569). *Arati Solensis Phaenomena Et Prognostica Interpretibus m. Tullio Cicerone, Rufo Festo Avieno, Germanico Caesare, Una Cum Ejus Commentariis: ; c. Julii Hygini Astronomicon*. 1st ed. Coloniae Agrippinae: Apud Theodorum Graminaeum. [https://doi.org/10.3931/e-rara-53915](https://doi.org/10.3931/e-rara-53915)
 
-Campbell, T. (1978). Chronicle. *Imago Mundi, 30*, 103–8. [http://www.jstor.org/stable/1150712](http://www.jstor.org/stable/1150712)
+Engels, D. (1985). The Length of Eratosthenes’ Stade. *The American Journal of Philology, 106*(3), 298–311. [http://www.jstor.org/stable/295030](http://www.jstor.org/stable/295030)
 
-Codazzi, A. (1964). The Contribution of Roberto Almagià to the History of Cartography. *Imago Mundi, 18*, 78–80. [http://www.jstor.org/stable/1150381](http://www.jstor.org/stable/1150381)
+Frayne, D. (1997). *Ur III Period (2112-2004 BC)*. Toronto, Ontario: University of Toronto Press. [http://www.jstor.org/stable/10.3138/j.ctt13x1qkz](http://www.jstor.org/stable/10.3138/j.ctt13x1qkz)
 
-Cortesão, J. (1965). *História do Brasil nos Velhos Mapas*. Vol. 2. História Do Brasil Nos Velhos Mapas. Brasilia: Ministor̄io das Relações Exteriores, Instituto Rio Branco. [https://books.google.com/books?id=9TkNAAAAYAAJ](https://books.google.com/books?id=9TkNAAAAYAAJ)
+———. (2021). *Presargonic Period: Early Periods, Volume 1 (2700-2350 BC)*. Toronto, Ontario: University of Toronto Press. [https://books.google.com/books?id=dfi9zgEACAAJ](https://books.google.com/books?id=dfi9zgEACAAJ)
 
-———. (2009). *História Do Brasil Nos Velhos Mapas - Obras Completas IX*. Portuguese. Vol. 1. Lisbon: INCM – Imprensa Nacional Casa da Moeda. [https://www.amazon.com/Hist%C3%B3ria-Brasil-Velhos-Mapas-portugiesisch/dp/9722717952](https://www.amazon.com/Hist%C3%B3ria-Brasil-Velhos-Mapas-portugiesisch/dp/9722717952)
+Gelzer, H. (1880). *SEXTUS JULIUS AFRICANUS UND DIE BYZANTINISCHE CHRONOGRAPHIE*. Vol. I: DIE CHRONOGRAPHIE DES JULIUS AFRICANUS. Leipzig: Druck und Verlag von B. G. Teubner. [https://archive.org/details/sextusjuliusafr02gelzgoog](https://archive.org/details/sextusjuliusafr02gelzgoog)
 
-Costa, I. (1994). Pesos e medidas no período colonial brasileiro: denominações e relações. *Boletim de História Demográfica, 1*(1). [http://historia_demografica.tripod.com/bhds/bhd1.htm#pesos](http://historia_demografica.tripod.com/bhds/bhd1.htm#pesos)
+———. (1898a). *SEXTUS JULIUS AFRICANUS UND DIE BYZANTINISCHE CHRONOGRAPHIE*. Vol. II.1: Die Nachfolger des Julius Africanus. Leipzig: J. C. Hinrichs’sche Buchhandlung. [https://archive.org/details/sextusjuliusafr01gelzgoog](https://archive.org/details/sextusjuliusafr01gelzgoog)
 
-Davis, H., Burges, G., & Rooker, G. Z. (1901). *The Republic: The Statesman of Plato*. London & New York: M. Walter Dunne. [https://archive.org/details/republicstatesma00plat_0/](https://archive.org/details/republicstatesma00plat_0/)
+———. (1898b). *SEXTUS JULIUS AFRICANUS UND DIE BYZANTINISCHE CHRONOGRAPHIE*. Vol. II.2: Nachträge. Leipzig: J. C. Hinrichs’sche Buchhandlung. [https://archive.org/details/sextusjuliusafr00gelzgoog](https://archive.org/details/sextusjuliusafr00gelzgoog)
 
-Domosh, M., Heffernan, M., & Withers, C.W.J. (2020). *The SAGE Handbook of Historical Geography*. Thousand Oaks, California: SAGE Publications. [https://books.google.com/books?id=8n7vDwAAQBAJ](https://books.google.com/books?id=8n7vDwAAQBAJ)
+Goldstein, B. R., & Bowen, A. C. (1983). A New View of Early Greek Astronomy. *Isis, 74*(3), 330–40. [http://www.jstor.org/stable/232593](http://www.jstor.org/stable/232593)
 
-Ferchius, M. (1646). *De Caelesti Svbstantia: Et Eius Ortu, Ac Motu in Sententia Anaxagorae Philosophi Celeberrimi*. Venetiis: apud Haeredes Ioannis Salis. [https://doi.org/10.3931/e-rara-73987](https://doi.org/10.3931/e-rara-73987)
+Maximus. (n.d.). Vat.gr.505 ed. Vatican: Biblioteca Apostolica Vaticana. [https://digi.vatlib.it/view/MSS_Vat.gr.505](https://digi.vatlib.it/view/MSS_Vat.gr.505)
 
-Foncin, M. (1960). Some Manuscript Maps Recently Acquired by the Département Des Cartes Et Plans of the Bibliothèque Nationale, Paris. *Imago Mundi, 15*, 40–5. [http://www.jstor.org/stable/1150275](http://www.jstor.org/stable/1150275)
+Oxford Reference. (2024). Achilles Tatius. [https://www.oxfordreference.com/display/10.1093/oi/authority.20110803095347168](https://www.oxfordreference.com/display/10.1093/oi/authority.20110803095347168)
 
-Furtado, J. F. (2022). Cartography in the Administration of Portuguese America from the 16th to 18th Centuries. In *The Oxford Encyclopedia of Brazilian History and Culture*, edited by Palacios, G. Oxford: University Press. [https://doi.org/10.1093/acrefore/9780199366439.013.773](https://doi.org/10.1093/acrefore/9780199366439.013.773)
+Petavius, D. (1630). *VRANOLOGION sive systema variorvm authorvm. qvi de sphaera, ac sideribvs, eorvmove motibvs Graece commentati sunt*. LVTETIAE PARISIORVM: Sumptibus Sebastiani Cramoisy, via Iacobaea, sub Ciconiis. M. DC. XXX. CVM PRIVILEGIO REGIS CHRISTIANISS. [https://doi.org/10.3931/e-rara-2004](https://doi.org/10.3931/e-rara-2004)
 
-Krtalić, Š., & McIntosh, G. C. (2022). Two Sixteenth-Century Nautical Charts of the South Atlantic Ocean: An Early Example of Cartography Used at Sea. *Journal of Navigation, 75*(6),1280–97. [https://doi.org/10.1017/S0373463322000662](https://doi.org/10.1017/S0373463322000662)
+Pinches, T. G. (1911). Review of Sumerian Administrative Documents, Dated in the Reigns of the Second Dynasty of Ur, from the Temple Archives of Nippur Preserved in Philadelphia. Vol. III, Part i, by d. W. Myhrman & h. V. Hilprecht. *Journal of the Royal Asiatic Society of Great Britain and Ireland*, 571–73. [http://www.jstor.org/stable/25189899](http://www.jstor.org/stable/25189899)
 
-Meirinhos, J. F. (2022). Celestial Bodies and Dimension of the Universe in Bartolomeu Velho’s Cosmographia. In *From Wisdom to Data: Philosophical Atlas on Visual Representations of Knowledge*, edited by Higuera, J. G., Romele, A., Rodighiero, D., & Pedro, C. Coleção Transversal. Porto: University of Porto Press. [https://books.google.com/books?id=EAEezwEACAAJ](https://books.google.com/books?id=EAEezwEACAAJ)
+Schissel, O. (1934). NOTE SUR UN CATALOGUS CODICUM CHRONOLOGORUM GRAECORUM. *Byzantion, 9*(1), 269–95. [http://www.jstor.org/stable/44168086](http://www.jstor.org/stable/44168086)
 
-Velho, B. (1568). *Principio da verdadeira cosmographia ... per Bartholomeu Velho portugues/neste anno de 1568*. Paris: Bibliothèque nationale de France. [http://catalogue.bnf.fr/ark:/12148/cb416166390](http://catalogue.bnf.fr/ark:/12148/cb416166390)
+Schneider, N. (1952). PATRIARCHENNAMEN IN ZEITGENÖSSISCHEN KEILSCHRIFTURKUNDEN. *Biblica, 33*(4), 516–22. [http://www.jstor.org/stable/42618775](http://www.jstor.org/stable/42618775)
 
-Williams, D. R. (2024). *Mars Fact Sheet*. NASA Goddard Space Flight Center. [https://nssdc.gsfc.nasa.gov/planetary/factsheet/marsfact.html](https://nssdc.gsfc.nasa.gov/planetary/factsheet/marsfact.html)
+Walker, M., Johnsen, S., Rasmussen, S. O., Popp, T., Steffensen, J. -P., Gibbard, P., Hoek, W., Lowe, J., Andrews, J., Björck, S., Cwynar, L. C., Hughen, K., Kershaw, P., Kromer, B., Litt, T., Lowe, D. J., Nakagawa, T., Newnham, R., & Schwander, J. (2009). Formal Definition and Dating of the GSSP (Global Stratotype Section and Point) for the Base of the Holocene Using the Greenland NGRIP Ice Core, and Selected Auxiliary Records. *Journal of Quaternary Science, 24*(1), 3–17. [https://doi.org/10.1002/jqs.1227](https://doi.org/10.1002/jqs.1227)
+
+Williams, D. R. (2024). *Planetary Fact Sheets.* NASA Goddard Space Flight Center. [https://nssdc.gsfc.nasa.gov/planetary/planetfact.html](https://nssdc.gsfc.nasa.gov/planetary/planetfact.html)
