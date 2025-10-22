@@ -5,11 +5,11 @@
 <meta name="Author" content="Dietmar Gerald Schrausser">
 
 <title>
-Ptolemy-s-table-of-chords/README
+Velho-s-Cosmographia-table/README
 </title>
 
 </head> 
-<body style="font-family:calibri;font-size:85%;background-color:#efebe9;color:#37474f">
+<body style="font-family:calibri;font-size:85%;background-color:#eceff1;color:#37474f">
 
 <style>
 a {color: #78909c; }
@@ -17,105 +17,158 @@ a:visited {color: #78909c;}
 img {max-width: 50%;}
 </style>
 
-<h1 id="ptolemys-table-of-chords">Ptolemy's table of chords</h1>
-<p><a href="https://m.youtube.com/watch?v=xUpBBr5btvk">Demo movie</a></p>
-<p><code>CHORD</code> application for Android (Schrausser, <a href="https://doi.org/10.5281/zenodo.7948117">2023</a>): Famous table of chord lengths according to Ptolemy's <em>Almagest</em> (<a href="https://doi.org/10.3931/e-rara-206">1515</a>, fol. 7r ff.) converted into decimal values and calculated in comparison using the sine function, see Halma (<a href="https://ia600202.us.archive.org/12/items/bub_gb_a9nvvbG-OOIC/bub_gb_a9nvvbG-OOIC.pdf">1813</a>, p. 38 ff.),  Heiberg (<a href="https://archive.org/details/pt1claudiiptolemaei01ptoluoft/page/n561/mode/2up">1898</a>, p. 48 ff.) or Toomer (<a href="https://doi.org/10.2307/631776">1984</a>, p. 57 ff., <a href="https://www.amazon.de/Ptolemys-Almagest-Ptolemy/dp/0691002606">1998</a>, res.), c.f. <code>chords_time</code> tables, Schrausser (<a href="https://doi.org/10.31219/osf.io/dv4nz">2024</a>), respectively.<br />
-Chord lengths <math display="inline">
-<msub><mi>l</mi><mn>0</mn></msub>
-</math> are <em>derived</em> according to <em>Ptolemy's theorem</em> (Fig. 1) within the relation between four sides and two diagonals of a cyclic quadrilateral where</p>
-<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><mi>A</mi><mi>C</mi><mo>&middot;</mo><mi>B</mi><mi>D</mi><mo>=</mo><mi>A</mi><mi>B</mi><mo>&middot;</mo><mi>C</mi><mi>D</mi><mo>+</mo><mi>B</mi><mi>C</mi><mo>&middot;</mo><mi>A</mi><mi>D</mi><mo>.</mo></math></p>
-<p>Figure 1.
-<img src="pic1.jpg" alt="figure.\label{Figure1: Cyclic quadrilateral.}" /></p>
-<p>Chord lengths <math display="inline">
-<msub><mi>l</mi><mn>0</mn></msub>
-</math> (Fig. 2) are expressed in fractional parts of sexagesimal numerals <math display="inline">
-<mi>x</mi>
-</math> <math display="inline">
-<mi>y</mi>
-</math> <math display="inline">
-<mi>z</mi>
-</math>. Decimal values <math display="inline">
-<msub><mi>l</mi><mn>1</mn></msub>
-</math> are calculated by</p>
-<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><msub><mi>l</mi><mn>1</mn></msub><mo>=</mo><mi>x</mi><mo>+</mo><mfrac><mi>y</mi><mn>60</mn></mfrac><mo>+</mo><mfrac><mi>z</mi><msup><mn>60</mn><mn>2</mn></msup></mfrac><mo>.</mo></math></p>
-<p>Figure 2.
-<img src="pic2.jpg" alt="figure.\label{Figure2: Chord length representation.}" /></p>
-<p><em>Sixtieth</em> is the average interpolation number to be added to length <math display="inline">
-<msub><mi>l</mi><mn>0</mn></msub>
-</math> or <math display="inline">
-<msub><mi>l</mi><mn>1</mn></msub>
-</math> each time angle increases by one minute of arc, that is <math display="inline"><mi>n</mi><mo>=</mo><mn>30</mn></math> times per half angle degree <math display="inline">
-<mi>&alpha;</mi>
-</math>.<br />
-Lengths <math display="inline">
-<msub><mi>l</mi><mn>2</mn></msub>
-</math> to given arcus <math display="inline">
-<mi>&alpha;</mi>
-</math> and diameter <math display="inline">
-<mi>d</mi>
-</math> are calculated using the sine function, where</p>
-<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><msub><mi>l</mi><mn>2</mn></msub><mo>=</mo><mi>d</mi><mo>&middot;</mo><mi>sin</mi><mo data-mjx-texclass="NONE">⁡</mo><mfrac><mrow><mi>&alpha;</mi><mo>&middot;</mo><mo>&pi;</mo></mrow><mn>360</mn></mfrac><mo>.</mo></math></p>
-<p>This is equivalent in terms of content to distance <math display="inline">
-<mi>s</mi>
-</math> or radius <math display="inline">
-<mi>r</mi>
-</math> determination via angular diameter <math display="inline">
-<mi>V</mi>
-</math> with</p>
-<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><mi>r</mi><mo>=</mo><mi>s</mi><mo>&middot;</mo><mi>tan</mi><mo data-mjx-texclass="NONE">⁡</mo><mfrac><mi>V</mi><mn>2</mn></mfrac><mo>.</mo></math></p>
-<p>In the absence of trigonometric sine functions, however, no <em>calculation</em> was made with distance parameters <math display="inline">
-<mi>s</mi>
-</math>, but tabularized values from previous model calculations with given <math display="inline"><mi>d</mi><mo>=</mo><mn>120</mn></math> by means of the <em>Pythagorean theorem</em></p>
-<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><msup><mi>b</mi><mn>2</mn></msup><mo>=</mo><msup><mi>c</mi><mn>2</mn></msup></math></p>
-<p>were used and interpolated to the corresponding angle values of expansion:</p>
-<p>Figure 3.</p>
-<p><img src="anim01.gif" alt="figure.\label{anim}" /></p>
-<p>Chord parameters <math display="inline"><msub><mi>l</mi><mrow data-mjx-texclass="ORD"><mo stretchy="false">(</mo><mn>120</mn><mo stretchy="false">)</mo></mrow></msub></math> can then be adapted to empirical <math display="inline"><msub><mi>l</mi><mrow data-mjx-texclass="ORD"><mo stretchy="false">(</mo><mi>d</mi><mo stretchy="false">)</mo></mrow></msub></math> proportions by transforming the model parameter with</p>
-<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><msub><mi>l</mi><mrow data-mjx-texclass="ORD"><mo stretchy="false">(</mo><mi>d</mi><mo stretchy="false">)</mo></mrow></msub><mo>=</mo><msub><mi>l</mi><mrow data-mjx-texclass="ORD"><mo stretchy="false">(</mo><mn>120</mn><mo stretchy="false">)</mo></mrow></msub><mo>&middot;</mo><mfrac><mi>d</mi><mn>120</mn></mfrac><mo>.</mo></math></p>
-<p>Chord length values <math display="inline"><msub><mi>l</mi><mrow data-mjx-texclass="ORD"><mo stretchy="false">(</mo><mi>d</mi><mo stretchy="false">)</mo></mrow></msub></math> corresponding to <em>empirical</em> distances <math display="inline">
-<mi>s</mi>
-</math> can be expressed by multiplying with a ratio factor <math display="inline">
-<mi>&delta;</mi>
-</math> as <math display="inline"><msub><mi>l</mi><mrow data-mjx-texclass="ORD"><mo stretchy="false">(</mo><mi>e</mi><mo stretchy="false">)</mo></mrow></msub><mo>=</mo><msub><mi>l</mi><mrow data-mjx-texclass="ORD"><mo stretchy="false">(</mo><mi>d</mi><mo stretchy="false">)</mo></mrow></msub><mo>&middot;</mo><mi>&delta;</mi></math>
- to given angle <math display="inline">
-<mi>&alpha;</mi>
-</math>, where according to <em>Pythagoras</em></p>
-<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><mi>&delta;</mi><mo>=</mo><mi>s</mi><mo>&middot;</mo><mrow data-mjx-texclass="OPEN"><mo minsize="2.470em" maxsize="2.470em">(</mo></mrow><msup><mfrac><mi>D</mi><mn>2</mn></mfrac><mn>2</mn></msup><mo>&minus;</mo><msup><mfrac><mi>L</mi><mn>2</mn></mfrac><mn>2</mn></msup><msup><mrow data-mjx-texclass="CLOSE"><mo minsize="2.470em" maxsize="2.470em">)</mo></mrow><mrow data-mjx-texclass="ORD"><mo>&minus;</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup><mo>.</mo></math></p>
-<p>Differences <math display="inline">
-<mi>d</mi><mi>i</mi><mi>f</mi><mi>f</mi>
-</math> show the difference between (1) <em>sixtieth</em> and arithmetical interpolation as well as the difference between (2) the calculation types of chord lengths <math display="inline">
-<msub><mi>l</mi><mn>1</mn></msub>
-</math> and <math display="inline">
-<msub><mi>l</mi><mn>2</mn></msub>
-</math>, see <code>chords</code>, <code>chords_tab</code> or <code>chords.xlsx</code> tables.<br />
-Using this method along with methods for parallax determination, Ptolemy was able to determine e.g. Moon's <em>distance</em> and <em>radius</em> quite accurate:</p>
+<style></style>
+<h1 id="velhos-cosmographia-tables">Velho's Cosmographia tables</h1>
+<p>Bartholomeu Velho's <em>Cosmographia</em> illustration (<a href="http://catalogue.bnf.fr/ark:/12148/cb416166390">1568</a>, fol. 9v-10r, fol. 6r-7v, res.) depicting his geocentric model (c.f. Domosh et al., <a href="https://books.google.com/books?id=8n7vDwAAQBAJ">2020</a>, p. 28) with tables elaborated and recalculated as well as presented with corresponding images of <em>his</em>  Solar System:</p>
 <blockquote>
-<p>&quot;We have explained in the Almagest [...] that the least distance of the Moon is 33 earth radii, and its greatest distance 64 earth radii [...] &quot;, (Goldstein, <a href="https://doi.org/10.2307/1006040">1967</a>, p. 7).</p>
+<p>„ [...] the Bibliotheque Nationale succeeded in acquiring the manuscript in which the Portuguese Bartolomeu Velho summarised his cosmographic knowledge for the benefit of King Charles IX of France [...] This volume consists of 23 cosmographic tavoadas and figuras illustrated by representations of the terrestrial globe on different projections and allegorical figures of the Moon, Mercury, Venus, the Sun, Jupiter and Saturn  [...] the work, which Velho compiled at the request of Francisco d'Albagno, remained in the latter's possession and was not delivered to the king owing to the author's death [...] Soon after, it passed to Giovanni Andreozzi [...] who in 1576 offered it to the Grand Duke Francis of Tuscany [...]  it was discovered in the library of M. Ferreira das Neves [...] and studied in 1890 [...] The MS. reappeared in the library of Ch. Chadenat, whence it passed into the Bibliotheque Nationale on March 13, 1950 [...] “, (Foncin, <a href="http://www.jstor.org/stable/1150275">1960</a>, p. 43-44).</p>
 </blockquote>
-<br>
-<h3 id="references">References</h3>
-<p>Goldstein, B. R. (1967). The Arabic Version of Ptolemy’s Planetary Hypotheses. <em>Transactions of the American Philosophical Society, 57</em>(4), 3–55. <a href="https://doi.org/10.2307/1006040">DOI:10.2307/1006040</a></p>
-<p>Halma, N. (1813). <em>Composition mathématique de Claude Ptolémée.</em> Traduite pour la première fois du grec en français, sur les manuscrits originaux de la Bibliothèque Impériale de Paris, par M. Halma; et suivie des notes de M. Delambre, ... A Paris, chez Henri Grand, libraire, Rue Saint-André-des-Arcs, N° 51. (Mathematical composition of Claude Ptolemy. Translated for the first time from Greek into French, on the Original Manuscripts of the Imperial Library of Paris...)
-<a href="https://ia600202.us.archive.org/12/items/bub_gb_a9nvvbG-OOIC/bub_gb_a9nvvbG-OOIC.pdf">https://gallica.bnf.fr/ark: /12148/bpt6k62056165?rk=21459;2</a></p>
-<p>Heiberg, J. L. (1898). <em>Claudii Ptolemaei Opera quae exstant omnia. Syntaxis Mathematica. Vol. 1. 1.</em> Lipsae: In aedibus B. G. Teubneri. <a href="https://archive.org/details/pt1claudiiptolemaei01ptoluoft/page/n561/mode/2up">https://archive.org/details/pt1claudiiptolemaei01ptoluoft/page/n561/mode/2up</a></p>
-<p>Ptolemaeus, C. (1515). <em>Almagestum CL. Ptolemei Pheludiensis Alexandrini astronomorum principis: Opus ingens ac nobile omnes Caelorum motus continens.</em> Felicibus astris eat in lucem: Ductu Petri Liechtenstein Coloniensis Germani. Anno Virginei Partus, 1515, Die 10. Ia. Venetiis ex officina eiusdem litteraria. (Almagest of CL. Ptolemy Pheludiens, head of the Alexandrian astronomers: A great and noble work containing all the movements of the heavens...) <a href="https://doi.org/10.3931/e-rara-206">DOI:10.3931/e-rara-206</a></p>
-<p>Schrausser, D. G. (2023). <em>Schrausser/Ptolemy-s-table-of-chords: Calculator (v3.5.7)</em>. Zenodo. <a href="https://doi.org/10.5281/zenodo.7948117">DOI:10.5281/zenodo.7948117</a></p>
-<p>———. (2024). Ptolemy’s Table of Chords: Implications Considered and Discussed. <em>OSF Open Science Framework, 05/24</em>. <a href="https://doi.org/10.31219/osf.io/dv4nz">DOI:10.31219/osf.io/dv4nz</a></p>
-<p>Toomer, G. J. (1984). <em>Ptolemy's Almagest</em>. Duckworth, London &amp; Springer, New York. <a href="https://doi.org/10.2307/631776">DOI:10.2307/631776</a></p>
-<p>———. (1998). <em>Ptolemy’s Almagest. Revised.</em> Princeton, NJ: Princeton University Press. <a href="https://www.amazon.de/Ptolemys-Almagest-Ptolemy/dp/0691002606">https://www.amazon.de/Ptolemys-Almagest-Ptolemy/dp/0691002606</a></p>
+<p>See also Codazzi (<a href="http://www.jstor.org/stable/1150381">1964</a>), p. 78) and Cortesão (<a href="https://books.google.com/books?id=9TkNAAAAYAAJ">1965</a>, <a href="https://www.amazon.com/Hist%C3%B3ria-Brasil-Velhos-Mapas-portugiesisch/dp/9722717952">2009</a>, respectively).</p>
+<p>Table 1. Translation of the <em>headline</em> text.</p>
+<pre><code>portugues	FIGURA DOS CORPOS CELESTES			
+english		Picture of the celestial bodies.
+</code></pre>
+<p>Table 2. Display and translation of <em>sphere parameters</em> starting at the top right in a clockwise direction (c.f. Fig. 1).</p>
+<pre><code>Parameter		Text	
+
+1) Arc length BL	Legoas de hu grao : e cada hu globo celeste
+                	Arc length per degree in legues.	
+
+2) Circumference U	Legoas do mayor circulo de cada hu globo C'eleste.				
+          		Sphere circumference in legues.	
+
+3) Diameter D		Legoas do diametro de cada hu globo celeste.	
+         		Sphere diameter in legues.	
+
+4) Width b		Legoas da gro sura de cada hu globo cesleste.	
+                	Sphere width in legues.	
+	
+5) Distance d		Legoas ate o centro da terra ‐ de cada hu globo celeste.
+                	Distance from the center of the earth or sphere radius in legues.  
+</code></pre>
+<p>Figure 1. 		
+<img src="velho01.png" alt="figure.\label{velho01}" /></p>
+<p>Arc length <em>BL</em> (fol. 7v) per degree ∡° is calculated by</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><mi>B</mi><msub><mi>L</mi><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mo>	&#8737;</mo></mrow><mrow data-mjx-texclass="ORD"><mo data-mjx-pseudoscript="true">°</mo></mrow></mrow></msub><mo>=</mo><mfrac><mi>U</mi><mn>360</mn></mfrac><mo>,</mo></math></p>
+<p>where circumference <math display="inline"><mi>U</mi><mo>=</mo><msub><mo>&pi;</mo><mn>0</mn></msub><mo>&middot;</mo><mi>D</mi></math> and diameter 
+<math display="inline"><mi>D</mi><mo>=</mo><mn>2</mn><mo>&middot;</mo><mi>r</mi></math> (fol. 7r). The <em>corresponding</em> circular constant <math display="inline">
+<msub>
+<mo>&pi;</mo><mn>0</mn>
+</msub>
+</math> used by Velho can be derived from given <math display="inline">
+<msub>
+<mi>U</mi><mn>0</mn>
+</msub>
+</math> and <math display="inline">
+<msub>
+<mi>D</mi><mn>0</mn>
+</msub>
+</math> as</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><msub><mo>&pi;</mo><mn>0</mn></msub><mo>=</mo><mfrac><msub><mi>U</mi><mn>0</mn></msub><msub><mi>D</mi><mn>0</mn></msub></mfrac><mo>=</mo><mn>3.</mn><mover><mn>142857</mn><mo accent="true">__________</mo></mover></math></p>
+<p>or <math display="inline"><msub><mo>&pi;</mo><mn>0</mn></msub><mo>=</mo><mfrac><mn>22</mn><mn>7</mn></mfrac></math>, respectively. Width <math display="inline">
+<mi>b</mi>
+</math> (fol. 6v) at given <math display="inline">
+<mi>n</mi>
+</math> is calculated by</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><msub><mi>b</mi><mi>n</mi></msub><mo>=</mo><msub><mi>r</mi><mi>n</mi></msub><mo>&minus;</mo><msub><mi>r</mi><mrow data-mjx-texclass="ORD"><mo stretchy="false">(</mo><mi>n</mi><mo>&minus;</mo><mn>1</mn><mo stretchy="false">)</mo></mrow></msub><mo>,</mo></math></p>
+<p>where radius <math display="inline">
+<mi>r</mi>
+</math> (fol. 6r) equals distance <math display="inline">
+<mi>d</mi>
+</math>.</p>
+<p>Table 3. Translation of the <em>rotation</em> descriptions.</p>
+<pre><code>Texto em portogues		english
+
+R. DA LVA			Orbital period of the Moon
+EN 27 DIAS E 8 ORAS		in 27 days and 8 hours.
+
+R. DE MERCVRIO			Orbital period of Mercury
+EN 70 DIAS E 7 ORAS		in 70 days and 7 hours.
+
+REVOLVCAO DE VENUS		Orbital period of Venus
+EN 273 DIAS E 23 ORAS		in 273 days and 23 hours.
+
+REVOLVCAC DO SOL		Orbital period of the Sun
+EN 365 DIAS E SEIS ORAS		in 365 days and six hours.
+
+REVOLVCAO DE MARS		Orbital period of Mars
+EN DOVS ANNOS			in two years.
+
+REVOLVCAO DO CEO D IVPITER	Orbital period of the Jupiter sky
+EN DOZE ANNOS			in twelve years.
+
+REVOLVCAO DO CEO D SATVRNO	Orbital period of the Saturn sky
+EN TRINTA ANNOS			in thirty years.
+
+REVOLVCAO DO CEO DAS ES TRELAS	Orbital period of the starry sky
+EN 36000 ANOS			in 36000 years.
+
+REVOLVCAO DO PRIMO		Orbital period of the first
+MOBILE EM 24 ORAS		mobile in 24 hours.
+
+CELVM EMPIREVM HABITACVLVM	Heaven of the home of
+DEI ET OMNIVM ELECTORUM		God and all chosen ones.
+</code></pre>
+<p>Table 4. Radius <em>r</em>, distances <em>d</em>, res., given in <em>Legoas</em> <math display="inline">
+<mi>L</mi>
+</math> converted into kilometers <em>km</em>, with <em>Légua terrestre</em><a href="#1" name="1-return"><sup>1</sup></a> <math display="inline"><msub><mi>L</mi><mi>t</mi></msub><mo>=</mo><mn>6.600</mn><mi>k</mi><mi>m</mi></math> and <em>Légua antiga</em> <math display="inline"><msub><mi>L</mi><mi>a</mi></msub><mo>=</mo><mn>6.197</mn><mi>k</mi><mi>m</mi></math> (c.f. Costa, <a href="http://historia_demografica.tripod.com/bhds/bhd1.htm#pesos">1994</a>).
+</p>
+<pre><code>                km		
+        	L(t)             L(a)
+	
+Terra	 	6 615,00         6 211,08 	
+Ar	 	66 151,80 	 62 112,53 	 
+Fogo		180 076,05 	 169 080,50 	 
+Luna		344 092,65 	 323 082,14 	 
+Mercurio	895 537,50 	 840 855,44 	 
+Venus		4 974 750,00 	 4 670 988,75 	 
+Sol	 	6 627 225,00 	 6 222 562,63 	 
+Mars	 	34 430 550,00 	 32 328 199,75 	 
+Jupiter	 	65 894 812,50 	 61 871 235,31 	 
+Saturno	 	104 737 875,00 	 98 342 516,88 	 
+Firmamento	212 577 750,00 	 199 597 623,75  
+</code></pre>
+<p>Velho's universe up to the <em>firmament</em> therefore has a size that roughly extends to the <em>orbit of Mars</em>, with semimajor axis <math display="inline"><mi>d</mi><mo>=</mo><mn>227956000</mn><mi>k</mi><mi>m</mi></math> (c.f. Williams, <a href="https://nssdc.gsfc.nasa.gov/planetary/factsheet/marsfact.html">2024</a>).
+For the corresponding <em>distances</em> or <em>sizes</em> of the spheres c.f. Fig. 2.<br />
+At this point it also becomes clear that, given the distances shown, it hardly makes any difference in the <em>overall</em> picture whether you place the Earth or the Sun in the center (see <code>velho_tab01</code>, <code>velho_tab02</code>, <code>velho_tab03</code> and <code>velho_tab04</code> tables).</p>
+<p>Figure 2.
+<img src="velho02.png" alt="figure.\label{velho02}" /></p>
+<p>In this context see <em>Anaxagoras</em> and his concepts of the <em>primum mobile</em> and <em>nous</em> (c.f. Ferchius, <a href="https://doi.org/10.3931/e-rara-73987">1646</a>), <em>Pythagoras‘</em> doctrine of <em>musica universalis</em> (c.f. Davis et al., <a href="https://archive.org/details/republicstatesma00plat_0/">1901</a>) and <em>Plato’s</em> fifth <em>etheric</em> element, the <em>quintessence</em> (see e.g. Böckh, <a href="https://doi.org/10.3931/e-rara-90691">1852</a>):</p>
+<blockquote>
+<p>„As the eyes, said I, seem formed for studying astronomy, so do the ears seem formed for harmonious motions: and these seem to be twin sciences to one another, as also the Pythagoreans say.&quot;, (Davis et al., <a href="https://archive.org/details/republicstatesma00plat_0/">1901</a>, p. 252).</p>
+</blockquote>
+<p>For further readings see e.g. Campbell (<a href="http://www.jstor.org/stable/1150712">1978</a>, p. 105), Furtado (<a href="https://doi.org/10.1093/acrefore/9780199366439.013.773">2022</a>), Krtalić and McIntosh (<a href="https://doi.org/10.1017/S0373463322000662">2022</a>) or Meirinhos (<a href="https://books.google.com/books?id=EAEezwEACAAJ">2022</a>).</p>
+<a href="#1" name="1-return"><sup>1</sup></a>:Land league in the colonial period of Brazil.
+<br><br>
+<h2 id="references">References</h2>
+<p>Böckh, A. (1852). <em>Untersuchungen Über Das Kosmische System Des Platon: Mit Bezug Auf Hrn. Gruppe’s Kosmische Systeme Der Griechen ; Sendschreiben an Alexander von Humboldt</em>. Berlin: Verlag von Veit &amp; Comp. <a href="https://doi.org/10.3931/e-rara-90691">https://doi.org/10.3931/e-rara-90691</a></p>
+<p>Campbell, T. (1978). Chronicle. <em>Imago Mundi, 30</em>, 103–8. <a href="http://www.jstor.org/stable/1150712">http://www.jstor.org/stable/1150712</a></p>
+<p>Codazzi, A. (1964). The Contribution of Roberto Almagià to the History of Cartography. <em>Imago Mundi, 18</em>, 78–80. <a href="http://www.jstor.org/stable/1150381">http://www.jstor.org/stable/1150381</a></p>
+<p>Cortesão, J. (1965). <em>História do Brasil nos Velhos Mapas</em>. Vol. 2. História Do Brasil Nos Velhos Mapas. Brasilia: Ministor̄io das Relações Exteriores, Instituto Rio Branco. <a href="https://books.google.com/books?id=9TkNAAAAYAAJ">https://books.google.com/books?id=9TkNAAAAYAAJ</a></p>
+<p>———. (2009). <em>História Do Brasil Nos Velhos Mapas - Obras Completas IX</em>. Portuguese. Vol. 1. Lisbon: INCM – Imprensa Nacional Casa da Moeda. <a href="https://www.amazon.com/Hist%C3%B3ria-Brasil-Velhos-Mapas-portugiesisch/dp/9722717952">https://www.amazon.com/Hist%C3%B3ria-Brasil-Velhos-Mapas-portugiesisch/dp/9722717952</a></p>
+<p>Costa, I. (1994). Pesos e medidas no período colonial brasileiro: denominações e relações. <em>Boletim de História Demográfica, 1</em>(1). <a href="http://historia_demografica.tripod.com/bhds/bhd1.htm#pesos">http://historia_demografica.tripod.com/bhds/bhd1.htm#pesos</a></p>
+<p>Davis, H., Burges, G., &amp; Rooker, G. Z. (1901). <em>The Republic: The Statesman of Plato</em>. London &amp; New York: M. Walter Dunne. <a href="https://archive.org/details/republicstatesma00plat_0/">https://archive.org/details/republicstatesma00plat_0/</a></p>
+<p>Domosh, M., Heffernan, M., &amp; Withers, C.W.J. (2020). <em>The SAGE Handbook of Historical Geography</em>. Thousand Oaks, California: SAGE Publications. <a href="https://books.google.com/books?id=8n7vDwAAQBAJ">https://books.google.com/books?id=8n7vDwAAQBAJ</a></p>
+<p>Ferchius, M. (1646). <em>De Caelesti Svbstantia: Et Eius Ortu, Ac Motu in Sententia Anaxagorae Philosophi Celeberrimi</em>. Venetiis: apud Haeredes Ioannis Salis. <a href="https://doi.org/10.3931/e-rara-73987">https://doi.org/10.3931/e-rara-73987</a></p>
+<p>Foncin, M. (1960). Some Manuscript Maps Recently Acquired by the Département Des Cartes Et Plans of the Bibliothèque Nationale, Paris. <em>Imago Mundi, 15</em>, 40–5. <a href="http://www.jstor.org/stable/1150275">http://www.jstor.org/stable/1150275</a></p>
+<p>Furtado, J. F. (2022). Cartography in the Administration of Portuguese America from the 16th to 18th Centuries. In <em>The Oxford Encyclopedia of Brazilian History and Culture</em>, edited by Palacios, G. Oxford: University Press. <a href="https://doi.org/10.1093/acrefore/9780199366439.013.773">https://doi.org/10.1093/acrefore/9780199366439.013.773</a></p>
+<p>Krtalić, Š., &amp; McIntosh, G. C. (2022). Two Sixteenth-Century Nautical Charts of the South Atlantic Ocean: An Early Example of Cartography Used at Sea. <em>Journal of Navigation, 75</em>(6), 1280–97. <a href="https://doi.org/10.1017/S0373463322000662">https://doi.org/10.1017/S0373463322000662</a></p>
+<p>Meirinhos, J. F. (2022). Celestial Bodies and Dimension of the Universe in Bartolomeu Velho’s Cosmographia. In <em>From Wisdom to Data: Philosophical Atlas on Visual Representations of Knowledge</em>, edited by Higuera, J. G., Romele, A., Rodighiero, D., &amp; Pedro, C. Coleção Transversal. Porto: University of Porto Press. <a href="https://books.google.com/books?id=EAEezwEACAAJ">https://books.google.com/books?id=EAEezwEACAAJ</a></p>
+<p>Velho, B. (1568). <em>Principio da verdadeira cosmographia ... per Bartholomeu Velho portugues/neste anno de 1568</em>. Paris: Bibliothèque nationale de France. <a href="http://catalogue.bnf.fr/ark:/12148/cb416166390">http://catalogue.bnf.fr/ark:/12148/cb416166390</a></p>
+<p>Williams, D. R. (2024). <em>Mars Fact Sheet</em>. NASA Goddard Space Flight Center. <a href="https://nssdc.gsfc.nasa.gov/planetary/factsheet/marsfact.html">https://nssdc.gsfc.nasa.gov/planetary/factsheet/marsfact.html</a></p>
 
 <hr WIDTH="75%">
 <blockquote ALIGN="CENTER">
 <center>
-<a href="https://github.com/Schrausser/Ptolemy-s-table-of-chords">
-Ptolemy-s-table-of-chords
+<a href="https://github.com/Schrausser/Velho-s-Cosmographia-tables">
+Velho-s-Cosmographia-tables
 </a>
 <br><font color="#999999"><font size=-1>
 <a
 href="https://orcid.org/0000-0002-4924-8280">
 Dietmar Gerald Schrausser
 </a>
-<p>16.07.2025</p>
+<p>03.07.2025</p>
 </font></font>
 </center>
 </blockquote>	

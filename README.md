@@ -1,68 +1,146 @@
-# Ptolemy's table of chords
-[Demo movie](https://m.youtube.com/watch?v=xUpBBr5btvk)
+# Velho's Cosmographia tables
 
-`CHORD` application for Android (Schrausser, [2023](https://doi.org/10.5281/zenodo.7948117)): Famous table of chord lengths according to Ptolemy's *Almagest* ([1515](https://doi.org/10.3931/e-rara-206), fol. 7r ff.) converted into decimal values and calculated in comparison using the sine function, see Halma ([1813](https://ia600202.us.archive.org/12/items/bub_gb_a9nvvbG-OOIC/bub_gb_a9nvvbG-OOIC.pdf), p. 38 ff.),  Heiberg ([1898](https://archive.org/details/pt1claudiiptolemaei01ptoluoft/page/n561/mode/2up), p. 48 ff.) or Toomer ([1984](https://doi.org/10.2307/631776), p. 57 ff., [1998](https://www.amazon.de/Ptolemys-Almagest-Ptolemy/dp/0691002606), res.), c.f. `chords_time` tables, Schrausser ([2024](https://doi.org/10.31219/osf.io/dv4nz)), respectively.  
-Chord lengths $l_0$ are *derived* according to *Ptolemy's theorem* (Fig. 1) within the relation between four sides and two diagonals of a cyclic quadrilateral where
+Bartholomeu Velho's *Cosmographia* illustration ([1568](http://catalogue.bnf.fr/ark:/12148/cb416166390), fol. 9v-10r, fol. 6r-7v, res.) depicting his geocentric model (c.f. Domosh et al., [2020](https://books.google.com/books?id=8n7vDwAAQBAJ), p. 28) with tables elaborated and recalculated as well as presented with corresponding images of *his*  Solar System:
 
-$$AC\cdot BD = AB\cdot CD + BC\cdot AD.$$
+>„ [...] the Bibliotheque Nationale succeeded in acquiring the manuscript in which the Portuguese Bartolomeu Velho summarised his cosmographic knowledge for the benefit of King Charles IX of France [...] This volume consists of 23 cosmographic tavoadas and figuras illustrated by representations of the terrestrial globe on different projections and allegorical figures of the Moon, Mercury, Venus, the Sun, Jupiter and Saturn  [...] the work, which Velho compiled at the request of Francisco d'Albagno, remained in the latter's possession and was not delivered to the king owing to the author's death [...] Soon after, it passed to Giovanni Andreozzi [...] who in 1576 offered it to the Grand Duke Francis of Tuscany [...]  it was discovered in the library of M. Ferreira das Neves [...] and studied in 1890 [...] The MS. reappeared in the library of Ch. Chadenat, whence it passed into the Bibliotheque Nationale on March 13, 1950 [...] “, (Foncin, [1960](http://www.jstor.org/stable/1150275), p. 43-44).
 
-Figure 1.
-![figure.\label{Figure1: Cyclic quadrilateral.}](pic1.jpg)
+See also Codazzi ([1964](http://www.jstor.org/stable/1150381)), p. 78) and Cortesão ([1965](https://books.google.com/books?id=9TkNAAAAYAAJ), [2009](https://www.amazon.com/Hist%C3%B3ria-Brasil-Velhos-Mapas-portugiesisch/dp/9722717952), respectively).
 
-Chord lengths $l_0$ (Fig. 2) are expressed in fractional parts of sexagesimal numerals $x$ $y$ $z$. Decimal values $l_1$ are calculated by
+Table 1. Translation of the *headline* text.		
+~~~
+portugues	FIGURA DOS CORPOS CELESTES			
+english		Picture of the celestial bodies.
+~~~
 
-$$l_1=x+\frac{y}{60}+\frac{z}{60^2}.$$
+Table 2. Display and translation of *sphere parameters* starting at the top right in a clockwise direction (c.f. Fig. 1).		
+~~~
+Parameter		Text	
+
+1) Arc length BL	Legoas de hu grao : e cada hu globo celeste
+                	Arc length per degree in legues.	
+
+2) Circumference U	Legoas do mayor circulo de cada hu globo C'eleste.				
+          		Sphere circumference in legues.	
+
+3) Diameter D		Legoas do diametro de cada hu globo celeste.	
+         		Sphere diameter in legues.	
+
+4) Width b		Legoas da gro sura de cada hu globo cesleste.	
+                	Sphere width in legues.	
+	
+5) Distance d		Legoas ate o centro da terra ‐ de cada hu globo celeste.
+                	Distance from the center of the earth or sphere radius in legues.  
+~~~
+Figure 1. 		
+![figure.\label{velho01}](velho01.png)
+
+Arc length *BL* (fol. 7v) per degree $∡°$ is calculated by
+
+$$BL_{∡°}=\frac{U}{360},$$
+
+where circumference $U=\pi_0⋅D$ and diameter $D=2⋅r$ (fol. 7r). The *corresponding* circular constant $\pi_0$ used by Velho can be derived from given $U_0$ and $D_0$ as
+
+$$\pi_0=\frac{U_0}{D_0}= 3.\overline{142857}$$
+
+or $\pi_0=\frac{22}{7}$, respectively. Width $b$ (fol. 6v) at given $n$ is calculated by
+
+$$b_n=r_n-r_{(n-1)},$$
+
+where radius $r$ (fol. 6r) equals distance $d$.
+
+Table 3. Translation of the *rotation* descriptions.		
+~~~
+Texto em portogues		english
+
+R. DA LVA			Orbital period of the Moon
+EN 27 DIAS E 8 ORAS		in 27 days and 8 hours.
+
+R. DE MERCVRIO			Orbital period of Mercury
+EN 70 DIAS E 7 ORAS		in 70 days and 7 hours.
+
+REVOLVCAO DE VENUS		Orbital period of Venus
+EN 273 DIAS E 23 ORAS		in 273 days and 23 hours.
+
+REVOLVCAC DO SOL		Orbital period of the Sun
+EN 365 DIAS E SEIS ORAS		in 365 days and six hours.
+
+REVOLVCAO DE MARS		Orbital period of Mars
+EN DOVS ANNOS			in two years.
+
+REVOLVCAO DO CEO D IVPITER	Orbital period of the Jupiter sky
+EN DOZE ANNOS			in twelve years.
+
+REVOLVCAO DO CEO D SATVRNO	Orbital period of the Saturn sky
+EN TRINTA ANNOS			in thirty years.
+
+REVOLVCAO DO CEO DAS ES TRELAS	Orbital period of the starry sky
+EN 36000 ANOS			in 36000 years.
+
+REVOLVCAO DO PRIMO		Orbital period of the first
+MOBILE EM 24 ORAS		mobile in 24 hours.
+
+CELVM EMPIREVM HABITACVLVM	Heaven of the home of
+DEI ET OMNIVM ELECTORUM		God and all chosen ones.
+~~~
+Table 4. Radius *r*, distances *d*, res., given in *Legoas* $L$ converted into kilometers *km*, with *Légua terrestre*[^1] $L_t=6.600km$ and *Légua antiga* $L_a=6.197km$ (c.f. Costa, [1994](http://historia_demografica.tripod.com/bhds/bhd1.htm#pesos)).
+[^1]:Land league in the colonial period of Brazil.
+~~~
+                km		
+        	L(t)             L(a)
+	
+Terra	 	6 615,00         6 211,08 	
+Ar	 	66 151,80 	 62 112,53 	 
+Fogo		180 076,05 	 169 080,50 	 
+Luna		344 092,65 	 323 082,14 	 
+Mercurio	895 537,50 	 840 855,44 	 
+Venus		4 974 750,00 	 4 670 988,75 	 
+Sol	 	6 627 225,00 	 6 222 562,63 	 
+Mars	 	34 430 550,00 	 32 328 199,75 	 
+Jupiter	 	65 894 812,50 	 61 871 235,31 	 
+Saturno	 	104 737 875,00 	 98 342 516,88 	 
+Firmamento	212 577 750,00 	 199 597 623,75  
+~~~
+Velho's universe up to the *firmament* therefore has a size that roughly extends to the *orbit of Mars*, with semimajor axis $d=227956000km$ (c.f. Williams, [2024](https://nssdc.gsfc.nasa.gov/planetary/factsheet/marsfact.html)).
+For the corresponding *distances* or *sizes* of the spheres c.f. Fig. 2.  
+At this point it also becomes clear that, given the distances shown, it hardly makes any difference in the *overall* picture whether you place the Earth or the Sun in the center (see `velho_tab01`, `velho_tab02`, `velho_tab03` and `velho_tab04` tables).  
 
 Figure 2.
-![figure.\label{Figure2: Chord length representation.}](pic2.jpg)
+![figure.\label{velho02}](velho02.png)
 
-*Sixtieth* is the average interpolation number to be added to length $l_0$ or $l_1$ each time angle increases by one minute of arc, that is $n=30$ times per half angle degree $\alpha$.  
-Lengths $l_2$ to given arcus $\alpha$ and diameter $d$ are calculated using the sine function, where
+In this context see *Anaxagoras* and his concepts of the *primum mobile* and *nous* (c.f. Ferchius, [1646](https://doi.org/10.3931/e-rara-73987)), *Pythagoras‘* doctrine of *musica universalis* (c.f. Davis et al., [1901](https://archive.org/details/republicstatesma00plat_0/)) and *Plato’s* fifth *etheric* element, the *quintessence* (see e.g. Böckh, [1852](https://doi.org/10.3931/e-rara-90691)):
 
-$$l_2=d\cdot\sin\frac{\alpha\cdot\pi}{360}.$$
+>„As the eyes, said I, seem formed for studying astronomy, so do the ears seem formed for harmonious motions: and these seem to be twin sciences to one another, as also the Pythagoreans say.", (Davis et al., [1901](https://archive.org/details/republicstatesma00plat_0/), p. 252).
+>
+For further readings see e.g. Campbell ([1978](http://www.jstor.org/stable/1150712), p. 105), Furtado ([2022](https://doi.org/10.1093/acrefore/9780199366439.013.773)), Krtalić and McIntosh ([2022](https://doi.org/10.1017/S0373463322000662)) or Meirinhos ([2022](https://books.google.com/books?id=EAEezwEACAAJ)).
 
-This is equivalent in terms of content to distance $s$ or radius $r$ determination via angular diameter $V$ with 
+## References
 
-$$r=s\cdot\tan\frac{V}{2}.$$
+Böckh, A. (1852). *Untersuchungen Über Das Kosmische System Des Platon: Mit Bezug Auf Hrn. Gruppe’s Kosmische Systeme Der Griechen ; Sendschreiben an Alexander von Humboldt*. Berlin: Verlag von Veit & Comp. [https://doi.org/10.3931/e-rara-90691](https://doi.org/10.3931/e-rara-90691)
 
-In the absence of trigonometric sine functions, however, no *calculation* was made with distance parameters $s$, but tabularized values from previous model calculations with given $d=120$ by means of the *Pythagorean theorem*
+Campbell, T. (1978). Chronicle. *Imago Mundi, 30*, 103–8. [http://www.jstor.org/stable/1150712](http://www.jstor.org/stable/1150712)
 
-$$a^2+b^2=c^2$$
+Codazzi, A. (1964). The Contribution of Roberto Almagià to the History of Cartography. *Imago Mundi, 18*, 78–80. [http://www.jstor.org/stable/1150381](http://www.jstor.org/stable/1150381)
 
-were used and interpolated to the corresponding angle values of expansion:  
+Cortesão, J. (1965). *História do Brasil nos Velhos Mapas*. Vol. 2. História Do Brasil Nos Velhos Mapas. Brasilia: Ministor̄io das Relações Exteriores, Instituto Rio Branco. [https://books.google.com/books?id=9TkNAAAAYAAJ](https://books.google.com/books?id=9TkNAAAAYAAJ)
 
-Figure 3.
+———. (2009). *História Do Brasil Nos Velhos Mapas - Obras Completas IX*. Portuguese. Vol. 1. Lisbon: INCM – Imprensa Nacional Casa da Moeda. [https://www.amazon.com/Hist%C3%B3ria-Brasil-Velhos-Mapas-portugiesisch/dp/9722717952](https://www.amazon.com/Hist%C3%B3ria-Brasil-Velhos-Mapas-portugiesisch/dp/9722717952)
 
-![figure.\label{anim}](anim01.gif)
+Costa, I. (1994). Pesos e medidas no período colonial brasileiro: denominações e relações. *Boletim de História Demográfica, 1*(1). [http://historia_demografica.tripod.com/bhds/bhd1.htm#pesos](http://historia_demografica.tripod.com/bhds/bhd1.htm#pesos)
 
+Davis, H., Burges, G., & Rooker, G. Z. (1901). *The Republic: The Statesman of Plato*. London & New York: M. Walter Dunne. [https://archive.org/details/republicstatesma00plat_0/](https://archive.org/details/republicstatesma00plat_0/)
 
-Chord parameters $l_{(120)}$ can then be adapted to empirical $l_{(d)}$ proportions by transforming the model parameter with
+Domosh, M., Heffernan, M., & Withers, C.W.J. (2020). *The SAGE Handbook of Historical Geography*. Thousand Oaks, California: SAGE Publications. [https://books.google.com/books?id=8n7vDwAAQBAJ](https://books.google.com/books?id=8n7vDwAAQBAJ)
 
-$$l_{(d)} = l_{(120)}\cdot\frac{d}{120}.$$
+Ferchius, M. (1646). *De Caelesti Svbstantia: Et Eius Ortu, Ac Motu in Sententia Anaxagorae Philosophi Celeberrimi*. Venetiis: apud Haeredes Ioannis Salis. [https://doi.org/10.3931/e-rara-73987](https://doi.org/10.3931/e-rara-73987)
 
-Chord length values $l_{(d)}$ corresponding to *empirical* distances $s$ can be expressed by multiplying with a ratio factor $\delta$ as $l_{(e)}=l_{(d)}\cdot\delta$ to given angle $\alpha$, where according to *Pythagoras* 
+Foncin, M. (1960). Some Manuscript Maps Recently Acquired by the Département Des Cartes Et Plans of the Bibliothèque Nationale, Paris. *Imago Mundi, 15*, 40–5. [http://www.jstor.org/stable/1150275](http://www.jstor.org/stable/1150275)
 
-$$\delta=s\cdot\Biggl(\frac{D}{2}^2-\frac{L}{2}^2\Biggr)^{-\frac{1}{2}}.$$
+Furtado, J. F. (2022). Cartography in the Administration of Portuguese America from the 16th to 18th Centuries. In *The Oxford Encyclopedia of Brazilian History and Culture*, edited by Palacios, G. Oxford: University Press. [https://doi.org/10.1093/acrefore/9780199366439.013.773](https://doi.org/10.1093/acrefore/9780199366439.013.773)
 
-Differences $diff$ show the difference between (1) *sixtieth* and arithmetical interpolation as well as the difference between (2) the calculation types of chord lengths $l_1$ and $l_2$, see `chords`, `chords_tab` or `chords.xlsx` tables.  
-Using this method along with methods for parallax determination, Ptolemy was able to determine e.g. Moon's *distance* and *radius* quite accurate:
->"We have explained in the Almagest [...] that the least distance of the Moon is 33 earth radii, and its greatest distance 64 earth radii [...] ", (Goldstein, [1967](https://doi.org/10.2307/1006040), p. 7).
+Krtalić, Š., & McIntosh, G. C. (2022). Two Sixteenth-Century Nautical Charts of the South Atlantic Ocean: An Early Example of Cartography Used at Sea. *Journal of Navigation, 75*(6),1280–97. [https://doi.org/10.1017/S0373463322000662](https://doi.org/10.1017/S0373463322000662)
 
-### References
+Meirinhos, J. F. (2022). Celestial Bodies and Dimension of the Universe in Bartolomeu Velho’s Cosmographia. In *From Wisdom to Data: Philosophical Atlas on Visual Representations of Knowledge*, edited by Higuera, J. G., Romele, A., Rodighiero, D., & Pedro, C. Coleção Transversal. Porto: University of Porto Press. [https://books.google.com/books?id=EAEezwEACAAJ](https://books.google.com/books?id=EAEezwEACAAJ)
 
-Goldstein, B. R. (1967). The Arabic Version of Ptolemy’s Planetary Hypotheses. *Transactions of the American Philosophical Society, 57*(4), 3–55. [DOI:10.2307/1006040](https://doi.org/10.2307/1006040)
+Velho, B. (1568). *Principio da verdadeira cosmographia ... per Bartholomeu Velho portugues/neste anno de 1568*. Paris: Bibliothèque nationale de France. [http://catalogue.bnf.fr/ark:/12148/cb416166390](http://catalogue.bnf.fr/ark:/12148/cb416166390)
 
-Halma, N. (1813). *Composition mathématique de Claude Ptolémée.* Traduite pour la première fois du grec en français, sur les manuscrits originaux de la Bibliothèque Impériale de Paris, par M. Halma; et suivie des notes de M. Delambre, ... A Paris, chez Henri Grand, libraire, Rue Saint-André-des-Arcs, N° 51. (Mathematical composition of Claude Ptolemy. Translated for the first time from Greek into French, on the Original Manuscripts of the Imperial Library of Paris...) [https://gallica.bnf.fr/ark: /12148/bpt6k62056165?rk=21459;2](https://ia600202.us.archive.org/12/items/bub_gb_a9nvvbG-OOIC/bub_gb_a9nvvbG-OOIC.pdf)
-
-Heiberg, J. L. (1898). *Claudii Ptolemaei Opera quae exstant omnia. Syntaxis Mathematica*. Vol. 1. 1. Lipsae: In aedibus B. G. Teubneri. [https://archive.org/details/pt1claudiiptolemaei01ptoluoft/page/n561/mode/2up](https://archive.org/details/pt1claudiiptolemaei01ptoluoft/page/n561/mode/2up)
-
-Ptolemaeus, C. (1515). *Almagestum CL. Ptolemei Pheludiensis Alexandrini astronomorum principis: Opus ingens ac nobile omnes Caelorum motus continens.* Felicibus astris eat in lucem: Ductu Petri Liechtenstein Coloniensis Germani. Anno Virginei Partus, 1515, Die 10. Ia. Venetiis ex officina eiusdem litteraria. (Almagest of CL. Ptolemy Pheludiens, head of the Alexandrian astronomers: A great and noble work containing all the movements of the heavens...)
- [DOI:10.3931/e-rara-206](https://doi.org/10.3931/e-rara-206)
-
-Schrausser, D. G. (2023). *Schrausser/Ptolemy-s-table-of-chords: Calculator (v3.5.7)*. Zenodo. [DOI:10.5281/zenodo.7948117](https://doi.org/10.5281/zenodo.7948117)
-
-———. (2024). Ptolemy’s Table of Chords: Implications Considered and Discussed. *OSF Open Science Framework, 05/24*. [DOI:10.31219/osf.io/dv4nz](https://doi.org/10.31219/osf.io/dv4nz)
-
-Toomer, G. J. (1984). *Ptolemy's Almagest*. Duckworth, London & Springer, New York. [DOI:10.2307/631776](https://doi.org/10.2307/631776)
-
-———. (1998). *Ptolemy’s Almagest. Revised.* Princeton, NJ: Princeton University Press. [https://www.amazon.de/Ptolemys-Almagest-Ptolemy/dp/0691002606](https://www.amazon.de/Ptolemys-Almagest-Ptolemy/dp/0691002606)
+Williams, D. R. (2024). *Mars Fact Sheet*. NASA Goddard Space Flight Center. [https://nssdc.gsfc.nasa.gov/planetary/factsheet/marsfact.html](https://nssdc.gsfc.nasa.gov/planetary/factsheet/marsfact.html)
