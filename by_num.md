@@ -1,3 +1,5 @@
+# by_num.md
+
 Greek (Byzantine) numerals, Greek letter $gl$ with corresponding number $n$.
 ~~~
 gl   n
