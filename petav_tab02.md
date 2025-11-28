@@ -8,8 +8,8 @@
 Millenium		In anno		nat		S1000	end			S		diff	AD
 
 I				Iared		40		1000	1040		1122	-82		-4460
-
 II				Noë			308		2000	2308		2142	166		-3192
+
 III				Ragau		99		3000	3099						-2401
 IV				Aoth		23		4000	4023		4027	-4		-1477
 V				Cyri Persæ	31		5000	5031		5001	30		-469
@@ -27,8 +27,8 @@ Period		In anno					nat		S532	nat+S532	S		diff	AD
 I			Enos					97		532		629			625		4		-4871
 II			Iared					130		1064	1194		1122	72		-4306
 III			Lamech					142		1596	1738		1642	96		-3762
-
 IV			Noë						486		2128	2614		2142	472		-2886
+
 V			Heber					23		2660	2683						-2817
 VI			Nachor					29		3192	3221						-2279
 VII			Aram					58		3724	3782						-1718
