@@ -52,7 +52,6 @@ II		I		162		1122	-4378	Iared
 				165		1287	-4213	Enoch
 				167		1454	-4046	Mathusala
 III				188		1642	-3858	Lamech
-
 		II		500		2142	-3358	Noë
 				:		:		:		:
 				7		4232	-1268	Essebon
