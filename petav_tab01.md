@@ -4,80 +4,80 @@
 
 >For each scruple is 1200 stades, more correctly 4200.				
 
-Table 1. Arc length $L_a$ from scrupula $sc$ to stades $st$, with $st=sc⋅1200$, from stades to $km$, where $km=st⋅0.1575$ (*itinerary* stades, c.f. Engels, [1985](http://www.jstor.org/stable/295030), p. 304), circumference $C$, with $C=sum⋅2$ and radius $R$, with $R=\frac{C}{2\pi}$.
+**Table 1**. Arc length $L_a$ from scrupula $sc$ to stades $st$, with $st=sc⋅1200$, from stades to $km$, where $km=st⋅0.1575$ (*itinerary* stades, c.f. Engels, [1985](http://www.jstor.org/stable/295030), p. 304), circumference $C$, with $C=sum⋅2$ and radius $R$, with $R=\frac{C}{2\pi}$.
 ~~~
-				La	
-Zone				sc	st		km	cum km
+							La	
+Zone						sc		st			km		cum km
 
-Borealis	Saturn		6,6	7920		1247,4	1247,4
-Æstius		Jupiter		5	6000		945,0	2192,4
-Æquinoctialis	Mars		8	9600		1512,0	3704,4
-Hiemalis	Venus		5	6000		945,0	4649,4
-Australis	Mercury		5	6000		945,0	5594,4
-Colliguntur			30	36000		5670,0	
+Borealis		Saturn		6,6		7920		1247,4	1247,4
+Æstius			Jupiter		5		6000		945,0	2192,4
+Æquinoctialis	Mars		8		9600		1512,0	3704,4
+Hiemalis		Venus		5		6000		945,0	4649,4
+Australis		Mercury		5		6000		945,0	5594,4
+Colliguntur					30		36000		5670,0	
 
-sum				29,6	35520,0		5594,4	
-Circumference C			59,2	71040,0		11188,8	
-Radius R			9,4	11306,4		1780,8	
-~~~
-
-
-Table 2. Arc length $L_a$ from scrupula $sc$ to stades $st'$, with $st'=sc⋅4200$ (as noted by Petavius), from stades to $km$, where $km=st'⋅0.1575$ (*itinerary* stades, c.f. Engels, [1985](http://www.jstor.org/stable/295030), p. 304), circumference $C$, with $C=sum⋅2$ and radius $R$, with $R=\frac{C}{2\pi}$.
-~~~
-				La	
-Zone				sc	st'		km	cum km
-
-Borealis	Saturn		6,6	27720		4365,9	4365,9
-Æstivs		Jupiter		5	21000		3307,5	7673,4
-Æquinoctialis	Mars		8	33600		5292,0	12965,4
-Hiemalis	Venus		5	21000		3307,5	16272,9
-Australis	Mercury		5	21000		3307,5	19580,4
-Colliguntur			30	126000		19845,0	
-
-sum				29,6	124320,0	19580,4	
-Circumference C			59,2	248640,0	39160,8	
-Radius R			9,4	39572,3		6232,6
+sum							29,6	35520,0		5594,4	
+Circumference C				59,2	71040,0		11188,8	
+Radius R					9,4		11306,4		1780,8	
 ~~~
 
-Table 3. Arc length $L_a$ from stades $st$ to $km$, where $km=st⋅0.1575$ (*itinerary* stades, c.f. Engels, [1985](http://www.jstor.org/stable/295030), p. 304), circumference $C$, with $C=sum⋅2$ and radius $R$, with $R=\frac{C}{2\pi}$.				
-~~~
-				La	
-Zone				st		km		cum km
 
-Borealis	Saturn		25200		3969,0		3969,0
-Æstius		Jupiter		21000		3307,5		7276,5
+**Table 2**. Arc length $L_a$ from scrupula $sc$ to stades $st'$, with $st'=sc⋅4200$ (as noted by Petavius), from stades to $km$, where $km=st'⋅0.1575$ (*itinerary* stades, c.f. Engels, [1985](http://www.jstor.org/stable/295030), p. 304), circumference $C$, with $C=sum⋅2$ and radius $R$, with $R=\frac{C}{2\pi}$.
+~~~
+							La	
+Zone						sc		st'			km		cum km
+
+Borealis		Saturn		6,6		27720		4365,9	4365,9
+Æstivs			Jupiter		5		21000		3307,5	7673,4
+Æquinoctialis	Mars		8		33600		5292,0	12965,4
+Hiemalis		Venus		5		21000		3307,5	16272,9
+Australis		Mercury		5		21000		3307,5	19580,4
+Colliguntur					30		126000		19845,0	
+
+sum							29,6	124320,0	19580,4	
+Circumference C				59,2	248640,0	39160,8	
+Radius R					9,4		39572,3		6232,6
+~~~
+
+**Table 3**. Arc length $L_a$ from stades $st$ to $km$, where $km=st⋅0.1575$ (*itinerary* stades, c.f. Engels, [1985](http://www.jstor.org/stable/295030), p. 304), circumference $C$, with $C=sum⋅2$ and radius $R$, with $R=\frac{C}{2\pi}$.				
+~~~
+							La	
+Zone						st			km			cum km
+
+Borealis		Saturn		25200		3969,0		3969,0
+Æstius			Jupiter		21000		3307,5		7276,5
 Æquinoctialis	Mars		33600		5292,0		12568,5
-Hiemalis	Venus		21000		3307,5		15876,0
-Australis	Mercury		25200		3969,0		19845,0
-Colliguntur			126000		19845,0	
+Hiemalis		Venus		21000		3307,5		15876,0
+Australis		Mercury		25200		3969,0		19845,0
+Colliguntur					126000		19845,0	
 
-sum				126000		19845,0	
-Circumference C			252000		39690,0	
-Radius R			40107		6316,9
+sum							126000		19845,0	
+Circumference C				252000		39690,0	
+Radius R					40107		6316,9
 ~~~
 
-Table 4. Angle $\alpha°$ and latitude $\phi$, with $\alpha°=\frac{L_a⋅360}{2⋅r⋅\pi}$.
+**Table 4**. Angle $\alpha°$ and latitude $\phi$, with $\alpha°=\frac{L_a⋅360}{2⋅r⋅\pi}$.
 ~~~
-				angle			phi		
-unit		Zone		a°	a° cum		from		to	
+						angle				phi		
+unit		Zone		a°		a° cum		from		to	
 
 scrupula	Saturn		40,14	40,14		90,00 N		49,86 N
-		Jupiter		30,41	70,54		49,86 N		19,46 N
-		Mars		48,65	119,19		19,46 N		29,19 S
-		Venus		30,41	149,59		29,19 S		59,59 S
-		Mercury		30,41	180,00		59,59 S		90,00 S
+			Jupiter		30,41	70,54		49,86 N		19,46 N
+			Mars		48,65	119,19		19,46 N		29,19 S
+			Venus		30,41	149,59		29,19 S		59,59 S
+			Mercury		30,41	180,00		59,59 S		90,00 S
 
 stadia		Saturn		36,00	36,00		90,00 N		54,00 N
-		Jupiter		30,00	66,00		54,00 N		24,00 N
-		Mars		48,00	114,00		24,00 N		24,00 S
-		Venus		30,00	144,00		24,00 S		54,00 S
-		Mercury		36,00	180,00		54,00 S		90,00 S
+			Jupiter		30,00	66,00		54,00 N		24,00 N
+			Mars		48,00	114,00		24,00 N		24,00 S
+			Venus		30,00	144,00		24,00 S		54,00 S
+			Mercury		36,00	180,00		54,00 S		90,00 S
 ~~~
 
-Table 5. Zone height $h$ in $km$, with $h_n=r⋅\sin \alpha - h_{[n-1]}$.
+**Table 5**. Zone height $h$ in $km$, with $h_n=r⋅\sin \alpha - h_{[n-1]}$.
 ~~~
-		km	
-Zone		sc	sc'	st
+			km	
+Zone		sc		sc'		st
 
 Saturn		419,3	1467,6	1206,4
 Jupiter		768,2	2688,7	2541,2
