@@ -18,8 +18,8 @@ II	I	162	1122							-4378	Iared
 		165	1287							-4213	Enoch
 		167	1454							-4046	Mathusala
 III		188	1642							-3858	Lamech
-
 	II	500	2142							-3358	Noë
+
 		100	2242¹							-3258¹	Sem
 		135	2377¹							-3123¹	Arphaxad
 IV		130	2507¹							-2993¹	Cainan
