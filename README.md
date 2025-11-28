@@ -21,53 +21,53 @@ ALIAS HIPPARCH (this book is by *neither* of *them*), ON THE PHENOMENA OF ARATUS
 
 >About the Zones: Parallel to the circles there are five sub-zones: *The North*, which is entirely above the Earth, uninhabitable, sticky and dedicated to *Saturn*. *The Summer*, the greater part of which is emphasized above the limiter, is  the climate in which our region is located and attributed to *Jupiter*. *The equinoctial part*, having an equal part above and below the horizon, is uninhabitable, scorched and proper to *Mars*, for here it divides both, itself and the whole sphere in the middle. The greater part of *Winter*, in the contrary to Summer, is hidden below the horizon;  habitable;  temperate;  dedicated to *Venus*. *The South*, which is entirely hidden, uninhabitable and  cold is belonging to *Mercury*. Areas above the limiter of the earth are collected, 30 scruples, indeed 126000 stades.
 
-Zones in *arc length* $L_a$, resulting in half the circumference $\frac{C}{2}$, given in *scrupula* $sc$, *patens* $pt$ and *stadia* $st$ (c.f. Engels, [1985](http://www.jstor.org/stable/295030)).
+**Table 1**. Zones in *arc length* $L_a$, resulting in half the circumference $\frac{C}{2}$, given in *scrupula* $sc$, *patens* $pt$ and *stadia* $st$ (c.f. Engels, [1985](http://www.jstor.org/stable/295030)).
 ~~~				
-				La
-Zone				sc		pt		st
+								La
+Zone							sc			pt			st
 
-Borealis	Saturn		sexagesima	sex		25200
-Æstius		Jupiter		quinque				21000
-Æquinoctialis	Mars		octo				33600
-Hiemalis	Venus		quinque				21000
-Australis	Mercury		quinque				25200
-Colliguntur			30				126000
+Borealis		Saturn			sexagesima	sex			25200
+Æstius			Jupiter			quinque					21000
+Æquinoctialis	Mars			octo					33600
+Hiemalis		Venus			quinque					21000
+Australis		Mercury			quinque					25200
+Colliguntur						30						126000
 ~~~
 
 
 It should be noted that here the names of the *planets* are assigned to the *zones* of the Earth.
 For implications of the descriptions of the *arc lengths* $L_a$ in *scruples* $sc$ and *stades* $st$ see `petav_tab01`, Walker et al. ([2009](https://doi.org/10.1002/jqs.1227)) and Williams ([2024](https://nssdc.gsfc.nasa.gov/planetary/planetfact.html)).
 
-Excerpt from the *chronology* of Maximus, *S. MAXIMI COMPUTI*, which extends from the *Neolithic* period of 5500 BC until the early *Middle Ages* (833 AD, 912 AD, respectively).
+**Table 2**. Excerpt from the *chronology* of Maximus, *S. MAXIMI COMPUTI*, which extends from the *Neolithic* period of 5500 BC until the early *Middle Ages* (833 AD, 912 AD, respectively).
 ~~~
-per	mill	year			
-XI	VI	nat	S	AD	patriarch
+per		mill	year			
+XI		VI		nat		S		AD		patriarch
 
-		230	230	-5270	Adam annus natus erat
-		205	435	-5065	Seth
-I		190	625	-4875	Enos
-		170	795	-4705	Cainan
-		165	960	-4540	Malaleel
-II	I	162	1122	-4378	Iared
-		165	1287	-4213	Enoch
-		167	1454	-4046	Mathusala
-III		188	1642	-3858	Lamech
-	II	500	2142	-3358	Noë
-		:	:	:	:
-		7	4232	-1268	Essebon
-		10	4242	-1258	Aelon
-		8	4250	-1250	Abdon
-VIII		40	4290	-1210	Philistæi
-		20	4310	-1190	Sampson
-		40	4350	-1150	Interregni & pacis
-		20	4370	-1130	Heli sacerdos
-		:	:	:	:
-		17	5281	-219	Ptolemæus Philopator
-		23	5304	-196	Ptolemæus Epiphanes
-X		35	5339	-161	Ptolemæus Philometor
-		29	5368	-132	Ptolemæus Euergetes
-		16	5384	-116	Ptolemæus Physconis
-		:	:	:	:
+				230		230		-5270	Adam annus natus erat
+				205		435		-5065	Seth
+I				190		625		-4875	Enos
+				170		795		-4705	Cainan
+				165		960		-4540	Malaleel
+II		I		162		1122	-4378	Iared
+				165		1287	-4213	Enoch
+				167		1454	-4046	Mathusala
+III				188		1642	-3858	Lamech
+		II		500		2142	-3358	Noë
+				:		:		:		:
+				7		4232	-1268	Essebon
+				10		4242	-1258	Aelon
+				8		4250	-1250	Abdon
+VIII			40		4290	-1210	Philistæi
+				20		4310	-1190	Sampson
+				40		4350	-1150	Interregni & pacis
+				20		4370	-1130	Heli sacerdos
+				:		:		:		:
+				17		5281	-219	Ptolemæus Philopator
+				23		5304	-196	Ptolemæus Epiphanes
+X				35		5339	-161	Ptolemæus Philometor
+				29		5368	-132	Ptolemæus Euergetes
+				16		5384	-116	Ptolemæus Physconis
+				:		:		:		:
 ~~~
 See `petav_tab02`, `petav_tab03`, `petav_tab04`, Maximus ([n.d.](https://digi.vatlib.it/view/MSS_Vat.gr.505), fol. 240r-241r), Schissel ([1934](http://www.jstor.org/stable/44168086), p. 270) and also Schneider ([1952](http://www.jstor.org/stable/42618775), p. 519 ff.), Pinches ([1911](http://www.jstor.org/stable/25189899)) or Frayne ([1997](http://www.jstor.org/stable/10.3138/j.ctt13x1qkz), [2021](https://books.google.com/books?id=dfi9zgEACAAJ)).
 
