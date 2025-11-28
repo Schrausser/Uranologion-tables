@@ -5,13 +5,13 @@
 >The world is a structure of heaven and earth, connected by the natures contained in both.
 The Universe is that what all things, except itself containing, are.
 
-Table 1. The *structure* of the *world* or the *cosmos* (mundo, Κοσμόϛ), c.f. Flammarion ([1888](https://archive.org/details/McGillLibrary-125043-2586/page/n175/mode/2up), p. 163).
+**Table 1**. The *structure* of the *world* or the *cosmos* (mundo, Κοσμόϛ), c.f. Flammarion ([1888](https://archive.org/details/McGillLibrary-125043-2586/page/n175/mode/2up), p. 163).
 ~~~
-compages ex		substantia		communicatum		compactum
+compages ex			substantia			communicatum		compactum
 
-Caelum, Coelum		Æther (αίθήρ)					lumen (Φωτεινή)
-(ούρανός)					calor (θερμή)	
-			Aër (άήρ)			
+Caelum, Coelum		Æther (αίθήρ)							lumen (Φωτεινή)
+(ούρανός)								calor (θερμή)	
+					Aër (άήρ)			
 Terra			
 (γής)			
 ~~~
@@ -22,39 +22,39 @@ EX aquis, que in terra sunt, exhalationes oriri dicuntur: quarū altera est humi
 >About those things which are seen in the sublime.
 It is said that vapors arise from the waters contained in the earth - one of them is moist and hazy, the other is dry and smoky.
 
-Table 2. Sublime effects from the *waters* (aquis, ύδά) in the *earth* (terra, γής), c.f. `petav_tr01`.
+**Table 2**. Sublime effects from the *waters* (aquis, ύδά) in the *earth* (terra, γής), c.f. `petav_tr01`.
 ~~~										
-exhalationes											Aër (άήρ)			ex æthere allapsus	in terras irorans
+exhalationes																				Aër (άήρ)					ex æthere allapsus		in terras irorans
 
-humida &			coacta nubes			
-				mutata pluvias			
-				efficit imbres & ventos			
+humida &					coacta nubes			
+							mutata pluvias			
+							efficit imbres & ventos			
 					
-vapida				nebula nubes aquarum sterilis			
-				Caligo, atra nubes, & plena			
-				Serenitas							innubis, & liquidus		
-				Obscuritas							densitas incomposita		
-				χνηχις, nubes tenuissima, humore vacua			
-				Ros (δρόσος)											humor puriori	
-				Stilla															aqua
-				Pluuia, stilla densior, & iugis			
-				Imber, exiguæ collectiones aquarum è nube mutatione factæ			
-				Glacies, aqua concreta			
-				Pruina ros			
-				Nix pluuiarum, stilla in nubæ concretâ			
-				νιΦας, nix tenuiter cadens			
-				Grando, imber concretus			
+vapida						nebula nubes aquarum sterilis			
+							Caligo, atra nubes, & plena			
+							Serenitas														innubis, & liquidus		
+							Obscuritas														densitas incomposita		
+							χνηχις, nubes tenuissima, humore vacua			
+							Ros (δρόσος)																				humor puriori	
+							Stilla																												aqua
+							Pluuia, stilla densior, & iugis			
+							Imber, exiguæ collectiones aquarum è nube mutatione factæ			
+							Glacies, aqua concreta
+							Pruina ros			
+							Nix pluuiarum, stilla in nubæ concretâ			
+							νιΦας, nix tenuiter cadens			
+							Grando, imber concretus			
 					
 sicca & fumida	frigore		efficit ventos 			
 					
-		inflammata	fulmina			
-				turbines igneus			
-				typhones			
-				solutior: ecnephias			
-				Cæterum: fulmen, prester & typhon incumbens σχηπτός			
+				inflammata	fulmina			
+							turbines igneus			
+							typhones			
+							solutior: ecnephias			
+							Cæterum: fulmen, prester & typhon incumbens σχηπτός			
 ~~~
 
->"Ros est humor puriori allapsus ex æthere [...] ", (Petavius, [1630](https://doi.org/10.3931/e-rara-2004), p. 261).
+>"Ros est humor puriori alapsus ex æthere [...] ", (Petavius, [1630](https://doi.org/10.3931/e-rara-2004), p. 261).
 
 >Dew is pure moisture falling out from the ether, [...]
 
